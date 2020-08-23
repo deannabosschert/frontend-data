@@ -51,7 +51,7 @@ _What does your app do, what is the goal? (passing butter)_
 ## ⚙️ Installation
 Clone this repository to your own device:
 ```bash
-$ git clone https://github.com/deannabosschert/[folder].git
+$ git clone https://github.com/deannabosschert/frontend-data-2021.git
 ```
 Then, navigate to this folder and run:
 
@@ -60,15 +60,7 @@ Then, navigate to this folder and run:
 npm install
 ```
 
-Last,
-
-When it's a serverless project (without NodeJS),
-
-```bash
-python -m SimpleHTTPServer 8000`
-```
-
-If not,
+To run the results:
 
 ```bash
 npm run dev
@@ -166,14 +158,14 @@ Goal: xxx
 
 ### Rubric
 
-[Rubric- detailed rating of my project](https://github.com/deannabosschert/course/wiki/Rubric)
-![rubric](https://github.com/deannabosschert/course/blob/master/src/img/rubric.png)
+[Rubric- detailed rating of my project](https://github.com/deannabosschert/frontend-data-2021/wiki/Rubric)
+![rubric](https://github.com/deannabosschert/frontend-data-2021/blob/master/src/img/rubric.png)
 
 ## ℹ️ Resources
 
 ### Credits
 
-- Our superamazingteachers at the [minor WebDev @CMD](https://github.com/course/)
+- Our superamazingteachers at the [minor WebDev @CMD](https://github.com/cmda-tt/)
 
 ### Small inspiration sources
 
@@ -183,5 +175,5 @@ Goal: xxx
 ## 🗺️ License
 
 Author: [Deanna Bosschert](https://github.com/deannabosschert) , license by
-[MIT](https://github.com/deannabosschert/project/blob/master/LICENSE)
+[MIT](https://github.com/deannabosschert/frontend-data-2021/blob/master/LICENSE)
 
