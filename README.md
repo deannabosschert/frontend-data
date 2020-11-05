@@ -1,4 +1,4 @@
-## Course name
+## Frontend Data 20-21
 
 # Project title
 
