@@ -1,0 +1,47 @@
+{
+  "name": "frontend-data",
+  "version": "1.0.0",
+  "description": "Course in the Tech Track of CMD's Information Design semester, focused on frontend data.",
+  "scripts": {
+    "predev": "rimraf _site",
+    "dev:eleventy": "npx @11ty/eleventy --formats=html,njk,ejs,gif,jpg,png,css --serve --port=3000",
+    "dev:css": "sass --watch assets/scss:_site/assets/css/",
+    "dev": "cross-env ELEVENTY_ENV=development run-p dev:*",
+    "debug": "DEBUG=* eleventy",
+    "prebuild": "rimraf _site",
+    "build": "cross-env ELEVENTY_ENV=production run-s build:*",
+    "build:eleventy": "eleventy",
+    "build:css": "node-sass --importer node_modules/node-sass-glob-importer/dist/cli.js assets/scss/index.scss _site/assets/css/index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deannabosschert/frontend-data.git"
+  },
+  "keywords": [],
+  "author": "Deanna Bosschert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deannabosschert/frontend-data/issues"
+  },
+  "homepage": "https://github.com/deannabosschert/frontend-data#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "cross-env": "^7.0.2",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mkdirp": "^0.5.1",
+    "node-fetch": "^2.6.1",
+    "node-sass": "^4.14.1",
+    "node-sass-glob-importer": "^5.3.2",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "d3": "^5.16.0",
+    "d3-fetch": "^2.0.0",
+    "nodemon": "^2.0.2",
+    "rgb-hex": "^3.0.0"
+  }
+}

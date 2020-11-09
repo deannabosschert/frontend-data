@@ -1,0 +1,13 @@
+<html lang="en">
+<head>
+  {% include "_head.html" %}
+</head>
+<body>
+  {% include "_header.html" %}
+  <main>
+    {{ content | safe }}
+  </main>
+  <a class="backToTop" href="#top">Back to top</a>
+  {% include "_footer.html" %}
+</body>
+</html>
