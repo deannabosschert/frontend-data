@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # 📈 [Rubric Frontend Data](https://github.com/cmda-tt/course-20-21/blob/master/pages/frontend-data/assessment.md)
-![screenshot of frontend data rubric](https://cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com/media/8774/iioLqx7iOgMg6w9b8M4z1Z5N4yNMowGC58JXpz3G.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5MF2VVMNIDEEYCNL%2F20201109%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20201109T152508Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=8bc54e5e1baf3019178eb0e78f7e4e5127c06922954dd68bf3d1e49da95fe635)
+![screenshot of frontend data rubric](https://cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com/media/8774/iioLqx7iOgMg6w9b8M4z1Z5N4yNMowGC58JXpz3G.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5MF2VVMNIDEEYCNL%2F20201112%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20201112T091912Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=0a137b6398b5579dc4322eb5904316c3df04d190df5f7454daf5ba6eee7325eb)
 
 Please use the legenda below to assign the values to the criteria (example-filled already)
 
