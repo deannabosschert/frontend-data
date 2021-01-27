@@ -12,9 +12,7 @@ const API = {
       d3.json(source)
         // .then(res => store.set(res))
         .then(data => {
-          // console.log(data)
           resolve(data)
-          // return data
         })
         .catch(err => {
           reject(console.log(err))

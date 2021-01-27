@@ -7,6 +7,22 @@ import {
 import {
   renderGraph
 } from "./modules/renderGraph.js"
+import {
+  exitNotPossible
+} from "./modules/lib/check-exit-possible.js"
+import {
+  seeArrayLength
+} from "./modules/lib/see-array-length.js"
+import {
+  mapDataPO
+} from "./modules/static/map-data-po.js"
+import {
+  mapDataTV
+} from "./modules/static/map-data-tv.js"
+import {
+  mapDataGR
+} from "./modules/static/map-data-gr.js"
+
 let renderData;
 
 
@@ -18,19 +34,23 @@ let renderData;
     // eerst async de drie datasets getten en cleanen, dan renderen.
     try {
       const cleanData1 = await getData.parking("parkingOpen") // wait for parking-open data
-        .then(data => mapData(data)) // clean data
+        .then(data => mapDataPO(data)) // clean data
         .then(data => exitNotPossible(data)) // filter data
         .then(data => checkOpeningTimes(data)) // filter data 2
-        .then(data => seeLength(data));
+        .then(data => seeArrayLength(data));
 
       const cleanData2 = await getData.parking("parkingTijdvak") // wait for tijdvak data
-      .then(data => seeLength(data));
+      .then(data => mapDataTV(data)) // clean data
+      .then(data => seeArrayLength(data));
       
       const cleanData3 = await getData.parking("gebiedRegeling") // wait for gebied-regeling data
-      .then(data => seeLength(data));
+      .then(data => mapDataGR(data)) // clean data
+      .then(data => seeArrayLength(data));
+      
 
 
-      return renderData = await renderGraph.barz(cleanData1, cleanData2, cleanData3) // collect previous data, then render graphs.
+      return renderData = await combineData(cleanData1, cleanData2, cleanData3)  // collect previous data, then render graphs.
+      .then(data => renderGraph.barz(data))
         .then(() => loadingState(''));
 
 
@@ -40,25 +60,19 @@ let renderData;
   })()
 })()
 
+function combineData(cleanData1, cleanData2, cleanData3) {
+  return new Promise((resolve, reject) => {
+  const data = {
+    parkingOpen: cleanData1,
+    parkingTijdvak: cleanData2,
+    gebiedRegeling: cleanData3
+  }
 
-function mapData(data) {
-  return data.map(item => ({
-    AreaId: item.AreaId,
-    AreaManagerId: item.AreaManagerId,
-    OpenAllYear: item.OpenAllYear,
-    ExitPossibleAllDay: item.ExitPossibleAllDay
-  }))
+  resolve(data)
+})
+
 }
 
-function exitNotPossible(data) {
-  // console.log("Retrieved " + data.length + " records.")
-  return data.filter(item => item.ExitPossibleAllDay == 0)
-}
-
-function seeLength(data) {
-  console.log("Retrieved " + data.length + " records.")
-  return data
-}
 
 
 
