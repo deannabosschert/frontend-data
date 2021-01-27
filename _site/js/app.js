@@ -62,7 +62,7 @@ let renderData;
 
 function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
   // console.log(parkingOpen_1) // 127 records
-  console.log(gebiedRegeling_3[80]) // 12276 records
+  // console.log(gebiedRegeling_3[800]) // 12276 records
 
 
   const result = gebiedRegeling_3.map(regeling => {
@@ -85,28 +85,32 @@ function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
     //   }
     // }
     // return {AreaId: regeling.AreaId}
-// const ding = regeling.RegulationId
-// if (ding !== undefined){
-//   console.log('yeet')
-// }
-    for (let entry of parkingOpen_1) {
-      if (entry.AreaId == regeling.AreaId && entry.AreaManagerId == regeling.AreaManagerId) {
-        const testyeet = {
-          AreaId: entry.AreaId,
-          AreaManagerId: entry.AreaManagerId,
-          OpenAllYear: entry.OpenAllYear,
-          ExitPossibleAllDay: entry.ExitPossibleAllDay,
-          RegulationId: regeling.RegulationId
+
+    for (let parking of parkingOpen_1) {
+      if (parking.AreaId == regeling.AreaId && parking.AreaManagerId == regeling.AreaManagerId) {
+        return {
+          AreaId: regeling.AreaId,
+          AreaManagerId: regeling.AreaManagerId,
+          RegulationId: regeling.RegulationId,
+          OpenAllYear: parking.OpenAllYear,
+          ExitPossibleAllDay: parking.ExitPossibleAllDay
         }
-        return testyeet
+      } 
+      // console.log(parking)
+      const parkingData = {
+        AreaId: regeling.AreaId,
+        AreaManagerId: regeling.AreaManagerId,
+        RegulationId: regeling.RegulationId,
+        OpenAllYear: parking.OpenAllYear,
+        ExitPossibleAllDay: parking.ExitPossibleAllDay
       }
-      // return testy eet
-      const esketit = {AreaId: regeling.AreaId}
       // console.log(esketit)
-      return esketit
+      return parkingData
     }
 
-console.log(testyeet)
+
+
+    // console.log(testyeet)
     // const testen = {
     //   AreaId: regeling.AreaId,
     //   AreaManagerId: regeling.AreaManagerId,
@@ -124,7 +128,8 @@ console.log(testyeet)
     // return regeling.AreaId == "1742_DHW"
   });
 
-  console.log(result[80])
+  // const result2 =
+  console.log(result)
 
 
   // console.log(gebiedRegeling_3)
