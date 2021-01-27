@@ -7,7 +7,7 @@ import {
 import {
   renderGraph
 } from "./modules/renderGraph.js"
-let cleanData;
+let renderData;
 
 
 
@@ -15,44 +15,55 @@ let cleanData;
   (async () => {
     loadingState('active')
 
-    // eerst getten en cleanen in deze trycatch, dan renderen.
+    // eerst async de drie datasets getten en cleanen, dan renderen.
     try {
-      return cleanData = await getData.parking() // wait for data
+      const cleanData1 = await getData.parking("parkingOpen") // wait for parking-open data
         .then(data => mapData(data)) // clean data
-        .then(data => renderGraph.barz(data)) // render data
-        .then(() => loadingState(''))
+        .then(data => exitNotPossible(data)) // filter data
+        .then(data => checkOpeningTimes(data)) // filter data 2
+        .then(data => seeLength(data));
 
-      return renderData = await renderGraph.barz() // wait for data
-        .then(data => mapData(data)) // get usable data
-      // .then(data => exitNotPossible(data)) // filter data
-      // .then(data => checkOpeningTimes(data))
-      // .then(data => renderGraph())
+      const cleanData2 = await getData.parking("parkingTijdvak") // wait for tijdvak data
+      .then(data => seeLength(data));
+      
+      const cleanData3 = await getData.parking("gebiedRegeling") // wait for gebied-regeling data
+      .then(data => seeLength(data));
+
+
+      return renderData = await renderGraph.barz(cleanData1, cleanData2, cleanData3) // collect previous data, then render graphs.
+        .then(() => loadingState(''));
+
+
     } catch (err) {
       console.error(err)
     }
   })()
 })()
 
+
 function mapData(data) {
-console.log(data)
+  return data.map(item => ({
+    AreaId: item.AreaId,
+    AreaManagerId: item.AreaManagerId,
+    OpenAllYear: item.OpenAllYear,
+    ExitPossibleAllDay: item.ExitPossibleAllDay
+  }))
 }
 
-// function mapData(data) {
-//   return data.map(item => ({
-//     AreaId: item.AreaId,
-//     AreaManagerId: item.AreaManagerId,
-//     OpenAllYear: item.OpenAllYear,
-//     ExitPossibleAllDay: item.ExitPossibleAllDay
-//   }))
-// }
-
 function exitNotPossible(data) {
-  console.log("Retrieved " + data.length + " records.")
+  // console.log("Retrieved " + data.length + " records.")
   return data.filter(item => item.ExitPossibleAllDay == 0)
 }
 
+function seeLength(data) {
+  console.log("Retrieved " + data.length + " records.")
+  return data
+}
+
+
 
 function checkOpeningTimes(data) {
+  console.log(data)
   return data
 
   // console.log("Retrieved " + data.length + " records.")
