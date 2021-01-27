@@ -2,9 +2,9 @@ const renderGraph = {
     barz: (data) => {
         return new Promise((resolve, reject) => {
             console.log("render the yeets")
-            console.log(data.parkingOpen[0])
-            console.log(data.parkingTijdvak[0])
-            console.log(data.gebiedRegeling[0])
+            // console.log(data.parkingOpen[0])
+            // console.log(data.parkingTijdvak[0])
+            // console.log(data.gebiedRegeling[0])
 
             d3
                 .select(".target") // select the elements that have the class 'target'

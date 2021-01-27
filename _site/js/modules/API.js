@@ -1,6 +1,6 @@
 import {
-  store
-} from "./store.js"
+  storeData
+} from "./storeData.js"
 
 
 const API = {
@@ -10,7 +10,7 @@ const API = {
     // const parkingopenurl = `https://opendata.rdw.nl/resource/${query}.json?&$$app_token=${appToken}`
     return new Promise((resolve, reject) => {
       d3.json(source)
-        // .then(res => store.set(res))
+        // .then(res => storeData.set(res))
         .then(data => {
           resolve(data)
         })
@@ -20,7 +20,7 @@ const API = {
     })
   },
   local: () => {
-    const data = store.get()
+    const data = storeData.get()
     console.log(data)
     return data
   }
