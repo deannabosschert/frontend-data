@@ -1,5 +1,5 @@
 require('dotenv').config()
-const getData = require('lib//get-rdw-data.js')
+const getData = require('../lib/lib/get-rdw-data.js')
 // const query = "figd-gux7" // exitpossibleallday, use this query when switching to fetching data from API
 // const limit = 2
 // const appToken = process.env.APP_TOKEN
