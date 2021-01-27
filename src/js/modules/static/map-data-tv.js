@@ -1,7 +1,7 @@
 export function mapDataTV(data) {
   return data.map(item => ({
     AreaManagerId: item.AreaManagerId,
-    RegulationID: item.RegulationId,
+    RegulationId: item.RegulationId,
     StartDateTimeFrame: item.StartDateTimeFrame,
     EndDateTimeFrame: item.EndDateTimeFrame,
     DayTimeFrame: item.DayTimeFrame,

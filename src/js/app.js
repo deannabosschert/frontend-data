@@ -61,6 +61,71 @@ let renderData;
 })()
 
 function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
+  // console.log(parkingOpen_1) // 127 records
+  console.log(gebiedRegeling_3[80]) // 12276 records
+
+
+  const result = gebiedRegeling_3.map(regeling => {
+    // console.log(regeling)
+
+    // for (element of parkingOpen_1) {
+    //   if (element.AreaID == regeling.AreaId) {
+    //     return {
+    //       AreaID: element.AreaId,
+    //       AreaManagerId: element.AreaManagerId,
+    //       OpenAllYear: element.OpenAllYear,
+    //       ExitPossibleAllDay: element.ExitPossibleAllDay
+    //     }
+    //   }}
+
+    // let word = regeling.AreaId
+    // for (color of htmlcolors) {
+    //   if (color.NL == word || color.EN == word) {
+    //     return {AreaId: color.AreaId}
+    //   }
+    // }
+    // return {AreaId: regeling.AreaId}
+// const ding = regeling.RegulationId
+// if (ding !== undefined){
+//   console.log('yeet')
+// }
+    for (let entry of parkingOpen_1) {
+      if (entry.AreaId == regeling.AreaId && entry.AreaManagerId == regeling.AreaManagerId) {
+        const testyeet = {
+          AreaId: entry.AreaId,
+          AreaManagerId: entry.AreaManagerId,
+          OpenAllYear: entry.OpenAllYear,
+          ExitPossibleAllDay: entry.ExitPossibleAllDay,
+          RegulationId: regeling.RegulationId
+        }
+        return testyeet
+      }
+      // return testy eet
+      const esketit = {AreaId: regeling.AreaId}
+      // console.log(esketit)
+      return esketit
+    }
+
+console.log(testyeet)
+    // const testen = {
+    //   AreaId: regeling.AreaId,
+    //   AreaManagerId: regeling.AreaManagerId,
+    //   OpenAllYear: regeling.OpenAllYear,
+    //   ExitPossibleAllDay: regeling.ExitPossibleAllDay,
+    //   RegulationId: regeling.RegulationId
+    // }
+
+    // if (testen.ExitPossibleAllDay != undefined) {
+    // console.log(testen.ExitPossibleAllDay)
+    // }
+    // console.table(testen)
+
+
+    // return regeling.AreaId == "1742_DHW"
+  });
+
+  console.log(result[80])
+
 
   // console.log(gebiedRegeling_3)
   // const matches = gebiedRegeling_3.map(ding => {
