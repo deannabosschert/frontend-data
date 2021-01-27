@@ -198,15 +198,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 119,
-    "AreaId": "119_KEYS",
-    "StartOfPeriod": 20141101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 381,
     "AreaId": "381_NWBR",
     "StartOfPeriod": 20141101000000,
@@ -279,6 +270,15 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 715,
+    "AreaId": "715_CPBHVN",
+    "StartOfPeriod": 20200612131544,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 513,
     "AreaId": "513_VOSSEN",
     "StartOfPeriod": 20141101000000,
@@ -315,19 +315,10 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 796,
-    "AreaId": "796_CPVEG",
-    "StartOfPeriod": 20191015151807,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 614,
-    "AreaId": "2ESLAG",
-    "StartOfPeriod": 20200107095005,
-    "PeriodName": "",
+    "AreaManagerId": 355,
+    "AreaId": "355_PRZEI",
+    "StartOfPeriod": 20200612135924,
+    "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
@@ -375,15 +366,6 @@
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 614,
-    "AreaId": "1ESLAG",
-    "StartOfPeriod": 20200107094959,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
@@ -702,9 +684,9 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 513,
-    "AreaId": "SECTOR_5",
-    "StartOfPeriod": 20170410120252,
+    "AreaManagerId": 281,
+    "AreaId": "281_PRSTAT",
+    "StartOfPeriod": 20200612144110,
     "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -732,6 +714,15 @@
     "AreaManagerId": 2449,
     "AreaId": "363_P3VU",
     "StartOfPeriod": 20141101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2449,
+    "AreaId": "14_EBORG",
+    "StartOfPeriod": 20161221171955,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -1089,6 +1080,24 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 995,
+    "AreaId": "995_CPLEL",
+    "StartOfPeriod": 20150601000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 995,
+    "AreaId": "995_CPLNO",
+    "StartOfPeriod": 20150601000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 141,
     "AreaId": "141_HDEK",
     "StartOfPeriod": 20141101000000,
@@ -1125,6 +1134,42 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 2448,
+    "AreaId": "599_ZUIDPL",
+    "StartOfPeriod": 20160520122555,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "505_MARK",
+    "StartOfPeriod": 20160720163319,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "917_TELEP",
+    "StartOfPeriod": 20160701111317,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "518_LAAK",
+    "StartOfPeriod": 20160616111521,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 141,
     "AreaId": "141_JAVA",
     "StartOfPeriod": 20141101000000,
@@ -1152,12 +1197,30 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 513,
-    "AreaId": "SECTOR_4",
-    "StartOfPeriod": 20170410112711,
-    "PeriodName": "Klein Amerika 24/7",
+    "AreaManagerId": 80,
+    "AreaId": "80_ZAAI",
+    "StartOfPeriod": 20170323141812,
+    "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 80,
+    "AreaId": "80_HOEK",
+    "StartOfPeriod": 20170323135422,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 80,
+    "AreaId": "80_OLDE",
+    "StartOfPeriod": 20170323141632,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
     "EndOfPeriod": ""
   },
   {
@@ -1179,30 +1242,84 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 513,
-    "AreaId": "513_STAT",
-    "StartOfPeriod": 20170410104143,
-    "PeriodName": "Garage station 24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 513,
-    "AreaId": "SECTOR_6",
-    "StartOfPeriod": 20170410115602,
-    "PeriodName": "Vossenburchkade 24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 983,
-    "AreaId": "983_MAASKH",
-    "StartOfPeriod": 20200713121044,
+    "AreaManagerId": 80,
+    "AreaId": "80_OOST",
+    "StartOfPeriod": 20170509102842,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
-    "OpenAllYear": "",
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 80,
+    "AreaId": "80_KLAN",
+    "StartOfPeriod": 20170509102754,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 141,
+    "AreaId": "141_HKEL",
+    "StartOfPeriod": 20170608145832,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 153,
+    "AreaId": "153_STAT",
+    "StartOfPeriod": 20170613103248,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 153,
+    "AreaId": "153_BROU",
+    "StartOfPeriod": 20170613104040,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 153,
+    "AreaId": "010106",
+    "StartOfPeriod": 20170613090812,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 153,
+    "AreaId": "153_PRZUI",
+    "StartOfPeriod": 20170613105600,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 153,
+    "AreaId": "153_MOO",
+    "StartOfPeriod": 20170613102309,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 153,
+    "AreaId": "153_IRE",
+    "StartOfPeriod": 20170613102925,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
@@ -1215,6 +1332,24 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 153,
+    "AreaId": "153_HEEK",
+    "StartOfPeriod": 20170613100013,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 193,
+    "AreaId": "193_ROIJ",
+    "StartOfPeriod": 20171114132541,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 2459,
     "AreaId": "599_BLAA",
     "StartOfPeriod": 20141101000000,
@@ -1224,9 +1359,117 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 1930,
+    "AreaId": "1930_BOEK",
+    "StartOfPeriod": 20161003155951,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1930,
+    "AreaId": "1930_KOLK",
+    "StartOfPeriod": 20161003160219,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1930,
+    "AreaId": "1930_CITY",
+    "StartOfPeriod": 20161003160130,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 189,
+    "AreaId": "189_CARP2",
+    "StartOfPeriod": 20171123142838,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1930,
+    "AreaId": "1930_STAD",
+    "StartOfPeriod": 20161003160303,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 189,
+    "AreaId": "189_CARP1",
+    "StartOfPeriod": 20171123142833,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1930,
+    "AreaId": "1930_THEA",
+    "StartOfPeriod": 20161003160012,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 189,
+    "AreaId": "189_CARP",
+    "StartOfPeriod": 20171123142827,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 200,
+    "AreaId": "200_BRIN",
+    "StartOfPeriod": 20171121162837,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 2459,
     "AreaId": "518_WIJN",
     "StartOfPeriod": 20141101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 200,
+    "AreaId": "200_MARK",
+    "StartOfPeriod": 20171121162805,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 200,
+    "AreaId": "200_KONI",
+    "StartOfPeriod": 20171121162733,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 177,
+    "AreaId": "177HTSCP",
+    "StartOfPeriod": 20171208164934,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 0,
@@ -1242,12 +1485,75 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 268,
+    "AreaId": "268_EIERM",
+    "StartOfPeriod": 20171117153505,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 796,
+    "AreaId": "796_PAL",
+    "StartOfPeriod": 20180125101908,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 2460,
     "AreaId": "957_KAPL",
     "StartOfPeriod": 20141101000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 796,
+    "AreaId": "796_WOLV",
+    "StartOfPeriod": 20180125101759,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 796,
+    "AreaId": "796_STAT",
+    "StartOfPeriod": 20180125102141,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 796,
+    "AreaId": "796_JOSE",
+    "StartOfPeriod": 20180125101957,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 796,
+    "AreaId": "796_STJAN",
+    "StartOfPeriod": 20180125101738,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 34,
+    "AreaId": "34_BROOK",
+    "StartOfPeriod": 20180308154603,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
@@ -1443,6 +1749,51 @@
     "AreaManagerId": 613,
     "AreaId": "613_PRRHO",
     "StartOfPeriod": 20150601000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "935_SPHINX",
+    "StartOfPeriod": 20190903120405,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "425_SLOCHT",
+    "StartOfPeriod": 20160720163024,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "193_MAAG",
+    "StartOfPeriod": 20160525100524,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "402_SILVER",
+    "StartOfPeriod": 20160613162220,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "344_LAVIE",
+    "StartOfPeriod": 20160526154224,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -1836,15 +2187,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2461,
-    "AreaId": "622_HOOG",
-    "StartOfPeriod": 20200221083229,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 758,
     "AreaId": "758_CPULV",
     "StartOfPeriod": 20150601000000,
@@ -1989,15 +2331,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2461,
-    "AreaId": "622_BADHST",
-    "StartOfPeriod": 20200221081037,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 502,
     "AreaId": "502_PRSLO",
     "StartOfPeriod": 20150601000000,
@@ -2019,15 +2352,6 @@
     "AreaManagerId": 213,
     "AreaId": "213_PRVOO",
     "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2461,
-    "AreaId": "622_STAD",
-    "StartOfPeriod": 20200221094516,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -2169,15 +2493,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2582,
-    "AreaId": "P2_AIRPPL",
-    "StartOfPeriod": 20200225140751,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 736,
     "AreaId": "736_CPABC",
     "StartOfPeriod": 20150601000000,
@@ -2277,6 +2592,15 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 995,
+    "AreaId": "995_ZILV",
+    "StartOfPeriod": 20170615144155,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 1921,
     "AreaId": "1921_CPSNO",
     "StartOfPeriod": 20150601000000,
@@ -2292,6 +2616,15 @@
     "PeriodName": "",
     "ExitPossibleAllDay": 0,
     "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 995,
+    "AreaId": "995_P6",
+    "StartOfPeriod": 20170615144509,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
@@ -2673,15 +3006,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 794,
-    "AreaId": "794_CPBAK",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 1911,
     "AreaId": "1911_PRSTA",
     "StartOfPeriod": 20150601000000,
@@ -2709,15 +3033,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 794,
-    "AreaId": "794_PRBRA",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 1690,
     "AreaId": "1690_CPWEE",
     "StartOfPeriod": 20150601000000,
@@ -2729,24 +3044,6 @@
   {
     "AreaManagerId": 534,
     "AreaId": "534_PRPAR",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 794,
-    "AreaId": "794_PRBRO",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 794,
-    "AreaId": "794_PRHOU",
     "StartOfPeriod": 20150601000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
@@ -2772,6 +3069,15 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 153,
+    "AreaId": "153_CPENS",
+    "StartOfPeriod": 20200612144852,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 794,
     "AreaId": "794_CPHEL",
     "StartOfPeriod": 20150601000000,
@@ -2784,15 +3090,6 @@
     "AreaManagerId": 399,
     "AreaId": "399_PRHEI",
     "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 828,
-    "AreaId": "828_OOST",
-    "StartOfPeriod": 20141101000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -3150,66 +3447,399 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2582,
-    "AreaId": "P6_AIRPPL",
-    "StartOfPeriod": 20200225140005,
+    "AreaManagerId": 828,
+    "AreaId": "828_PRRAV",
+    "StartOfPeriod": 20200612130427,
     "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2582,
-    "AreaId": "P3_FAIROA",
-    "StartOfPeriod": 20200225095144,
+    "AreaManagerId": 2199,
+    "AreaId": "1904_BREUW",
+    "StartOfPeriod": 20180101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 716,
+    "AreaId": "716_CPTHO",
+    "StartOfPeriod": 20160120000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 24,
+    "AreaId": "24_CPHUI",
+    "StartOfPeriod": 20160204000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1740_PRNED",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 175,
+    "AreaId": "175_CPOMM",
+    "StartOfPeriod": 20160127000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1895,
+    "AreaId": "1895_CPSCH",
+    "StartOfPeriod": 20160127000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "637_PRZOE2",
+    "StartOfPeriod": 20160114000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "18_PRSAP",
+    "StartOfPeriod": 20160205000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "637_PRZOE1",
+    "StartOfPeriod": 20160114000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1700_PRVRO",
+    "StartOfPeriod": 20160208000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1731,
+    "AreaId": "1731_CPHOO",
+    "StartOfPeriod": 20160201000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "632_PRWOER",
+    "StartOfPeriod": 20180101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 809,
+    "AreaId": "809_CPLOZ",
+    "StartOfPeriod": 20160204000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "703_PRKRY",
+    "StartOfPeriod": 20160122000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 294,
+    "AreaId": "294_PR2WIN",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1731,
+    "AreaId": "1731_CPSPI",
+    "StartOfPeriod": 20160201000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1930_BERNH",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1952,
+    "AreaId": "1952_CPZUI",
+    "StartOfPeriod": 20180118000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "632_SPOOR",
+    "StartOfPeriod": 20150601000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1708,
+    "AreaId": "1708_CPVOL",
+    "StartOfPeriod": 20160120000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 935,
+    "AreaId": "935_PRMNO",
+    "StartOfPeriod": 20200228105202,
     "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2582,
-    "AreaId": "P10_FAIROA",
-    "StartOfPeriod": 20200225094131,
+    "AreaManagerId": 1676,
+    "AreaId": "1676_CPZIE",
+    "StartOfPeriod": 20200626153542,
     "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2582,
-    "AreaId": "P1_AIRPBN",
-    "StartOfPeriod": 20200225141331,
+    "AreaManagerId": 1676,
+    "AreaId": "1676_CPSER",
+    "StartOfPeriod": 20200626153531,
     "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2582,
-    "AreaId": "P1A_AIRPBN",
-    "StartOfPeriod": 20200225141120,
+    "AreaManagerId": 1676,
+    "AreaId": "1676_PRREN",
+    "StartOfPeriod": 20200626153551,
     "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 917,
+    "AreaId": "917_PRHOE",
+    "StartOfPeriod": 20200606222408,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 439,
+    "AreaId": "439_PRBEA",
+    "StartOfPeriod": 20150601000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 439,
+    "AreaId": "439_PRWIL",
+    "StartOfPeriod": 20150601000000,
+    "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
     "AreaManagerId": 34,
-    "AreaId": "34_FLORIDA",
-    "StartOfPeriod": 20200713113652,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": "",
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 141,
-    "AreaId": "141_SERF3",
-    "StartOfPeriod": 20200713135614,
+    "AreaId": "34_P8",
+    "StartOfPeriod": 20200708165930,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 988,
+    "AreaId": "988_KROM",
+    "StartOfPeriod": 20200701155912,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2453,
+    "AreaId": "80_B2",
+    "StartOfPeriod": 20200701113237,
+    "PeriodName": "Dagelijks 11:30 tot 04:00",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 392,
+    "AreaId": "392_DRE",
+    "StartOfPeriod": 20200706133641,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 988,
+    "AreaId": "988_CENT",
+    "StartOfPeriod": 20200701155628,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2533,
+    "AreaId": "307_SPO",
+    "StartOfPeriod": 20200701154823,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 938,
+    "AreaId": "938_PROO",
+    "StartOfPeriod": 20200701114005,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1674,
+    "AreaId": "1674_ROSE",
+    "StartOfPeriod": 20200701113640,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2453,
+    "AreaId": "80_B1",
+    "StartOfPeriod": 20200706110416,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 794,
+    "AreaId": "794_DOOR",
+    "StartOfPeriod": 20200701131023,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 988,
+    "AreaId": "988_STAD",
+    "StartOfPeriod": 20200703083949,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 794,
+    "AreaId": "794_BOSC",
+    "StartOfPeriod": 20200701113534,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 268,
+    "AreaId": "RB_P4",
+    "StartOfPeriod": 20200706142020,
+    "PeriodName": "7-22",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 988,
+    "AreaId": "988_BEEKP",
+    "StartOfPeriod": 20200701135213,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 988,
+    "AreaId": "988_WALBUR",
+    "StartOfPeriod": 20200701112954,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 988,
+    "AreaId": "988_URSULI",
+    "StartOfPeriod": 20200708132509,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
     "EndOfPeriod": ""
   },
   {
@@ -3240,15 +3870,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 141,
-    "AreaId": "141_STADPL",
-    "StartOfPeriod": 20200713135401,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 34,
     "AreaId": "34_P2",
     "StartOfPeriod": 20200713114519,
@@ -3271,1149 +3892,6 @@
     "AreaId": "34_P11",
     "StartOfPeriod": 20200713131050,
     "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 716,
-    "AreaId": "716_CPOUV",
-    "StartOfPeriod": 20160120000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 118,
-    "AreaId": "118_CPZDWG",
-    "StartOfPeriod": 20160101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 299,
-    "AreaId": "299_CARP",
-    "StartOfPeriod": 20160113000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1730,
-    "AreaId": "1730_CPZUI",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1892,
-    "AreaId": "1892_CARP",
-    "StartOfPeriod": 20160114000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 25,
-    "AreaId": "25_CPMARN",
-    "StartOfPeriod": 20160203000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 796,
-    "AreaId": "796_CPROS",
-    "StartOfPeriod": 20150827000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "569_NIEUWV",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "632_SPOOR",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "297_OUDSTA",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1581,
-    "AreaId": "1581_PRMAA",
-    "StartOfPeriod": 20151001000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "637_PRZOE4",
-    "StartOfPeriod": 20160115000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1740_PRNE2",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 678,
-    "AreaId": "678_PRKAPE",
-    "StartOfPeriod": 20160205000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1525_PRSAS",
-    "StartOfPeriod": 20180101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 865,
-    "AreaId": "865_CARP",
-    "StartOfPeriod": 20160120000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 25,
-    "AreaId": "25_CPNIE",
-    "StartOfPeriod": 20160203000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "363_PRABCO",
-    "StartOfPeriod": 20180101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1884_LEIMU",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1742_PRRIJ",
-    "StartOfPeriod": 20160125000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 150,
-    "AreaId": "150_CPDOO",
-    "StartOfPeriod": 20150616000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1742_PRHOL",
-    "StartOfPeriod": 20160125000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1952,
-    "AreaId": "1952_CPMEE",
-    "StartOfPeriod": 20180118000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1509_PRTER",
-    "StartOfPeriod": 20160125000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_SCHENK",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 703,
-    "AreaId": "703_CPRI2",
-    "StartOfPeriod": 20160205000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "569_TERAAR",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "285_PRTWE",
-    "StartOfPeriod": 20160118000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "24_PRSTE",
-    "StartOfPeriod": 20160204000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1931_BERKW",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1948,
-    "AreaId": "1948_CPSCH",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 703,
-    "AreaId": "703_CPRI1",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "275_PRRHE",
-    "StartOfPeriod": 20160122000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1734,
-    "AreaId": "1734_CPOV2",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "627_WADDIN",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_CAPEL",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1586_PRLIG",
-    "StartOfPeriod": 20160127000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 98,
-    "AreaId": "98_CARP",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "274_PROOS",
-    "StartOfPeriod": 20160122000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1709_PRZEV",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1700_PRVRI",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "18_PRKRO",
-    "StartOfPeriod": 20160205000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_PRNIE",
-    "StartOfPeriod": 20160113000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 703,
-    "AreaId": "703_CPKR2",
-    "StartOfPeriod": 20160122000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_HOOGTU",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1731,
-    "AreaId": "1731_CPEUR",
-    "StartOfPeriod": 20160201000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 384,
-    "AreaId": "384_PRDIE",
-    "StartOfPeriod": 20150617000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_HOOGZA",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 355,
-    "AreaId": "355_PR2ZEI",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 870,
-    "AreaId": "870_CARP1",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 453,
-    "AreaId": "453_PRSAN",
-    "StartOfPeriod": 20151001000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1708,
-    "AreaId": "1708_CPONN",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1884_RIJPW",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1509,
-    "AreaId": "1509_CPVAR",
-    "StartOfPeriod": 20160125000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 851,
-    "AreaId": "851_CPSTE3",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_ECHT2",
-    "StartOfPeriod": 20200228135616,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_BKELS",
-    "StartOfPeriod": 20200225074323,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_ECHT1",
-    "StartOfPeriod": 20200228135052,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_BUND1",
-    "StartOfPeriod": 20200228110403,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_VOER",
-    "StartOfPeriod": 20200228140841,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_BUND2",
-    "StartOfPeriod": 20200228110416,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_KLIRA",
-    "StartOfPeriod": 20200228131656,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_MEERS",
-    "StartOfPeriod": 20200228112337,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_WOONB",
-    "StartOfPeriod": 20200228104055,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_SUST2",
-    "StartOfPeriod": 20200228140529,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_KISS",
-    "StartOfPeriod": 20200228100928,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_KERKE",
-    "StartOfPeriod": 20200228115856,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_SUST1",
-    "StartOfPeriod": 20200228140314,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "484_HAZRIJ",
-    "StartOfPeriod": 20200417113942,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "484_ALPHEN",
-    "StartOfPeriod": 20200417114345,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 203,
-    "AreaId": "203_PRSTAZ",
-    "StartOfPeriod": 20200511151555,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 203,
-    "AreaId": "203_VETK",
-    "StartOfPeriod": 20200511152750,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1709,
-    "AreaId": "1709_CPKLU",
-    "StartOfPeriod": 20200512112136,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "377_PROVE",
-    "StartOfPeriod": 20200512110730,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "377_PRBLO",
-    "StartOfPeriod": 20200512110338,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 777,
-    "AreaId": "777_PRVOS",
-    "StartOfPeriod": 20200512114252,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1771,
-    "AreaId": "1771_PRSTG",
-    "StartOfPeriod": 20200512121303,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 777,
-    "AreaId": "777_CPCOU",
-    "StartOfPeriod": 20200512114305,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 119,
-    "AreaId": "119_CPPIJL",
-    "StartOfPeriod": 20200518150436,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 119,
-    "AreaId": "119_CPMEPZ",
-    "StartOfPeriod": 20200518145721,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 119,
-    "AreaId": "119_CPWAT",
-    "StartOfPeriod": 20200518150106,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 119,
-    "AreaId": "119_CPWIJK",
-    "StartOfPeriod": 20200518150252,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 119,
-    "AreaId": "119_CPMEPC",
-    "StartOfPeriod": 20200518145834,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "119_PRSTO",
-    "StartOfPeriod": 20200519132650,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1908_PRDRO",
-    "StartOfPeriod": 20200519121951,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "626_PRVOO1",
-    "StartOfPeriod": 20200519124456,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "80_PRLITT",
-    "StartOfPeriod": 20200519123910,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "228_PRVEZU",
-    "StartOfPeriod": 20200519131744,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "228_PRVENO",
-    "StartOfPeriod": 20200519131557,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "345_PRVEDA",
-    "StartOfPeriod": 20200519124907,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "828_PROSSW",
-    "StartOfPeriod": 20200519113313,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "599_ROTDAM",
-    "StartOfPeriod": 20200519135721,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "345_PRSTVW",
-    "StartOfPeriod": 20200519130402,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1908_PRDEI",
-    "StartOfPeriod": 20200519115719,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "119_PRSTW",
-    "StartOfPeriod": 20200519132520,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "BOULEVZ",
-    "StartOfPeriod": 20200525102928,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "MUSEUMPARK",
-    "StartOfPeriod": 20200525124648,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "MATHPLN",
-    "StartOfPeriod": 20200525124605,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "VERANDA",
-    "StartOfPeriod": 20200525124802,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "OUDEHAVE",
-    "StartOfPeriod": 20200525124725,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "LUSTHOF",
-    "StartOfPeriod": 20200525124524,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "ERASMUS",
-    "StartOfPeriod": 20200525104320,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "HOOGVL",
-    "StartOfPeriod": 20200525162123,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "MEENT",
-    "StartOfPeriod": 20200525124619,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "ZOOMSTR",
-    "StartOfPeriod": 20200525124817,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "DEBOOMPJES",
-    "StartOfPeriod": 20200525082618,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "COLWEG",
-    "StartOfPeriod": 20200525103743,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "NWBINWG",
-    "StartOfPeriod": 20200525124709,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "BENTHSTR",
-    "StartOfPeriod": 20200525083636,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "SCHBP1",
-    "StartOfPeriod": 20200525124453,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "SCHBP2",
-    "StartOfPeriod": 20200525124430,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1960,
-    "AreaId": "1960_PRBEE",
-    "StartOfPeriod": 20200606214003,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 777,
-    "AreaId": "777_PRSTZ",
-    "StartOfPeriod": 20200606154301,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_PRHEM",
-    "StartOfPeriod": 20200606123229,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_CPWIRD",
-    "StartOfPeriod": 20200606122600,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_CPGOUT",
-    "StartOfPeriod": 20200606123314,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_PRKAL",
-    "StartOfPeriod": 20200606123512,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1949,
-    "AreaId": "1949_CPWIN",
-    "StartOfPeriod": 20200606152426,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1942,
-    "AreaId": "1942_CPMUI",
-    "StartOfPeriod": 20200606155531,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1960,
-    "AreaId": "1960_CPMET",
-    "StartOfPeriod": 20200606220524,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1960,
-    "AreaId": "1960_CPLDV",
-    "StartOfPeriod": 20200606220513,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 777,
-    "AreaId": "777_PRSTN",
-    "StartOfPeriod": 20200606154249,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1949,
-    "AreaId": "1949_CPDRO",
-    "StartOfPeriod": 20200606150027,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1960,
-    "AreaId": "1960_PRGWE",
-    "StartOfPeriod": 20200606214015,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 664,
-    "AreaId": "664_STATP",
-    "StartOfPeriod": 20200606114402,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1949,
-    "AreaId": "1949_CPMAR",
-    "StartOfPeriod": 20200606151320,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1942,
-    "AreaId": "1942_PRBUZ",
-    "StartOfPeriod": 20200606155815,
-    "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
@@ -4482,15 +3960,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 715,
-    "AreaId": "715_TPL",
-    "StartOfPeriod": 20200715141606,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 114,
     "AreaId": "114_WILL",
     "StartOfPeriod": 20200715132333,
@@ -4506,33 +3975,6 @@
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": "",
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 606,
-    "AreaId": "606_STAD",
-    "StartOfPeriod": 20200715115356,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "632_SPOOR",
-    "StartOfPeriod": 20150101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 983,
-    "AreaId": "983_ARSE",
-    "StartOfPeriod": 20200716110549,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
@@ -4644,24 +4086,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 203,
-    "AreaId": "203_GOWT",
-    "StartOfPeriod": 20200727155143,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": "",
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 203,
-    "AreaId": "203_TORE",
-    "StartOfPeriod": 20200727162608,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": "",
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 2085,
     "AreaId": "398_HEERHU",
     "StartOfPeriod": 20200728084442,
@@ -4752,18 +4176,630 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 505,
-    "AreaId": "505_VEE",
-    "StartOfPeriod": 20200804140930,
+    "AreaManagerId": 2001,
+    "AreaId": "638_ZOETER",
+    "StartOfPeriod": 20170101000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
-    "OpenAllYear": "",
+    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 34,
-    "AreaId": "34_SANTIA",
-    "StartOfPeriod": 20200805114254,
+    "AreaManagerId": 599,
+    "AreaId": "599_MELAN",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1842_SCHIP",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 453,
+    "AreaId": "453_PRSAZ",
+    "StartOfPeriod": 20151001000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 703,
+    "AreaId": "703_CPKR1",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 294,
+    "AreaId": "294_PRWINT",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "18_PRMAR",
+    "StartOfPeriod": 20160205000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1884_WOUBR",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1525_SASSH",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1895_PRNIS",
+    "StartOfPeriod": 20160127000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1930_BERNG",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 86,
+    "AreaId": "86_CPBEE",
+    "StartOfPeriod": 20160125000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1931_KRIMP",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1948,
+    "AreaId": "1948_CPVEG",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1931_LEKKE",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1895,
+    "AreaId": "1895_CPWIN",
+    "StartOfPeriod": 20160127000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1641,
+    "AreaId": "1641_CPMAA",
+    "StartOfPeriod": 20160204000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "599_NOORD",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 53,
+    "AreaId": "53_PR3WIN",
+    "StartOfPeriod": 20160122000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1987_PRZUI",
+    "StartOfPeriod": 20160203000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1904_BRENO",
+    "StartOfPeriod": 20180101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "18_PRHOO",
+    "StartOfPeriod": 20160205000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 971,
+    "AreaId": "971_CPURM",
+    "StartOfPeriod": 20160120000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 299,
+    "AreaId": "299_CARPOO",
+    "StartOfPeriod": 20160113000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1952,
+    "AreaId": "1952_CPSLO",
+    "StartOfPeriod": 20180101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "355_ODIJK",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 86,
+    "AreaId": "86_CPTER",
+    "StartOfPeriod": 20160125000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 870,
+    "AreaId": "870_CARP",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "599_NESSE",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 995,
+    "AreaId": "995_ZIEK",
+    "StartOfPeriod": 20170615144423,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 928,
+    "AreaId": "928_PRCHE",
+    "StartOfPeriod": 20161229000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1734,
+    "AreaId": "1734_CPOVE",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 180,
+    "AreaId": "180_CPROU",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "534_HILLEG",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "626_PRVOO",
+    "StartOfPeriod": 20160118000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 53,
+    "AreaId": "53_PRWINS",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1730,
+    "AreaId": "1730_CARP",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1949,
+    "AreaId": "1949_CPFRA",
+    "StartOfPeriod": 20180101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 823,
+    "AreaId": "823_CPBES",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1948,
+    "AreaId": "1948_CPSIO",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 851,
+    "AreaId": "851_CPSTE2",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1581,
+    "AreaId": "1581_CPMAA",
+    "StartOfPeriod": 20151001000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1509_PRVAR",
+    "StartOfPeriod": 20160125000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "599_BEVER",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 22,
+    "AreaId": "22_PRLEEK",
+    "StartOfPeriod": 20160205000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "189_PRWIE",
+    "StartOfPeriod": 20160114000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1731,
+    "AreaId": "1731_CPNIE",
+    "StartOfPeriod": 20160201000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 622,
+    "AreaId": "622_CARP",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 823,
+    "AreaId": "823_CPOIR",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "56_PRZUI",
+    "StartOfPeriod": 20160114000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 995,
+    "AreaId": "995_NERI",
+    "StartOfPeriod": 20170615144128,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 851,
+    "AreaId": "851_CPSTE1",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 25,
+    "AreaId": "25_CPMAR",
+    "StartOfPeriod": 20160203000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 118,
+    "AreaId": "118_CPTOLD",
+    "StartOfPeriod": 20160101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 983,
+    "AreaId": "983_PRBLER",
+    "StartOfPeriod": 20200626000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1904_BREZO",
+    "StartOfPeriod": 20180101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "501_BRIELL",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_DOOR",
+    "StartOfPeriod": 20200727000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 47,
+    "AreaId": "47_CARP",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_PRZOE",
+    "StartOfPeriod": 20160114000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaId": "632_SPOOR",
+    "StartOfPeriod": 20150101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "275_PRDIE",
+    "StartOfPeriod": 20160122000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1734,
+    "AreaId": "1734_CPOV3",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "457_PRWEE",
+    "StartOfPeriod": 20160115000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "530_HELLEV",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "737_PRHUR",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1948,
+    "AreaId": "1948_CPMAR",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "611_NUMANS",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 860,
+    "AreaId": "860_CARP",
+    "StartOfPeriod": 20160120000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 505,
+    "AreaId": "505_VEE",
+    "StartOfPeriod": 20200804140930,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": "",
@@ -4842,6 +4878,15 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 361,
+    "AreaId": "361_VEST",
+    "StartOfPeriod": 20170623152642,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 2199,
     "AreaId": "310_PRBILT",
     "StartOfPeriod": 20180101000000,
@@ -4881,6 +4926,186 @@
     "AreaManagerId": 599,
     "AreaId": "599_PRLOM",
     "StartOfPeriod": 20150825000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1734,
+    "AreaId": "1734_PROVE",
+    "StartOfPeriod": 20160205000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1924_STELL",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 85,
+    "AreaId": "85_CPDON",
+    "StartOfPeriod": 20160125000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1892_NIEUW",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1731,
+    "AreaId": "1731_CPBEI",
+    "StartOfPeriod": 20160201000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1709,
+    "AreaId": "1709_CPFIJ",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1895_PRSCH",
+    "StartOfPeriod": 20160127000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 880,
+    "AreaId": "880_PRWORM",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1709_PRZEH",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "599_HOEK",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "537_KATWIJ",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1730,
+    "AreaId": "1730_CPVRI",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "599_PERNIS",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "622_PRVLWE",
+    "StartOfPeriod": 20160118000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 269,
+    "AreaId": "269_CPWEZ",
+    "StartOfPeriod": 20160127000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 796,
+    "AreaId": "796_CPMAL",
+    "StartOfPeriod": 20150827000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "24_PRLOP",
+    "StartOfPeriod": 20160204000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 118,
+    "AreaId": "118_CPWODO",
+    "StartOfPeriod": 20160101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 275,
+    "AreaId": "275_CPVEL",
+    "StartOfPeriod": 20160122000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 716,
+    "AreaId": "716_CPSIP",
+    "StartOfPeriod": 20160120000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -4968,6 +5193,33 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 361,
+    "AreaId": "361_SINGEL",
+    "StartOfPeriod": 20170623152628,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 361,
+    "AreaId": "361_KAZER",
+    "StartOfPeriod": 20170623152611,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaId": "150_PRDCO",
+    "StartOfPeriod": 20170623095357,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 606,
     "AreaId": "606_PRVIJ",
     "StartOfPeriod": 20150601000000,
@@ -4989,6 +5241,15 @@
     "AreaManagerId": 788,
     "AreaId": "788_CPHAA",
     "StartOfPeriod": 20150601000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaId": "150_CPDEV",
+    "StartOfPeriod": 20170623112328,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -5151,6 +5412,15 @@
     "AreaManagerId": 230,
     "AreaId": "230_PRHAR",
     "StartOfPeriod": 20150601000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 361,
+    "AreaId": "361_SCHELP",
+    "StartOfPeriod": 20170623152618,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -5986,17 +6256,26 @@
   },
   {
     "AreaManagerId": 160,
-    "AreaId": "160_CETH",
-    "StartOfPeriod": 20150301000000,
+    "AreaId": "160_CPBAL",
+    "StartOfPeriod": 20150601000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
+    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 160,
-    "AreaId": "160_CPBAL",
-    "StartOfPeriod": 20150601000000,
+    "AreaManagerId": 737,
+    "AreaId": "737_CPNOB",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 53,
+    "AreaId": "53_PR2WIN",
+    "StartOfPeriod": 20160122000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -6282,15 +6561,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 150,
-    "AreaId": "150_STPKEL",
-    "StartOfPeriod": 20200608145800,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 545,
     "AreaId": "CENTRUM3",
     "StartOfPeriod": 20160220162651,
@@ -6303,6 +6573,15 @@
     "AreaManagerId": 545,
     "AreaId": "CENTRUM6",
     "StartOfPeriod": 20160220162817,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 361,
+    "AreaId": "361_KANAAL",
+    "StartOfPeriod": 20170623152541,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -6330,6 +6609,60 @@
     "AreaManagerId": 545,
     "AreaId": "CENTRUM4",
     "StartOfPeriod": 20160220162721,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 361,
+    "AreaId": "361_KARP",
+    "StartOfPeriod": 20170623152602,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1734_PROVE",
+    "StartOfPeriod": 20160122000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1708,
+    "AreaId": "1708_CPST2",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "285_PRKLA",
+    "StartOfPeriod": 20160118000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 828,
+    "AreaId": "828_CPRAV",
+    "StartOfPeriod": 20160125000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1949,
+    "AreaId": "1949_PRFRA",
+    "StartOfPeriod": 20180101000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -6382,63 +6715,9 @@
   },
   {
     "AreaManagerId": 150,
-    "AreaId": "150_STPBG",
-    "StartOfPeriod": 20200608145727,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 150,
-    "AreaId": "150_WILH",
-    "StartOfPeriod": 20200608145651,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 150,
-    "AreaId": "150_STPDEK",
-    "StartOfPeriod": 20200608145746,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 150,
-    "AreaId": "150_LEEUW",
-    "StartOfPeriod": 20200608145707,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 715,
-    "AreaId": "715_CPBHVN",
-    "StartOfPeriod": 20200612131544,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 355,
-    "AreaId": "355_PRZEI",
-    "StartOfPeriod": 20200612135924,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 281,
-    "AreaId": "281_PRSTAT",
-    "StartOfPeriod": 20200612144110,
-    "PeriodName": "24/7",
+    "AreaId": "150_CPBAT",
+    "StartOfPeriod": 20170623101203,
+    "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
@@ -7677,6 +7956,15 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 716,
+    "AreaId": "716_CPOUV",
+    "StartOfPeriod": 20160120000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 2450,
     "AreaId": "14_UMCG_N",
     "StartOfPeriod": 20160404145117,
@@ -7716,6 +8004,24 @@
     "AreaManagerId": 2461,
     "AreaId": "622_LIES",
     "StartOfPeriod": 20160422103821,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 118,
+    "AreaId": "118_CPZDWG",
+    "StartOfPeriod": 20160101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 299,
+    "AreaId": "299_CARP",
+    "StartOfPeriod": 20160113000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -8109,15 +8415,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 153,
-    "AreaId": "153_CPENS",
-    "StartOfPeriod": 20200612144852,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 2449,
     "AreaId": "599_KRUI",
     "StartOfPeriod": 20160804164259,
@@ -8382,6 +8679,15 @@
     "AreaManagerId": 2459,
     "AreaId": "363_PRINS",
     "StartOfPeriod": 20160408131250,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1730,
+    "AreaId": "1730_CPZUI",
+    "StartOfPeriod": 20160121000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -9243,339 +9549,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 828,
-    "AreaId": "828_PRRAV",
-    "StartOfPeriod": 20200612130427,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 995,
-    "AreaId": "995_CPLEL",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 995,
-    "AreaId": "995_CPLNO",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1734,
-    "AreaId": "1734_PROVE",
-    "StartOfPeriod": 20160205000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_ZAAI",
-    "StartOfPeriod": 20170323141812,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1924_STELL",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_HOEK",
-    "StartOfPeriod": 20170323135422,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_OLDE",
-    "StartOfPeriod": 20170323141632,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 85,
-    "AreaId": "85_CPDON",
-    "StartOfPeriod": 20160125000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1892_NIEUW",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_OOST",
-    "StartOfPeriod": 20170509102842,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 80,
-    "AreaId": "80_KLAN",
-    "StartOfPeriod": 20170509102754,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 141,
-    "AreaId": "141_HKEL",
-    "StartOfPeriod": 20170608145832,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 153,
-    "AreaId": "153_STAT",
-    "StartOfPeriod": 20170613103248,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 153,
-    "AreaId": "153_BROU",
-    "StartOfPeriod": 20170613104040,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 153,
-    "AreaId": "010106",
-    "StartOfPeriod": 20170613090812,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 153,
-    "AreaId": "153_PRZUI",
-    "StartOfPeriod": 20170613105600,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1731,
-    "AreaId": "1731_CPBEI",
-    "StartOfPeriod": 20160201000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1709,
-    "AreaId": "1709_CPFIJ",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1895_PRSCH",
-    "StartOfPeriod": 20160127000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 153,
-    "AreaId": "153_MOO",
-    "StartOfPeriod": 20170613102309,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 153,
-    "AreaId": "153_IRE",
-    "StartOfPeriod": 20170613102925,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 153,
-    "AreaId": "153_HEEK",
-    "StartOfPeriod": 20170613100013,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 995,
-    "AreaId": "995_ZILV",
-    "StartOfPeriod": 20170615144155,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 995,
-    "AreaId": "995_P6",
-    "StartOfPeriod": 20170615144509,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 995,
-    "AreaId": "995_WAAG",
-    "StartOfPeriod": 20170615144309,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 995,
-    "AreaId": "995_ZIEK",
-    "StartOfPeriod": 20170615144423,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 995,
-    "AreaId": "995_NERI",
-    "StartOfPeriod": 20170615144128,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 361,
-    "AreaId": "361_VEST",
-    "StartOfPeriod": 20170623152642,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 361,
-    "AreaId": "361_SINGEL",
-    "StartOfPeriod": 20170623152628,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 361,
-    "AreaId": "361_KAZER",
-    "StartOfPeriod": 20170623152611,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 150,
-    "AreaId": "150_PRDCO",
-    "StartOfPeriod": 20170623095357,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 150,
-    "AreaId": "150_CPDEV",
-    "StartOfPeriod": 20170623112328,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 361,
-    "AreaId": "361_SCHELP",
-    "StartOfPeriod": 20170623152618,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 361,
-    "AreaId": "361_KANAAL",
-    "StartOfPeriod": 20170623152541,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 361,
-    "AreaId": "361_KARP",
-    "StartOfPeriod": 20170623152602,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 150,
-    "AreaId": "150_CPBAT",
-    "StartOfPeriod": 20170623101203,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 80,
     "AreaId": "80_OOSTSTR",
     "StartOfPeriod": 20170629175906,
@@ -9648,10 +9621,10 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 935,
-    "AreaId": "935_PRMNO",
-    "StartOfPeriod": 20200228105202,
-    "PeriodName": "24/7",
+    "AreaManagerId": 1892,
+    "AreaId": "1892_CARP",
+    "StartOfPeriod": 20160114000000,
+    "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
@@ -9846,207 +9819,9 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2449,
-    "AreaId": "14_EBORG",
-    "StartOfPeriod": 20161221171955,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 193,
-    "AreaId": "193_ROIJ",
-    "StartOfPeriod": 20171114132541,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1930,
-    "AreaId": "1930_BOEK",
-    "StartOfPeriod": 20161003155951,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1930,
-    "AreaId": "1930_KOLK",
-    "StartOfPeriod": 20161003160219,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1930,
-    "AreaId": "1930_CITY",
-    "StartOfPeriod": 20161003160130,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 189,
-    "AreaId": "189_CARP2",
-    "StartOfPeriod": 20171123142838,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1930,
-    "AreaId": "1930_STAD",
-    "StartOfPeriod": 20161003160303,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 189,
-    "AreaId": "189_CARP1",
-    "StartOfPeriod": 20171123142833,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1930,
-    "AreaId": "1930_THEA",
-    "StartOfPeriod": 20161003160012,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 189,
-    "AreaId": "189_CARP",
-    "StartOfPeriod": 20171123142827,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 200,
-    "AreaId": "200_BRIN",
-    "StartOfPeriod": 20171121162837,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 200,
-    "AreaId": "200_MARK",
-    "StartOfPeriod": 20171121162805,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 200,
-    "AreaId": "200_KONI",
-    "StartOfPeriod": 20171121162733,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 177,
-    "AreaId": "177HTSCP",
-    "StartOfPeriod": 20171208164934,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1676,
-    "AreaId": "1676_CPZIE",
-    "StartOfPeriod": 20200626153542,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1676,
-    "AreaId": "1676_CPSER",
-    "StartOfPeriod": 20200626153531,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1676,
-    "AreaId": "1676_PRREN",
-    "StartOfPeriod": 20200626153551,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 917,
-    "AreaId": "917_PRHOE",
-    "StartOfPeriod": 20200606222408,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 439,
-    "AreaId": "439_PRBEA",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 439,
-    "AreaId": "439_PRWIL",
-    "StartOfPeriod": 20150601000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 34,
-    "AreaId": "34_P8",
-    "StartOfPeriod": 20200708165930,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 268,
-    "AreaId": "268_EIERM",
-    "StartOfPeriod": 20171117153505,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 796,
-    "AreaId": "796_PAL",
-    "StartOfPeriod": 20180125101908,
+    "AreaManagerId": 25,
+    "AreaId": "25_CPMARN",
+    "StartOfPeriod": 20160203000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -10054,124 +9829,7 @@
   },
   {
     "AreaManagerId": 796,
-    "AreaId": "796_WOLV",
-    "StartOfPeriod": 20180125101759,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 796,
-    "AreaId": "796_STAT",
-    "StartOfPeriod": 20180125102141,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 796,
-    "AreaId": "796_JOSE",
-    "StartOfPeriod": 20180125101957,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 796,
-    "AreaId": "796_STJAN",
-    "StartOfPeriod": 20180125101738,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 34,
-    "AreaId": "34_BROOK",
-    "StartOfPeriod": 20180308154603,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 880,
-    "AreaId": "880_PRWORM",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1709_PRZEH",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_HOEK",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "537_KATWIJ",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1730,
-    "AreaId": "1730_CPVRI",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_PERNIS",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "622_PRVLWE",
-    "StartOfPeriod": 20160118000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 269,
-    "AreaId": "269_CPWEZ",
-    "StartOfPeriod": 20160127000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 796,
-    "AreaId": "796_CPMAL",
+    "AreaId": "796_CPROS",
     "StartOfPeriod": 20150827000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
@@ -10179,18 +9837,144 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2199,
-    "AreaId": "24_PRLOP",
-    "StartOfPeriod": 20160204000000,
+    "AreaManagerId": 2001,
+    "AreaId": "569_NIEUWV",
+    "StartOfPeriod": 20170101000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 118,
-    "AreaId": "118_CPWODO",
-    "StartOfPeriod": 20160101000000,
+    "AreaManagerId": 2199,
+    "AreaId": "297_OUDSTA",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1581,
+    "AreaId": "1581_PRMAA",
+    "StartOfPeriod": 20151001000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "637_PRZOE4",
+    "StartOfPeriod": 20160115000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1740_PRNE2",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 678,
+    "AreaId": "678_PRKAPE",
+    "StartOfPeriod": 20160205000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1525_PRSAS",
+    "StartOfPeriod": 20180101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 865,
+    "AreaId": "865_CARP",
+    "StartOfPeriod": 20160120000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 25,
+    "AreaId": "25_CPNIE",
+    "StartOfPeriod": 20160203000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "363_PRABCO",
+    "StartOfPeriod": 20180101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1884_LEIMU",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1742_PRRIJ",
+    "StartOfPeriod": 20160125000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaId": "150_CPDOO",
+    "StartOfPeriod": 20150616000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1742_PRHOL",
+    "StartOfPeriod": 20160125000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1952,
+    "AreaId": "1952_CPMEE",
+    "StartOfPeriod": 20180118000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1509_PRTER",
+    "StartOfPeriod": 20160125000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -10233,6 +10017,15 @@
     "EndOfPeriod": ""
   },
   {
+    "AreaManagerId": 599,
+    "AreaId": "599_SCHENK",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
     "AreaManagerId": 503,
     "AreaId": "503_PHOE",
     "StartOfPeriod": 20180627134045,
@@ -10272,6 +10065,42 @@
     "AreaManagerId": 193,
     "AreaId": "193_NOORDK",
     "StartOfPeriod": 20180626092345,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 703,
+    "AreaId": "703_CPRI2",
+    "StartOfPeriod": 20160205000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "569_TERAAR",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "285_PRTWE",
+    "StartOfPeriod": 20160118000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "24_PRSTE",
+    "StartOfPeriod": 20160204000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -10344,6 +10173,42 @@
     "AreaManagerId": 928,
     "AreaId": "928_PRCEN",
     "StartOfPeriod": 20161227151837,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "1931_BERKW",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1948,
+    "AreaId": "1948_CPSCH",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 703,
+    "AreaId": "703_CPRI1",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "275_PRRHE",
+    "StartOfPeriod": 20160122000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -10584,60 +10449,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 988,
-    "AreaId": "988_KROM",
-    "StartOfPeriod": 20200701155912,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2453,
-    "AreaId": "80_B2",
-    "StartOfPeriod": 20200701113237,
-    "PeriodName": "Dagelijks 11:30 tot 04:00",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 392,
-    "AreaId": "392_DRE",
-    "StartOfPeriod": 20200706133641,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 988,
-    "AreaId": "988_CENT",
-    "StartOfPeriod": 20200701155628,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2533,
-    "AreaId": "307_SPO",
-    "StartOfPeriod": 20200701154823,
-    "PeriodName": "24/7",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 938,
-    "AreaId": "938_PROO",
-    "StartOfPeriod": 20200701114005,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 14,
     "AreaId": "EUR",
     "StartOfPeriod": 20190701162358,
@@ -10776,87 +10587,6 @@
     "AreaManagerId": 2448,
     "AreaId": "518_HELI",
     "StartOfPeriod": 20160616111447,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "599_ZUIDPL",
-    "StartOfPeriod": 20160520122555,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "505_MARK",
-    "StartOfPeriod": 20160720163319,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "917_TELEP",
-    "StartOfPeriod": 20160701111317,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "518_LAAK",
-    "StartOfPeriod": 20160616111521,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "935_SPHINX",
-    "StartOfPeriod": 20190903120405,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "425_SLOCHT",
-    "StartOfPeriod": 20160720163024,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "193_MAAG",
-    "StartOfPeriod": 20160525100524,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "402_SILVER",
-    "StartOfPeriod": 20160613162220,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2448,
-    "AreaId": "344_LAVIE",
-    "StartOfPeriod": 20160526154224,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -11193,24 +10923,6 @@
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1674,
-    "AreaId": "1674_ROSE",
-    "StartOfPeriod": 20200701113640,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2453,
-    "AreaId": "80_B1",
-    "StartOfPeriod": 20200706110416,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
     "EndOfPeriod": ""
   },
   {
@@ -11682,15 +11394,6 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 828,
-    "AreaId": "828_BOSS",
-    "StartOfPeriod": 20160225145306,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
     "AreaManagerId": 2448,
     "AreaId": "150_BOR",
     "StartOfPeriod": 20160520115327,
@@ -11736,98 +11439,890 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 794,
-    "AreaId": "794_DOOR",
-    "StartOfPeriod": 20200701131023,
+    "AreaManagerId": 796,
+    "AreaId": "796_CPVEG",
+    "StartOfPeriod": 20191015151807,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 0,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 988,
-    "AreaId": "988_STAD",
-    "StartOfPeriod": 20200703083949,
+    "AreaManagerId": 614,
+    "AreaId": "2ESLAG",
+    "StartOfPeriod": 20200107095005,
     "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 794,
-    "AreaId": "794_BOSC",
-    "StartOfPeriod": 20200701113534,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 0,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 268,
-    "AreaId": "RB_P4",
-    "StartOfPeriod": 20200706142020,
-    "PeriodName": "7-22",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 988,
-    "AreaId": "988_BEEKP",
-    "StartOfPeriod": 20200701135213,
+    "AreaManagerId": 614,
+    "AreaId": "1ESLAG",
+    "StartOfPeriod": 20200107094959,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 513,
+    "AreaId": "SECTOR_5",
+    "StartOfPeriod": 20170410120252,
     "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 988,
-    "AreaId": "988_WALBUR",
-    "StartOfPeriod": 20200701112954,
+    "AreaManagerId": 513,
+    "AreaId": "SECTOR_4",
+    "StartOfPeriod": 20170410112711,
+    "PeriodName": "Klein Amerika 24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 513,
+    "AreaId": "513_STAT",
+    "StartOfPeriod": 20170410104143,
+    "PeriodName": "Garage station 24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 513,
+    "AreaId": "SECTOR_6",
+    "StartOfPeriod": 20170410115602,
+    "PeriodName": "Vossenburchkade 24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2461,
+    "AreaId": "622_HOOG",
+    "StartOfPeriod": 20200221083229,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2461,
+    "AreaId": "622_BADHST",
+    "StartOfPeriod": 20200221081037,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2461,
+    "AreaId": "622_STAD",
+    "StartOfPeriod": 20200221094516,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2582,
+    "AreaId": "P2_AIRPPL",
+    "StartOfPeriod": 20200225140751,
     "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 988,
-    "AreaId": "988_URSULI",
-    "StartOfPeriod": 20200708132509,
-    "PeriodName": "",
+    "AreaManagerId": 2582,
+    "AreaId": "P6_AIRPPL",
+    "StartOfPeriod": 20200225140005,
+    "PeriodName": "24/7",
     "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
+    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 275,
-    "AreaId": "275_CPVEL",
-    "StartOfPeriod": 20160122000000,
+    "AreaManagerId": 2582,
+    "AreaId": "P3_FAIROA",
+    "StartOfPeriod": 20200225095144,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2582,
+    "AreaId": "P10_FAIROA",
+    "StartOfPeriod": 20200225094131,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2582,
+    "AreaId": "P1_AIRPBN",
+    "StartOfPeriod": 20200225141331,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2582,
+    "AreaId": "P1A_AIRPBN",
+    "StartOfPeriod": 20200225141120,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_ECHT2",
+    "StartOfPeriod": 20200228135616,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_BKELS",
+    "StartOfPeriod": 20200225074323,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_ECHT1",
+    "StartOfPeriod": 20200228135052,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_BUND1",
+    "StartOfPeriod": 20200228110403,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_VOER",
+    "StartOfPeriod": 20200228140841,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_BUND2",
+    "StartOfPeriod": 20200228110416,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_KLIRA",
+    "StartOfPeriod": 20200228131656,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_MEERS",
+    "StartOfPeriod": 20200228112337,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_WOONB",
+    "StartOfPeriod": 20200228104055,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_SUST2",
+    "StartOfPeriod": 20200228140529,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_KISS",
+    "StartOfPeriod": 20200228100928,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_KERKE",
+    "StartOfPeriod": 20200228115856,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_SUST1",
+    "StartOfPeriod": 20200228140314,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "484_HAZRIJ",
+    "StartOfPeriod": 20200417113942,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "484_ALPHEN",
+    "StartOfPeriod": 20200417114345,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 203,
+    "AreaId": "203_PRSTAZ",
+    "StartOfPeriod": 20200511151555,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 203,
+    "AreaId": "203_VETK",
+    "StartOfPeriod": 20200511152750,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1709,
+    "AreaId": "1709_CPKLU",
+    "StartOfPeriod": 20200512112136,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "377_PROVE",
+    "StartOfPeriod": 20200512110730,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "377_PRBLO",
+    "StartOfPeriod": 20200512110338,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 777,
+    "AreaId": "777_PRVOS",
+    "StartOfPeriod": 20200512114252,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1771,
+    "AreaId": "1771_PRSTG",
+    "StartOfPeriod": 20200512121303,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 777,
+    "AreaId": "777_CPCOU",
+    "StartOfPeriod": 20200512114305,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaId": "119_CPPIJL",
+    "StartOfPeriod": 20200518150436,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaId": "119_CPMEPZ",
+    "StartOfPeriod": 20200518145721,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaId": "119_CPWAT",
+    "StartOfPeriod": 20200518150106,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaId": "119_CPWIJK",
+    "StartOfPeriod": 20200518150252,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaId": "119_CPMEPC",
+    "StartOfPeriod": 20200518145834,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "119_PRSTO",
+    "StartOfPeriod": 20200519132650,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1908_PRDRO",
+    "StartOfPeriod": 20200519121951,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "626_PRVOO1",
+    "StartOfPeriod": 20200519124456,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "80_PRLITT",
+    "StartOfPeriod": 20200519123910,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "228_PRVEZU",
+    "StartOfPeriod": 20200519131744,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "228_PRVENO",
+    "StartOfPeriod": 20200519131557,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "345_PRVEDA",
+    "StartOfPeriod": 20200519124907,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "828_PROSSW",
+    "StartOfPeriod": 20200519113313,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "599_ROTDAM",
+    "StartOfPeriod": 20200519135721,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "345_PRSTVW",
+    "StartOfPeriod": 20200519130402,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1908_PRDEI",
+    "StartOfPeriod": 20200519115719,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "119_PRSTW",
+    "StartOfPeriod": 20200519132520,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "BOULEVZ",
+    "StartOfPeriod": 20200525102928,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 716,
-    "AreaId": "716_CPSIP",
-    "StartOfPeriod": 20160120000000,
+    "AreaManagerId": 599,
+    "AreaId": "MUSEUMPARK",
+    "StartOfPeriod": 20200525124648,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 737,
-    "AreaId": "737_CPNOB",
-    "StartOfPeriod": 20160121000000,
+    "AreaManagerId": 599,
+    "AreaId": "MATHPLN",
+    "StartOfPeriod": 20200525124605,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 53,
-    "AreaId": "53_PR2WIN",
+    "AreaManagerId": 599,
+    "AreaId": "VERANDA",
+    "StartOfPeriod": 20200525124802,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "OUDEHAVE",
+    "StartOfPeriod": 20200525124725,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "LUSTHOF",
+    "StartOfPeriod": 20200525124524,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "ERASMUS",
+    "StartOfPeriod": 20200525104320,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "HOOGVL",
+    "StartOfPeriod": 20200525162123,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "MEENT",
+    "StartOfPeriod": 20200525124619,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "ZOOMSTR",
+    "StartOfPeriod": 20200525124817,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "DEBOOMPJES",
+    "StartOfPeriod": 20200525082618,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "COLWEG",
+    "StartOfPeriod": 20200525103743,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "NWBINWG",
+    "StartOfPeriod": 20200525124709,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "BENTHSTR",
+    "StartOfPeriod": 20200525083636,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "SCHBP1",
+    "StartOfPeriod": 20200525124453,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "SCHBP2",
+    "StartOfPeriod": 20200525124430,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1960,
+    "AreaId": "1960_PRBEE",
+    "StartOfPeriod": 20200606214003,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 777,
+    "AreaId": "777_PRSTZ",
+    "StartOfPeriod": 20200606154301,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 80,
+    "AreaId": "80_PRHEM",
+    "StartOfPeriod": 20200606123229,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 80,
+    "AreaId": "80_CPWIRD",
+    "StartOfPeriod": 20200606122600,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 80,
+    "AreaId": "80_CPGOUT",
+    "StartOfPeriod": 20200606123314,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 80,
+    "AreaId": "80_PRKAL",
+    "StartOfPeriod": 20200606123512,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1949,
+    "AreaId": "1949_CPWIN",
+    "StartOfPeriod": 20200606152426,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1942,
+    "AreaId": "1942_CPMUI",
+    "StartOfPeriod": 20200606155531,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1960,
+    "AreaId": "1960_CPMET",
+    "StartOfPeriod": 20200606220524,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1960,
+    "AreaId": "1960_CPLDV",
+    "StartOfPeriod": 20200606220513,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 777,
+    "AreaId": "777_PRSTN",
+    "StartOfPeriod": 20200606154249,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1949,
+    "AreaId": "1949_CPDRO",
+    "StartOfPeriod": 20200606150027,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1960,
+    "AreaId": "1960_PRGWE",
+    "StartOfPeriod": 20200606214015,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 664,
+    "AreaId": "664_STATP",
+    "StartOfPeriod": 20200606114402,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1949,
+    "AreaId": "1949_CPMAR",
+    "StartOfPeriod": 20200606151320,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1942,
+    "AreaId": "1942_PRBUZ",
+    "StartOfPeriod": 20200606155815,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaId": "150_STPKEL",
+    "StartOfPeriod": 20200608145800,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaId": "150_STPBG",
+    "StartOfPeriod": 20200608145727,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaId": "150_WILH",
+    "StartOfPeriod": 20200608145651,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaId": "150_STPDEK",
+    "StartOfPeriod": 20200608145746,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaId": "150_LEEUW",
+    "StartOfPeriod": 20200608145707,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1734,
+    "AreaId": "1734_CPOV2",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaId": "627_WADDIN",
+    "StartOfPeriod": 20170101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "599_CAPEL",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1586_PRLIG",
+    "StartOfPeriod": 20160127000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 98,
+    "AreaId": "98_CARP",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "274_PROOS",
     "StartOfPeriod": 20160122000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
@@ -11836,8 +12331,107 @@
   },
   {
     "AreaManagerId": 2199,
-    "AreaId": "1734_PROVE",
+    "AreaId": "1709_PRZEV",
+    "StartOfPeriod": 20160129000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "1700_PRVRI",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "18_PRKRO",
+    "StartOfPeriod": 20160205000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaId": "2199_PRNIE",
+    "StartOfPeriod": 20160113000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 703,
+    "AreaId": "703_CPKR2",
     "StartOfPeriod": 20160122000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "599_HOOGTU",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1731,
+    "AreaId": "1731_CPEUR",
+    "StartOfPeriod": 20160201000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 384,
+    "AreaId": "384_PRDIE",
+    "StartOfPeriod": 20150617000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaId": "599_HOOGZA",
+    "StartOfPeriod": 20140101000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 355,
+    "AreaId": "355_PR2ZEI",
+    "StartOfPeriod": 20160121000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 870,
+    "AreaId": "870_CARP1",
+    "StartOfPeriod": 20160119000000,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 453,
+    "AreaId": "453_PRSAN",
+    "StartOfPeriod": 20151001000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -11845,7 +12439,7 @@
   },
   {
     "AreaManagerId": 1708,
-    "AreaId": "1708_CPST2",
+    "AreaId": "1708_CPONN",
     "StartOfPeriod": 20160121000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
@@ -11853,17 +12447,17 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2199,
-    "AreaId": "285_PRKLA",
-    "StartOfPeriod": 20160118000000,
+    "AreaManagerId": 2001,
+    "AreaId": "1884_RIJPW",
+    "StartOfPeriod": 20170101000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 828,
-    "AreaId": "828_CPRAV",
+    "AreaManagerId": 1509,
+    "AreaId": "1509_CPVAR",
     "StartOfPeriod": 20160125000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
@@ -11871,9 +12465,9 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 1949,
-    "AreaId": "1949_PRFRA",
-    "StartOfPeriod": 20180101000000,
+    "AreaManagerId": 851,
+    "AreaId": "851_CPSTE3",
+    "StartOfPeriod": 20160121000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -11919,771 +12513,6 @@
     "AreaManagerId": 2199,
     "AreaId": "296_PRWIJC",
     "StartOfPeriod": 20160122000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1904_BREUW",
-    "StartOfPeriod": 20180101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 716,
-    "AreaId": "716_CPTHO",
-    "StartOfPeriod": 20160120000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 24,
-    "AreaId": "24_CPHUI",
-    "StartOfPeriod": 20160204000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1740_PRNED",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 175,
-    "AreaId": "175_CPOMM",
-    "StartOfPeriod": 20160127000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1895,
-    "AreaId": "1895_CPSCH",
-    "StartOfPeriod": 20160127000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "637_PRZOE2",
-    "StartOfPeriod": 20160114000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "18_PRSAP",
-    "StartOfPeriod": 20160205000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "637_PRZOE1",
-    "StartOfPeriod": 20160114000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1700_PRVRO",
-    "StartOfPeriod": 20160208000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1731,
-    "AreaId": "1731_CPHOO",
-    "StartOfPeriod": 20160201000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "632_PRWOER",
-    "StartOfPeriod": 20180101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 809,
-    "AreaId": "809_CPLOZ",
-    "StartOfPeriod": 20160204000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "703_PRKRY",
-    "StartOfPeriod": 20160122000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 294,
-    "AreaId": "294_PR2WIN",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1731,
-    "AreaId": "1731_CPSPI",
-    "StartOfPeriod": 20160201000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1930_BERNH",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1952,
-    "AreaId": "1952_CPZUI",
-    "StartOfPeriod": 20180118000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1708,
-    "AreaId": "1708_CPVOL",
-    "StartOfPeriod": 20160120000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "638_ZOETER",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_MELAN",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1842_SCHIP",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 453,
-    "AreaId": "453_PRSAZ",
-    "StartOfPeriod": 20151001000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 703,
-    "AreaId": "703_CPKR1",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 294,
-    "AreaId": "294_PRWINT",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "18_PRMAR",
-    "StartOfPeriod": 20160205000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1884_WOUBR",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1525_SASSH",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1895_PRNIS",
-    "StartOfPeriod": 20160127000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1930_BERNG",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 86,
-    "AreaId": "86_CPBEE",
-    "StartOfPeriod": 20160125000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1931_KRIMP",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1948,
-    "AreaId": "1948_CPVEG",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "1931_LEKKE",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1895,
-    "AreaId": "1895_CPWIN",
-    "StartOfPeriod": 20160127000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1641,
-    "AreaId": "1641_CPMAA",
-    "StartOfPeriod": 20160204000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_NOORD",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 53,
-    "AreaId": "53_PR3WIN",
-    "StartOfPeriod": 20160122000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1987_PRZUI",
-    "StartOfPeriod": 20160203000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1904_BRENO",
-    "StartOfPeriod": 20180101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "18_PRHOO",
-    "StartOfPeriod": 20160205000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 971,
-    "AreaId": "971_CPURM",
-    "StartOfPeriod": 20160120000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 299,
-    "AreaId": "299_CARPOO",
-    "StartOfPeriod": 20160113000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1952,
-    "AreaId": "1952_CPSLO",
-    "StartOfPeriod": 20180101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "355_ODIJK",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 86,
-    "AreaId": "86_CPTER",
-    "StartOfPeriod": 20160125000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 870,
-    "AreaId": "870_CARP",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_NESSE",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 928,
-    "AreaId": "928_PRCHE",
-    "StartOfPeriod": 20161229000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1734,
-    "AreaId": "1734_CPOVE",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 180,
-    "AreaId": "180_CPROU",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "534_HILLEG",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "626_PRVOO",
-    "StartOfPeriod": 20160118000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 53,
-    "AreaId": "53_PRWINS",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1730,
-    "AreaId": "1730_CARP",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1949,
-    "AreaId": "1949_CPFRA",
-    "StartOfPeriod": 20180101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 823,
-    "AreaId": "823_CPBES",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1948,
-    "AreaId": "1948_CPSIO",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 851,
-    "AreaId": "851_CPSTE2",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1581,
-    "AreaId": "1581_CPMAA",
-    "StartOfPeriod": 20151001000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1509_PRVAR",
-    "StartOfPeriod": 20160125000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 599,
-    "AreaId": "599_BEVER",
-    "StartOfPeriod": 20140101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 22,
-    "AreaId": "22_PRLEEK",
-    "StartOfPeriod": 20160205000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "189_PRWIE",
-    "StartOfPeriod": 20160114000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1731,
-    "AreaId": "1731_CPNIE",
-    "StartOfPeriod": 20160201000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 622,
-    "AreaId": "622_CARP",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 823,
-    "AreaId": "823_CPOIR",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "56_PRZUI",
-    "StartOfPeriod": 20160114000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 851,
-    "AreaId": "851_CPSTE1",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 25,
-    "AreaId": "25_CPMAR",
-    "StartOfPeriod": 20160203000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 118,
-    "AreaId": "118_CPTOLD",
-    "StartOfPeriod": 20160101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 983,
-    "AreaId": "983_PRBLER",
-    "StartOfPeriod": 20200626000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "1904_BREZO",
-    "StartOfPeriod": 20180101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "501_BRIELL",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_DOOR",
-    "StartOfPeriod": 20200727000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 47,
-    "AreaId": "47_CARP",
-    "StartOfPeriod": 20160119000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "2199_PRZOE",
-    "StartOfPeriod": 20160114000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "275_PRDIE",
-    "StartOfPeriod": 20160122000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1734,
-    "AreaId": "1734_CPOV3",
-    "StartOfPeriod": 20160129000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "457_PRWEE",
-    "StartOfPeriod": 20160115000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "530_HELLEV",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2199,
-    "AreaId": "737_PRHUR",
-    "StartOfPeriod": 20160121000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 1948,
-    "AreaId": "1948_CPMAR",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 2001,
-    "AreaId": "611_NUMANS",
-    "StartOfPeriod": 20170101000000,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 1,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 860,
-    "AreaId": "860_CARP",
-    "StartOfPeriod": 20160120000000,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
@@ -12756,15 +12585,6 @@
     "AreaManagerId": 935,
     "AreaId": "935_SP1",
     "StartOfPeriod": 20200730160302,
-    "PeriodName": "",
-    "ExitPossibleAllDay": 1,
-    "OpenAllYear": 0,
-    "EndOfPeriod": ""
-  },
-  {
-    "AreaManagerId": 935,
-    "AreaId": "935_SP3",
-    "StartOfPeriod": 20200907161628,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 0,
@@ -12942,30 +12762,633 @@
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2533,
-    "AreaId": "353_EIT",
-    "StartOfPeriod": 20201102133801,
+    "AreaManagerId": 141,
+    "AreaId": "141_SERF3",
+    "StartOfPeriod": 20200713135540,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 141,
+    "AreaId": "141_STADPL",
+    "StartOfPeriod": 20200713135332,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 995,
+    "AreaId": "995_WAAG",
+    "StartOfPeriod": 20201123153849,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 828,
+    "AreaId": "828_OOST",
+    "StartOfPeriod": 20201124083728,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 828,
+    "AreaId": "828_BOSS",
+    "StartOfPeriod": 20201124084230,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 995,
+    "AreaId": "995_AGDE",
+    "StartOfPeriod": 20201130153020,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": "",
     "EndOfPeriod": ""
   },
   {
-    "AreaManagerId": 2533,
-    "AreaId": "353_OVER",
-    "StartOfPeriod": 20201102133613,
+    "AreaManagerId": 935,
+    "AreaId": "935_SP3",
+    "StartOfPeriod": 20200907161630,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2587,
+    "AreaId": "2587_GAR01",
+    "StartOfPeriod": 20201130104553,
+    "PeriodName": "24*7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 715,
+    "AreaId": "715_TPL",
+    "StartOfPeriod": 20200715141538,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 160,
+    "AreaId": "160_GEMEEN",
+    "StartOfPeriod": 20201204111542,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 160,
+    "AreaId": "160_CETH",
+    "StartOfPeriod": 20201204103340,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 777,
+    "AreaId": "777_PTBAN",
+    "StartOfPeriod": 20201204130328,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 160,
+    "AreaId": "160_WEPL",
+    "StartOfPeriod": 20201204113458,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 777,
+    "AreaId": "777_PGCEN",
+    "StartOfPeriod": 20201207130134,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaId": "119_CENSTA",
+    "StartOfPeriod": 20201207151232,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaId": "119_KROMME",
+    "StartOfPeriod": 20201207152325,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 983,
+    "AreaId": "983_MAASKH",
+    "StartOfPeriod": 20200713120937,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaId": "119_KEYS",
+    "StartOfPeriod": 20201207114756,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 983,
+    "AreaId": "983_ARSE",
+    "StartOfPeriod": 20200716110445,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 983,
+    "AreaId": "983_A-Q4GS",
+    "StartOfPeriod": 20201130054648,
+    "PeriodName": "24 uur etmaal",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 983,
+    "AreaId": "983_A-POL",
+    "StartOfPeriod": 20201130055006,
+    "PeriodName": "winkeltijd jaar",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 606,
+    "AreaId": "606_STAD",
+    "StartOfPeriod": 20200715114747,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2062,
+    "AreaId": "867_UNNA",
+    "StartOfPeriod": 20201216122958,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2062,
+    "AreaId": "867_ELS",
+    "StartOfPeriod": 20201216120327,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 546,
+    "AreaId": "546_GARE",
+    "StartOfPeriod": 20201216113035,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 216,
+    "AreaId": "216_PTPAL",
+    "StartOfPeriod": 20201216130355,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 72,
+    "AreaId": "72_PTP1",
+    "StartOfPeriod": 20201217150056,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 221,
+    "AreaId": "221_PTTH",
+    "StartOfPeriod": 20201217122725,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 72,
+    "AreaId": "72_PTP3",
+    "StartOfPeriod": 20201217150135,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 216,
+    "AreaId": "216_PTELIS",
+    "StartOfPeriod": 20201217084201,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 166,
+    "AreaId": "166_PTSP",
+    "StartOfPeriod": 20201217115305,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 221,
+    "AreaId": "221_PTDL",
+    "StartOfPeriod": 20201217122432,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 166,
+    "AreaId": "166_BUHA",
+    "StartOfPeriod": 20201217111341,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 355,
+    "AreaId": "355_MARKT",
+    "StartOfPeriod": 20201203113522,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 221,
+    "AreaId": "221_PTHM",
+    "StartOfPeriod": 20201217122536,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 72,
+    "AreaId": "72_WAPR",
+    "StartOfPeriod": 20201217135550,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 72,
+    "AreaId": "72_PTWZD",
+    "StartOfPeriod": 20201217150154,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 166,
+    "AreaId": "166_PTBB",
+    "StartOfPeriod": 20201217112524,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 203,
+    "AreaId": "203_TORE",
+    "StartOfPeriod": 20200727154942,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 72,
+    "AreaId": "72_PTP2",
+    "StartOfPeriod": 20201217150115,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 355,
+    "AreaId": "355_KERK",
+    "StartOfPeriod": 20201127102533,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 216,
+    "AreaId": "216_PTVEER",
+    "StartOfPeriod": 20201217083426,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 221,
+    "AreaId": "221_PTMV",
+    "StartOfPeriod": 20201217122636,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 221,
+    "AreaId": "221_PTDB",
+    "StartOfPeriod": 20201217122329,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 355,
+    "AreaId": "355_UTRECH",
+    "StartOfPeriod": 20201203111334,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 855,
+    "AreaId": "GAR_TIVOLI",
+    "StartOfPeriod": 20201207162919,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 855,
+    "AreaId": "GAR_JUMBO",
+    "StartOfPeriod": 20201204152214,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 855,
+    "AreaId": "GAR_KONING",
+    "StartOfPeriod": 20201207155650,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 855,
+    "AreaId": "GAR_SCHOUW",
+    "StartOfPeriod": 20201204155524,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 855,
+    "AreaId": "GAR_PIEVRE",
+    "StartOfPeriod": 20201207161831,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 855,
+    "AreaId": "GAR_EMMA",
+    "StartOfPeriod": 20201207160750,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 0,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 855,
+    "AreaId": "GAR_HEUVEL",
+    "StartOfPeriod": 20201204142606,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 1948,
+    "AreaId": "1948_GPSCH",
+    "StartOfPeriod": 20201223155029,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 794,
+    "AreaId": "794_PRHOU",
+    "StartOfPeriod": 20201223142041,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 794,
+    "AreaId": "794_PRBRA",
+    "StartOfPeriod": 20201223142723,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 203,
+    "AreaId": "203_GOWT",
+    "StartOfPeriod": 20201223155829,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 794,
+    "AreaId": "794_CPBAK",
+    "StartOfPeriod": 20201223143005,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 794,
+    "AreaId": "794_PRBRO",
+    "StartOfPeriod": 20201223142603,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 1,
     "EndOfPeriod": ""
   },
   {
     "AreaManagerId": 34,
     "AreaId": "34_URCA",
-    "StartOfPeriod": 20201106120405,
+    "StartOfPeriod": 20201203095434,
     "PeriodName": "",
     "ExitPossibleAllDay": 1,
     "OpenAllYear": 1,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 34,
+    "AreaId": "34_SANTIA",
+    "StartOfPeriod": 20200805114254,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 632,
+    "AreaId": "HOUTTUIN",
+    "StartOfPeriod": 20201224103711,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 34,
+    "AreaId": "34_FLORIDA",
+    "StartOfPeriod": 20200713113652,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 307,
+    "AreaId": "307_PTSFB",
+    "StartOfPeriod": 20201229114001,
+    "PeriodName": "24/7",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 356,
+    "AreaId": "356_GARHT",
+    "StartOfPeriod": 20201229123956,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 353,
+    "AreaId": "353_EIT",
+    "StartOfPeriod": 20201229115316,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 356,
+    "AreaId": "356_GARSH",
+    "StartOfPeriod": 20201229124030,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 356,
+    "AreaId": "356_GARCP",
+    "StartOfPeriod": 20201229123922,
+    "PeriodName": "",
+    "ExitPossibleAllDay": "",
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 353,
+    "AreaId": "353_OVER",
+    "StartOfPeriod": 20201229115427,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": "",
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2533,
+    "AreaId": "353_EIT",
+    "StartOfPeriod": 20201102133720,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
+    "EndOfPeriod": ""
+  },
+  {
+    "AreaManagerId": 2533,
+    "AreaId": "353_OVER",
+    "StartOfPeriod": 20201102133529,
+    "PeriodName": "",
+    "ExitPossibleAllDay": 1,
+    "OpenAllYear": 0,
     "EndOfPeriod": ""
   }
 ]
