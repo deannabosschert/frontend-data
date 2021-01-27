@@ -18,9 +18,8 @@ const API = {
     const appToken = 'SAA7itayRYqrmMoM3qmGRtbR5'
     const parkingopenurl = `https://opendata.rdw.nl/resource/${query}.json?&$$app_token=${appToken}`
    
-
     return new Promise((resolve, reject) => {
-      fetcher.get(parkingopenurl)
+      d3.json(parkingopenurl)
         // .then(res => store.set(res))
         .then(data => {
           console.log(data)
