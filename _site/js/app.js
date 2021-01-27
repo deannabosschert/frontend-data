@@ -33,24 +33,24 @@ let renderData;
 
     // eerst async de drie datasets getten en cleanen, dan renderen.
     try {
-      const cleanData1 = await getData.parking("parkingOpen") // wait for parking-open data
+      const parkingOpen_1 = await getData.parking("parkingOpen") // wait for parking-open data
         .then(data => mapDataPO(data)) // clean data
         .then(data => exitNotPossible(data)) // filter data
         .then(data => checkOpeningTimes(data)) // filter data 2
         .then(data => seeArrayLength(data));
 
-      const cleanData2 = await getData.parking("parkingTijdvak") // wait for tijdvak data
-      .then(data => mapDataTV(data)) // clean data
-      .then(data => seeArrayLength(data));
-      
-      const cleanData3 = await getData.parking("gebiedRegeling") // wait for gebied-regeling data
-      .then(data => mapDataGR(data)) // clean data
-      .then(data => seeArrayLength(data));
-      
+      const parkingTijdvak_2 = await getData.parking("parkingTijdvak") // wait for tijdvak data
+        .then(data => mapDataTV(data)) // clean data
+        .then(data => seeArrayLength(data));
+
+      const gebiedRegeling_3 = await getData.parking("gebiedRegeling") // wait for gebied-regeling data
+        .then(data => mapDataGR(data)) // clean data
+        .then(data => seeArrayLength(data));
 
 
-      return renderData = await combineData(cleanData1, cleanData2, cleanData3)  // collect previous data, then render graphs.
-      .then(data => renderGraph.barz(data))
+
+      return renderData = await combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) // collect previous data, then render graphs.
+        .then(data => renderGraph.barz(data))
         .then(() => loadingState(''));
 
 
@@ -60,16 +60,46 @@ let renderData;
   })()
 })()
 
-function combineData(cleanData1, cleanData2, cleanData3) {
-  return new Promise((resolve, reject) => {
-  const data = {
-    parkingOpen: cleanData1,
-    parkingTijdvak: cleanData2,
-    gebiedRegeling: cleanData3
-  }
+function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
 
-  resolve(data)
-})
+  // console.log(gebiedRegeling_3)
+  // const matches = gebiedRegeling_3.map(ding => {
+  //   let managerID = ding.AreaManagerId
+  //   let selfID = ding.AreaId
+
+  //   for (item of parkingOpen_1) {
+  //     if (item.AreaID == selfID || item.AreaManagerId == managerID) {
+  //       return {
+  //         AreaID: item.selfID,
+  //         AreaManagerId: item.managerID,
+  //         OpenAllYear: item.OpenAllYear,
+  //         ExitPossibleAllDay: item.ExitPossibleAllDay
+  //       }
+  //     }
+  //     return {
+  //       AreaID: ding.AreaID,
+  //       AreaManagerId: ding.AreaManagerId,
+  //       OpenAllYear: ding.OpenAllYear,
+  //       ExitPossibleAllDay: ding.ExitPossibleAllDay}  
+  //     }})
+  // console.log(matches[0])
+  // console.log(matches[1])
+  // console.log(matches[2])
+  // console.log(matches[3])
+  // console.log(matches[4])
+
+
+
+
+  return new Promise((resolve, reject) => {
+    const data = {
+      parkingOpen: parkingOpen_1,
+      parkingTijdvak: parkingTijdvak_2,
+      gebiedRegeling: gebiedRegeling_3
+    }
+
+    resolve(data)
+  })
 
 }
 
