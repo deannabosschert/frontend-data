@@ -7,7 +7,7 @@ import {
 import {
   renderGraph
 } from "./modules/renderGraph.js"
-var cleanData;
+let cleanData;
 
 
 
@@ -19,12 +19,13 @@ var cleanData;
     try {
       return cleanData = await getData.parking() // wait for data
         .then(data => renderGraph.barz(data)) // render data
+        .then(() => loadingState(''))
+
       return renderData = await renderGraph.barz() // wait for data
         .then(data => mapData(data)) // get usable data
         // .then(data => exitNotPossible(data)) // filter data
         // .then(data => checkOpeningTimes(data))
         // .then(data => renderGraph())
-        .then(() => loadingState(''))
     } catch (err) {
       console.error(err)
     }
