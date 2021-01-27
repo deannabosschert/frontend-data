@@ -1,6 +1,8 @@
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy('assets/fonts')
   eleventyConfig.addPassthroughCopy('assets/img')
+  eleventyConfig.addPassthroughCopy('src/js')
+
   return {
     dir: {
       input: 'src',

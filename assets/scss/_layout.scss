@@ -149,5 +149,27 @@ footer p {
   text-align: center;
 }
 /* SIZING */
+.loader {
+  width: 4rem;
+  height: 4rem;
+  // background-color: lightblue;
+}
+
 /* STATE */
+.loading {
+  pointer-events: none;
+  width: 4rem;
+  height: 4rem;
+  border: 0.6em solid transparent;
+  border-color: rgb(216, 191, 216);
+  border-top-color: rgb(238, 130, 238);
+  border-radius: 50%;
+  animation: loadingspin 1s linear infinite;
+}
+
+@keyframes loadingspin {
+  100% {
+    transform: rotate(360deg)
+  }
+}
 /* THEME */
