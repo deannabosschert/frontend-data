@@ -410,7 +410,28 @@ footer p {
 }
 
 /* SIZING */
+.loader {
+  width: 4rem;
+  height: 4rem;
+}
+
 /* STATE */
+.loading {
+  pointer-events: none;
+  width: 4rem;
+  height: 4rem;
+  border: 0.6em solid transparent;
+  border-color: thistle;
+  border-top-color: violet;
+  border-radius: 50%;
+  animation: loadingspin 1s linear infinite;
+}
+
+@keyframes loadingspin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
 /* THEME */
 
 /*# sourceMappingURL=index.css.map */

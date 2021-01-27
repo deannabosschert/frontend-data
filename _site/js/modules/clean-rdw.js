@@ -1,11 +1,11 @@
 require('dotenv').config()
-const getData = require('./filters/get-rdw-data.js')
+const getData = require('../lib/lib/get-rdw-data.js')
 // const query = "figd-gux7" // exitpossibleallday, use this query when switching to fetching data from API
 // const limit = 2
 // const appToken = process.env.APP_TOKEN
 // const url = `https://opendata.rdw.nl/resource/${query}.json?$limit=${limit}&$$app_token=${appToken}`
-const parkingopenurl = require('../_data/datasets/Open_Data_Parkeren__PARKING_OPEN.json')
-const openingstijdenurl = require('../_data/datasets/Open_Data_Parkeren__PARKING_TOEGANG.json')
+const parkingopenurl = require('../../_data/datasets/Open_Data_Parkeren__PARKING_OPEN.json')
+const openingstijdenurl = require('../../_data/datasets/Open_Data_Parkeren__PARKING_TOEGANG.json')
 
 module.exports = async () => {
   try {
