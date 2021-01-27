@@ -432,6 +432,34 @@ footer p {
     transform: rotate(360deg);
   }
 }
-/* THEME */
+/* GRAPHS */
+h1, p, text {
+  font-family: BlinkMacSystemFont;
+}
+
+h1 {
+  margin: 1em 0 0 1em;
+}
+
+p {
+  margin: 0.5em 0 1em 2em;
+}
+
+g text.axis-label {
+  font-size: 1.5em;
+  fill: grey;
+}
+
+.tick text {
+  font-size: 1.2em;
+}
+
+.pie text {
+  fill: white;
+}
+
+text.pie-label {
+  fill: grey;
+}
 
 /*# sourceMappingURL=index.css.map */
