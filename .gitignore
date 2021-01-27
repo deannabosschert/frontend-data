@@ -26,3 +26,4 @@ copies
 
 above filenames are a mess because of an issue with iCloud duplicating stuff
 _site/js/modules/renderGraph copy.js
+src/js/modules/renderGraph copy.js

@@ -18,29 +18,33 @@ let cleanData;
     // eerst getten en cleanen in deze trycatch, dan renderen.
     try {
       return cleanData = await getData.parking() // wait for data
+        .then(data => mapData(data)) // clean data
         .then(data => renderGraph.barz(data)) // render data
         .then(() => loadingState(''))
 
       return renderData = await renderGraph.barz() // wait for data
         .then(data => mapData(data)) // get usable data
-        // .then(data => exitNotPossible(data)) // filter data
-        // .then(data => checkOpeningTimes(data))
-        // .then(data => renderGraph())
+      // .then(data => exitNotPossible(data)) // filter data
+      // .then(data => checkOpeningTimes(data))
+      // .then(data => renderGraph())
     } catch (err) {
       console.error(err)
     }
   })()
 })()
 
-
 function mapData(data) {
-  return data.map(item => ({
-    AreaId: item.AreaId,
-    AreaManagerId: item.AreaManagerId,
-    OpenAllYear: item.OpenAllYear,
-    ExitPossibleAllDay: item.ExitPossibleAllDay
-  }))
+console.log(data)
 }
+
+// function mapData(data) {
+//   return data.map(item => ({
+//     AreaId: item.AreaId,
+//     AreaManagerId: item.AreaManagerId,
+//     OpenAllYear: item.OpenAllYear,
+//     ExitPossibleAllDay: item.ExitPossibleAllDay
+//   }))
+// }
 
 function exitNotPossible(data) {
   console.log("Retrieved " + data.length + " records.")

@@ -1,4 +1,4 @@
-const parkingOpen = [
+[
   {
     "AreaManagerId": 599,
     "AreaId": "599_KRZM",
@@ -12969,7 +12969,3 @@ const parkingOpen = [
     "EndOfPeriod": ""
   }
 ]
-
-// export {
-//   parkingOpen
-// }
