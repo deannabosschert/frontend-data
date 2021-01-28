@@ -9,6 +9,8 @@
 
 </head>
 <body>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script type="module" src="/js/app.js"></script>
   
 <header id="top">
   <h1>frontend data</h1>
@@ -17,157 +19,35 @@
       <li><a href="/">RDW Data</a></li>
     </ul>
   </nav>
-</header>  
+</header>
 <main>
-<section>
-  <article>
+  <section>
     <h2>CoronaCurfew</h2>
-    <p>Hoeveel parkeerplaatsen hebben openingstijden die conflicteren met de huidige avondklok?</p>
-    
-    <div class="loader"></div>
-    <!-- <select id="filter">
-      <option value="1">1</option>
-      <option value="2">2</option>
-    </select>
-    <svg width="960" height="500"></svg> -->
-    <div class='container'>
-      <div class='row'>
-      <!-- <h2> watch time vs. age group</h2>
-            <p>total time watched: 1411 minutes</p>
-              <div class='radio'>
-                <label class='radio-inline'>
-                  <input type="radio" name="gender" value="male" onclick='change(this.value)'> male
-                </label>
-                <label class='radio-inline'>
-                  <input type="radio" name="gender" value="female" onclick='change(this.value)'> female
-                </label>
-                <label class='radio-inline'>
-                  <input type="radio" name="gender" value="both" onclick='change(this.value)' checked > both
-                </label>
-              </div> -->
-          <svg class='chart'>
-          </svg>
+    <p>Welke steden hebben de meeste parkeerplaatsen met openingstijden die conflicteren met de huidige avondklok?</p>
+    <h3>huidige avondklok: 21:00-4:30</h3>
+    <article>
+      <div class='radio'>
+        <label class='radio-inline red'>
+          <input type="radio" name="gender" value="start"> openingstijd
+        </label>
+        <label class='radio-inline blue'>
+          <input type="radio" name="gender" value="end"> sluitingstijd
+        </label>
+        <label class='radio-inline purple'>
+          <input type="radio" name="gender" value="both" checked> beide
+        </label>
       </div>
-    </div>
-  </article>
-</section>
-</main>
+      <div class="loader"></div>
 
+      <svg class='chart'>
+      </svg>
+
+    </article>
+  </section>
+</main>
   <footer><p>Made by Deanna Bosschert, student @ CMD Amsterdam. Coded during the Tech Track of the Information Design Project in 2020.</p></footer>
 <a class="backToTop" href="/#top">Back to top</a>
 
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-  <script type="module" src="/js/app.js"></script>
-  <!-- <script>
-    //functions for toggling between data
-    function change(value){
-    
-        if(value === 'male'){
-            update(maleData);
-        }else if(value === 'female'){
-            update(femaleData);
-        }else{
-            update(bothData);
-        }
-    }
-    
-    function update(data){
-        //set domain for the x axis
-        xChart.domain(data.map(function(d){ return d.viewer_age; }) );
-        //set domain for y axis
-        yChart.domain( [0, d3.max(data, function(d){ return +d.watch_time_minutes; })] );
-        
-        //get the width of each bar 
-        var barWidth = width / data.length;
-        
-        //select all bars on the graph, take them out, and exit the previous data set. 
-        //then you can add/enter the new data set
-        var bars = chart.selectAll(".bar")
-                        .remove()
-                        .exit()
-                        .data(data)		
-        //now actually give each rectangle the corresponding data
-        bars.enter()
-            .append("rect")
-            .attr("class", "bar")
-            .attr("x", function(d, i){ return i * barWidth + 1 })
-            .attr("y", function(d){ return yChart( d.watch_time_minutes); })
-            .attr("height", function(d){ return height - yChart(d.watch_time_minutes); })
-            .attr("width", barWidth - 1)
-            .attr("fill", function(d){ 
-                if(d.viewer_gender === "FEMALE"){
-                    return "rgb(251,180,174)";
-                }else{
-                    return "rgb(179,205,227)";
-                }
-            });
-        //left axis
-        chart.select('.y')
-              .call(yAxis)
-        //bottom axis
-        chart.select('.xAxis')
-            .attr("transform", "translate(0," + height + ")")
-            .call(xAxis)
-            .selectAll("text")
-                .style("text-anchor", "end")
-                .attr("dx", "-.8em")
-                .attr("dy", ".15em")
-                .attr("transform", function(d){
-                    return "rotate(-65)";
-                });
-                
-    }//end update
-    
-    //set up chart
-    var margin = {top: 20, right: 20, bottom: 95, left: 50};
-    var width = 800;
-    var height = 500;
-    
-    var chart = d3.select(".chart")
-                    .attr("width", width + margin.left + margin.right)
-                    .attr("height", height + margin.top + margin.bottom)
-                    .append("g")
-                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-    
-    var xChart = d3.scaleBand()
-                    .range([0, width]);
-                    
-    var yChart = d3.scaleLinear()
-                    .range([height, 0]);
-    
-    var xAxis = d3.axisBottom(xChart);
-    var yAxis = d3.axisLeft(yChart);
-    
-    //set up axes
-    //left axis
-        chart.append("g")
-              .attr("class", "y axis")
-              .call(yAxis)
-              
-        //bottom axis
-        chart.append("g")
-            .attr("class", "xAxis")
-            .attr("transform", "translate(0," + height + ")")
-            .call(xAxis)
-            .selectAll("text")
-                .style("text-anchor", "end")
-                .attr("dx", "-.8em")
-                .attr("dy", ".15em")
-                .attr("transform", function(d){
-                    return "rotate(-65)";
-                });
-    
-    //add labels
-    chart
-        .append("text")
-        .attr("transform", "translate(-35," +  (height+margin.bottom)/2 + ") rotate(-90)")
-        .text("% of total watch time");
-            
-    chart
-        .append("text")
-        .attr("transform", "translate(" + (width/2) + "," + (height + margin.bottom - 5) + ")")
-        .text("age group");
-    
-   </script> -->
+
 </body>
 </html>
