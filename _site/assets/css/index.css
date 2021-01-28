@@ -301,7 +301,7 @@ nav ul {
 
 nav ul li {
   padding: 0.2rem;
-  border-bottom: 3px solid #754575;
+  border-bottom: 3px solid mediumpurple;
   margin-bottom: 0;
 }
 
@@ -335,7 +335,8 @@ article {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 2.5rem;
+  margin: 0.5rem;
+  max-height: 100vh;
 }
 
 p {
@@ -410,9 +411,13 @@ footer p {
 }
 
 /* SIZING */
-.loader {
-  width: 4rem;
-  height: 4rem;
+h3 {
+  padding: 0.75rem;
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: inset 0 0px 4px 4px #efefef;
+  backdrop-filter: blur(4px);
+  border-radius: 5px;
+  margin: 0.75rem;
 }
 
 /* STATE */
@@ -421,8 +426,8 @@ footer p {
   width: 4rem;
   height: 4rem;
   border: 0.6em solid transparent;
-  border-color: thistle;
-  border-top-color: violet;
+  border-color: #b582b5;
+  border-top-color: mediumpurple;
   border-radius: 50%;
   animation: loadingspin 1s linear infinite;
 }
@@ -434,10 +439,14 @@ footer p {
 }
 .radio {
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
 }
 
 label {
-  background-image: linear-gradient(to right, #754575 -10%, #754575 60%, #ece0ec 99%, #b582b5 155%);
+  background-image: linear-gradient(to right, #484848 -10%, mediumpurple 60%, #ece0ec 99%, #b582b5 155%);
   color: white;
   border-radius: 5px;
   letter-spacing: 0.25px;
@@ -449,6 +458,7 @@ label {
   background-size: 200% auto;
   padding: 0.7rem 1rem;
   margin: 0.2rem;
+  min-width: fit-content;
 }
 label:hover {
   box-shadow: 0px 0px 0px 2px rgba(24, 175, 117, 0.05);
@@ -467,6 +477,18 @@ label:focus {
 }
 label:disabled {
   background-color: grey;
+}
+
+.red {
+  background-image: linear-gradient(to right, #484848 -10%, #db5b65 60%, #ece0ec 99%, #b582b5 155%);
+}
+
+.blue {
+  background-image: linear-gradient(to right, #484848 -10%, #60a0d4 60%, #ece0ec 99%, #b582b5 155%);
+}
+
+input, label {
+  font-size: 1rem;
 }
 
 /*# sourceMappingURL=index.css.map */

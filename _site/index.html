@@ -23,27 +23,22 @@
 <main>
   <section>
     <h2>CoronaCurfew</h2>
-    <p>Hoeveel steden hebben parkeerplaatsen met openingstijden die conflicteren met de huidige avondklok?</p>
-
+    <p>Welke steden hebben de meeste parkeerplaatsen met openingstijden die conflicteren met de huidige avondklok?</p>
+    <h3>huidige avondklok: 21:00-4:30</h3>
     <article>
-      <div class="loader"></div>
-      <!-- <select id="filter">
-      <option value="1">1</option>
-      <option value="2">2</option>
-    </select>
-    <svg width="960" height="500"></svg> -->
-
       <div class='radio'>
-        <label class='radio-inline'>
-          <input type="radio" name="gender" value="start"> start
+        <label class='radio-inline red'>
+          <input type="radio" name="gender" value="start"> openingstijd
         </label>
-        <label class='radio-inline'>
-          <input type="radio" name="gender" value="end"> end
+        <label class='radio-inline blue'>
+          <input type="radio" name="gender" value="end"> sluitingstijd
         </label>
-        <label class='radio-inline'>
-          <input type="radio" name="gender" value="both" checked> both
+        <label class='radio-inline purple'>
+          <input type="radio" name="gender" value="both" checked> beide
         </label>
       </div>
+      <div class="loader"></div>
+
       <svg class='chart'>
       </svg>
 
