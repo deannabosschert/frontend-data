@@ -89,7 +89,7 @@ export function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3, g
 
     }
     // const allData = dataSets.filter(addCity)
-
+    console.log(dataSets)
     resolve(dataSets)
   })
 }
