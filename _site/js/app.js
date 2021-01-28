@@ -111,6 +111,7 @@ function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
       if (result.AreaManagerId == regeling.AreaManagerId && result.RegulationId == regeling.RegulationId) {
         return {
           AreaId: result.AreaId,
+
           AreaManagerId: regeling.AreaManagerId,
           RegulationId: regeling.RegulationId,
           OpenAllYear: result.OpenAllYear,
