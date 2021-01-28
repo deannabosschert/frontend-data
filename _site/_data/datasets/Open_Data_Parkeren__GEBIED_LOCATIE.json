@@ -1,0 +1,2536 @@
+[
+  {
+    "AreaManagerId": 2468,
+    "AreaManagerDesc": "Aberdeen Asset Management",
+    "StartDateAreaManagerId": 20140101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1783,
+    "AreaManagerDesc": "Westland",
+    "StartDateAreaManagerId": 20131024,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1708,
+    "AreaManagerDesc": "Steenwijkerland",
+    "StartDateAreaManagerId": 20131018,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1895,
+    "AreaManagerDesc": "Oldambt",
+    "StartDateAreaManagerId": 20120608,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 505,
+    "AreaManagerDesc": "Dordrecht",
+    "StartDateAreaManagerId": 20130212,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2451,
+    "AreaManagerDesc": "Martini-ziekenhuis",
+    "StartDateAreaManagerId": 20130916,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 173,
+    "AreaManagerDesc": "Oldenzaal",
+    "StartDateAreaManagerId": 20120516,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 928,
+    "AreaManagerDesc": "Kerkrade",
+    "StartDateAreaManagerId": 20120620,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2062,
+    "AreaManagerDesc": "P1",
+    "StartDateAreaManagerId": 20130917,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 620,
+    "AreaManagerDesc": "Vianen",
+    "StartDateAreaManagerId": 20120220,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 861,
+    "AreaManagerDesc": "Veldhoven",
+    "StartDateAreaManagerId": 20120322,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 642,
+    "AreaManagerDesc": "Zwijndrecht",
+    "StartDateAreaManagerId": 20120921,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 297,
+    "AreaManagerDesc": "Zaltbommel",
+    "StartDateAreaManagerId": 20121026,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 907,
+    "AreaManagerDesc": "Gennep",
+    "StartDateAreaManagerId": 20120418,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2452,
+    "AreaManagerDesc": "Martini-Plaza",
+    "StartDateAreaManagerId": 20130916,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 352,
+    "AreaManagerDesc": "Wijk bij Duurstede",
+    "StartDateAreaManagerId": 20121005,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2463,
+    "AreaManagerDesc": "PCH",
+    "StartDateAreaManagerId": 20131111,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 553,
+    "AreaManagerDesc": "Lisse",
+    "StartDateAreaManagerId": 20131016,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 275,
+    "AreaManagerDesc": "Rheden",
+    "StartDateAreaManagerId": 20120522,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2450,
+    "AreaManagerDesc": "UMCG",
+    "StartDateAreaManagerId": 20130916,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 796,
+    "AreaManagerDesc": "'s-Hertogenbosch",
+    "StartDateAreaManagerId": 20111027,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 448,
+    "AreaManagerDesc": "Texel",
+    "StartDateAreaManagerId": 20120314,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 479,
+    "AreaManagerDesc": "Zaanstad",
+    "StartDateAreaManagerId": 20130416,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1676,
+    "AreaManagerDesc": "Schouwen-Duiveland",
+    "StartDateAreaManagerId": 20131018,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 965,
+    "AreaManagerDesc": "Simpelveld",
+    "StartDateAreaManagerId": 20120530,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 984,
+    "AreaManagerDesc": "Venray",
+    "StartDateAreaManagerId": 20120502,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 405,
+    "AreaManagerDesc": "Hoorn",
+    "StartDateAreaManagerId": 20131003,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 718,
+    "AreaManagerDesc": "Vlissingen",
+    "StartDateAreaManagerId": 20120515,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 632,
+    "AreaManagerDesc": "Woerden",
+    "StartDateAreaManagerId": 20121011,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 867,
+    "AreaManagerDesc": "Waalwijk",
+    "StartDateAreaManagerId": 20120821,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 473,
+    "AreaManagerDesc": "Zandvoort",
+    "StartDateAreaManagerId": 20120420,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 384,
+    "AreaManagerDesc": "Diemen",
+    "StartDateAreaManagerId": 20120405,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 858,
+    "AreaManagerDesc": "Valkenswaard",
+    "StartDateAreaManagerId": 20131017,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 301,
+    "AreaManagerDesc": "Zutphen",
+    "StartDateAreaManagerId": 20121219,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 373,
+    "AreaManagerDesc": "Bergen",
+    "StartDateAreaManagerId": 20121109,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1641,
+    "AreaManagerDesc": "Maasgouw",
+    "StartDateAreaManagerId": 20120515,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 221,
+    "AreaManagerDesc": "Doesburg",
+    "StartDateAreaManagerId": 20120229,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 385,
+    "AreaManagerDesc": "Edam-Volendam",
+    "StartDateAreaManagerId": 20120531,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 622,
+    "AreaManagerDesc": "Vlaardingen",
+    "StartDateAreaManagerId": 20131017,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 994,
+    "AreaManagerDesc": "Valkenburg aan de Geul",
+    "StartDateAreaManagerId": 20120524,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 262,
+    "AreaManagerDesc": "Lochem",
+    "StartDateAreaManagerId": 20120220,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 860,
+    "AreaManagerDesc": "Veghel",
+    "StartDateAreaManagerId": 20120306,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 748,
+    "AreaManagerDesc": "Bergen op Zoom",
+    "StartDateAreaManagerId": 20120620,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 677,
+    "AreaManagerDesc": "Hulst",
+    "StartDateAreaManagerId": 20131021,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2453,
+    "AreaManagerDesc": "Holland Casino",
+    "StartDateAreaManagerId": 20130916,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 9999,
+    "AreaManagerDesc": "Nederland",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 307,
+    "AreaManagerDesc": "Amersfoort",
+    "StartDateAreaManagerId": 20110101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 80,
+    "AreaManagerDesc": "Leeuwarden",
+    "StartDateAreaManagerId": 20120109,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 402,
+    "AreaManagerDesc": "Hilversum",
+    "StartDateAreaManagerId": 20120222,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 457,
+    "AreaManagerDesc": "Weesp",
+    "StartDateAreaManagerId": 20131017,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 717,
+    "AreaManagerDesc": "Veere",
+    "StartDateAreaManagerId": 20120401,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 824,
+    "AreaManagerDesc": "Oisterwijk",
+    "StartDateAreaManagerId": 20120221,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2462,
+    "AreaManagerDesc": "Parking + Protection",
+    "StartDateAreaManagerId": 20131111,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 589,
+    "AreaManagerDesc": "Oudewater",
+    "StartDateAreaManagerId": 20120417,
+    "EndDateAreaManagerId": 20130507,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 453,
+    "AreaManagerDesc": "Velsen",
+    "StartDateAreaManagerId": 20120525,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 281,
+    "AreaManagerDesc": "Tiel",
+    "StartDateAreaManagerId": 20120418,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 163,
+    "AreaManagerDesc": "Hellendoorn",
+    "StartDateAreaManagerId": 20131001,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1729,
+    "AreaManagerDesc": "Gulpen-Wittem",
+    "StartDateAreaManagerId": 20131024,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 344,
+    "AreaManagerDesc": "Utrecht",
+    "StartDateAreaManagerId": 20111014,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 599,
+    "AreaManagerDesc": "Rotterdam",
+    "StartDateAreaManagerId": 20101001,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.rotterdam.nl"
+  },
+  {
+    "AreaManagerId": 988,
+    "AreaManagerDesc": "Weert",
+    "StartDateAreaManagerId": 20120417,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.weert.nl"
+  },
+  {
+    "AreaManagerId": 268,
+    "AreaManagerDesc": "Nijmegen",
+    "StartDateAreaManagerId": 20120521,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.nijmegen.nl"
+  },
+  {
+    "AreaManagerId": 202,
+    "AreaManagerDesc": "Arnhem",
+    "StartDateAreaManagerId": 20120330,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.arnhem.nl"
+  },
+  {
+    "AreaManagerId": 228,
+    "AreaManagerDesc": "Ede",
+    "StartDateAreaManagerId": 20131008,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.ede.nl"
+  },
+  {
+    "AreaManagerId": 177,
+    "AreaManagerDesc": "Raalte",
+    "StartDateAreaManagerId": 20120501,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.raalte.nl"
+  },
+  {
+    "AreaManagerId": 147,
+    "AreaManagerDesc": "Borne",
+    "StartDateAreaManagerId": 20120229,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.borne.nl"
+  },
+  {
+    "AreaManagerId": 345,
+    "AreaManagerDesc": "Veenendaal",
+    "StartDateAreaManagerId": 20120925,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.veenendaal.nl"
+  },
+  {
+    "AreaManagerId": 355,
+    "AreaManagerDesc": "Zeist",
+    "StartDateAreaManagerId": 20130927,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.zeist.nl"
+  },
+  {
+    "AreaManagerId": 119,
+    "AreaManagerDesc": "Meppel",
+    "StartDateAreaManagerId": 20131010,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.meppel.nl"
+  },
+  {
+    "AreaManagerId": 289,
+    "AreaManagerDesc": "Wageningen",
+    "StartDateAreaManagerId": 20131001,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.wageningen.nl"
+  },
+  {
+    "AreaManagerId": 118,
+    "AreaManagerDesc": "Hoogeveen",
+    "StartDateAreaManagerId": 20120423,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.hoogeveen.nl"
+  },
+  {
+    "AreaManagerId": 222,
+    "AreaManagerDesc": "Doetinchem",
+    "StartDateAreaManagerId": 20131003,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.doetinchem.nl"
+  },
+  {
+    "AreaManagerId": 267,
+    "AreaManagerDesc": "Nijkerk",
+    "StartDateAreaManagerId": 20120405,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.nijkerk.eu"
+  },
+  {
+    "AreaManagerId": 299,
+    "AreaManagerDesc": "Zevenaar",
+    "StartDateAreaManagerId": 20120316,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.zevenaar.nl"
+  },
+  {
+    "AreaManagerId": 321,
+    "AreaManagerDesc": "Houten",
+    "StartDateAreaManagerId": 20131004,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.houten.nl"
+  },
+  {
+    "AreaManagerId": 243,
+    "AreaManagerDesc": "Harderwijk",
+    "StartDateAreaManagerId": 20130930,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.harderwijk.nl"
+  },
+  {
+    "AreaManagerId": 153,
+    "AreaManagerDesc": "Enschede",
+    "StartDateAreaManagerId": 20100101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 513,
+    "AreaManagerDesc": "Gouda",
+    "StartDateAreaManagerId": 20130918,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gouda.nl"
+  },
+  {
+    "AreaManagerId": 546,
+    "AreaManagerDesc": "Leiden",
+    "StartDateAreaManagerId": 20131008,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.leiden.nl"
+  },
+  {
+    "AreaManagerId": 606,
+    "AreaManagerDesc": "Schiedam",
+    "StartDateAreaManagerId": 20131010,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.schiedam.nl"
+  },
+  {
+    "AreaManagerId": 687,
+    "AreaManagerDesc": "Middelburg",
+    "StartDateAreaManagerId": 20130924,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.middelburg.nl"
+  },
+  {
+    "AreaManagerId": 637,
+    "AreaManagerDesc": "Zoetermeer",
+    "StartDateAreaManagerId": 20130927,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.zoetermeer.nl"
+  },
+  {
+    "AreaManagerId": 713,
+    "AreaManagerDesc": "Sluis",
+    "StartDateAreaManagerId": 20131010,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gemeentesluis.nl"
+  },
+  {
+    "AreaManagerId": 715,
+    "AreaManagerDesc": "Terneuzen",
+    "StartDateAreaManagerId": 20120403,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.terneuzen.nl"
+  },
+  {
+    "AreaManagerId": 72,
+    "AreaManagerDesc": "Harlingen",
+    "StartDateAreaManagerId": 20120104,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 392,
+    "AreaManagerDesc": "Haarlem",
+    "StartDateAreaManagerId": 20130926,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.haarlem.nl"
+  },
+  {
+    "AreaManagerId": 664,
+    "AreaManagerDesc": "Goes",
+    "StartDateAreaManagerId": 20120426,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.goes.nl"
+  },
+  {
+    "AreaManagerId": 758,
+    "AreaManagerDesc": "Breda",
+    "StartDateAreaManagerId": 20120302,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.breda.nl"
+  },
+  {
+    "AreaManagerId": 856,
+    "AreaManagerDesc": "Uden",
+    "StartDateAreaManagerId": 20131008,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.uden.nl"
+  },
+  {
+    "AreaManagerId": 794,
+    "AreaManagerDesc": "Helmond",
+    "StartDateAreaManagerId": 20120328,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.helmond.nl"
+  },
+  {
+    "AreaManagerId": 957,
+    "AreaManagerDesc": "Roermond",
+    "StartDateAreaManagerId": 20131009,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.roermond.nl"
+  },
+  {
+    "AreaManagerId": 981,
+    "AreaManagerDesc": "Vaals",
+    "StartDateAreaManagerId": 20120830,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.vaals.nl"
+  },
+  {
+    "AreaManagerId": 983,
+    "AreaManagerDesc": "Venlo",
+    "StartDateAreaManagerId": 20120705,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.venlo.nl"
+  },
+  {
+    "AreaManagerId": 141,
+    "AreaManagerDesc": "Almelo",
+    "StartDateAreaManagerId": 20130917,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.almelo.nl"
+  },
+  {
+    "AreaManagerId": 1674,
+    "AreaManagerDesc": "Roosendaal",
+    "StartDateAreaManagerId": 20120305,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.roosendaal.nl"
+  },
+  {
+    "AreaManagerId": 518,
+    "AreaManagerDesc": "Den Haag",
+    "StartDateAreaManagerId": 20130930,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.denhaag.nl"
+  },
+  {
+    "AreaManagerId": 995,
+    "AreaManagerDesc": "Lelystad",
+    "StartDateAreaManagerId": 20131009,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.lelystad.nl"
+  },
+  {
+    "AreaManagerId": 1742,
+    "AreaManagerDesc": "Rijssen - Holten",
+    "StartDateAreaManagerId": 20131009,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.rijssen-holten.nl"
+  },
+  {
+    "AreaManagerId": 1684,
+    "AreaManagerDesc": "Cuijk",
+    "StartDateAreaManagerId": 20120301,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.cuijk.nl"
+  },
+  {
+    "AreaManagerId": 1916,
+    "AreaManagerDesc": "Leidschendam-Voorburg",
+    "StartDateAreaManagerId": 20120321,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.leidschendam-voorburg.nl"
+  },
+  {
+    "AreaManagerId": 2459,
+    "AreaManagerDesc": "APCOA Parking",
+    "StartDateAreaManagerId": 20131111,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.apcoa.nl"
+  },
+  {
+    "AreaManagerId": 2485,
+    "AreaManagerDesc": "Velperpoort BV",
+    "StartDateAreaManagerId": 20150204,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2461,
+    "AreaManagerDesc": "BKS Parking",
+    "StartDateAreaManagerId": 20131111,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.bksparking.nl"
+  },
+  {
+    "AreaManagerId": 2487,
+    "AreaManagerDesc": "De Zeeheld Parking",
+    "StartDateAreaManagerId": 20150219,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2486,
+    "AreaManagerDesc": "Markthof Parkeergarage BV",
+    "StartDateAreaManagerId": 20150219,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1680,
+    "AreaManagerDesc": "Aa en Hunze",
+    "StartDateAreaManagerId": 20150420,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 614,
+    "AreaManagerDesc": "Westvoorne",
+    "StartDateAreaManagerId": 20150507,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 738,
+    "AreaManagerDesc": "Aalburg",
+    "StartDateAreaManagerId": 20150421,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 197,
+    "AreaManagerDesc": "Aalten",
+    "StartDateAreaManagerId": 20150422,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.aalten.nl"
+  },
+  {
+    "AreaManagerId": 59,
+    "AreaManagerDesc": "Achtkarspelen",
+    "StartDateAreaManagerId": 20150422,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.achtkarspelen.nl"
+  },
+  {
+    "AreaManagerId": 613,
+    "AreaManagerDesc": "Albrandswaard",
+    "StartDateAreaManagerId": 20150423,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.albrandswaard.nl"
+  },
+  {
+    "AreaManagerId": 855,
+    "AreaManagerDesc": "Tilburg",
+    "StartDateAreaManagerId": 20131008,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.tilburg.nl"
+  },
+  {
+    "AreaManagerId": 3,
+    "AreaManagerDesc": "Appingedam",
+    "StartDateAreaManagerId": 20150505,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.appingedam.nl"
+  },
+  {
+    "AreaManagerId": 376,
+    "AreaManagerDesc": "Blaricum",
+    "StartDateAreaManagerId": 20150521,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.blaricum.nl"
+  },
+  {
+    "AreaManagerId": 743,
+    "AreaManagerDesc": "Asten",
+    "StartDateAreaManagerId": 20150506,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.asten.nl"
+  },
+  {
+    "AreaManagerId": 308,
+    "AreaManagerDesc": "Baarn",
+    "StartDateAreaManagerId": 20150506,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.baarn.nl"
+  },
+  {
+    "AreaManagerId": 753,
+    "AreaManagerDesc": "Best",
+    "StartDateAreaManagerId": 20150519,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gembest.nl"
+  },
+  {
+    "AreaManagerId": 501,
+    "AreaManagerDesc": "Brielle",
+    "StartDateAreaManagerId": 20150528,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.brielle.nl"
+  },
+  {
+    "AreaManagerId": 757,
+    "AreaManagerDesc": "Boxtel",
+    "StartDateAreaManagerId": 20120307,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.boxtel.nl"
+  },
+  {
+    "AreaManagerId": 106,
+    "AreaManagerDesc": "Assen",
+    "StartDateAreaManagerId": 20121113,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.assen.nl"
+  },
+  {
+    "AreaManagerId": 889,
+    "AreaManagerDesc": "Beesel",
+    "StartDateAreaManagerId": 20150512,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.beesel.nl"
+  },
+  {
+    "AreaManagerId": 1859,
+    "AreaManagerDesc": "Berkelland",
+    "StartDateAreaManagerId": 20150512,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 489,
+    "AreaManagerDesc": "Barendrecht",
+    "StartDateAreaManagerId": 20150507,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.barendrecht.nl"
+  },
+  {
+    "AreaManagerId": 756,
+    "AreaManagerDesc": "Boxmeer",
+    "StartDateAreaManagerId": 20150526,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.boxmeer.nl"
+  },
+  {
+    "AreaManagerId": 1681,
+    "AreaManagerDesc": "Borger-Odoorn",
+    "StartDateAreaManagerId": 20150522,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.borger-odoorn.nl"
+  },
+  {
+    "AreaManagerId": 5,
+    "AreaManagerDesc": "Bedum",
+    "StartDateAreaManagerId": 20150507,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.bedum.nl"
+  },
+  {
+    "AreaManagerId": 1728,
+    "AreaManagerDesc": "Bladel",
+    "StartDateAreaManagerId": 20150521,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1721,
+    "AreaManagerDesc": "Bernheze",
+    "StartDateAreaManagerId": 20150512,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.bernheze.org"
+  },
+  {
+    "AreaManagerId": 888,
+    "AreaManagerDesc": "Beek",
+    "StartDateAreaManagerId": 20150512,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gemeentebeek.nl"
+  },
+  {
+    "AreaManagerId": 585,
+    "AreaManagerDesc": "Binnenmaas",
+    "StartDateAreaManagerId": 20150520,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.binnenmaas.nl"
+  },
+  {
+    "AreaManagerId": 502,
+    "AreaManagerDesc": "Capelle aan den IJssel",
+    "StartDateAreaManagerId": 20150603,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.capelleaandenijssel.nl"
+  },
+  {
+    "AreaManagerId": 503,
+    "AreaManagerDesc": "Delft",
+    "StartDateAreaManagerId": 20130930,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.delft.nl"
+  },
+  {
+    "AreaManagerId": 310,
+    "AreaManagerDesc": "De Bilt",
+    "StartDateAreaManagerId": 20150609,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.debilt.nl"
+  },
+  {
+    "AreaManagerId": 611,
+    "AreaManagerDesc": "Cromstrijen",
+    "StartDateAreaManagerId": 20150604,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.cromstrijen.nl"
+  },
+  {
+    "AreaManagerId": 383,
+    "AreaManagerDesc": "Castricum",
+    "StartDateAreaManagerId": 20150603,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.castricum.nl"
+  },
+  {
+    "AreaManagerId": 109,
+    "AreaManagerDesc": "Coevorden",
+    "StartDateAreaManagerId": 20150603,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.coevorden.nl"
+  },
+  {
+    "AreaManagerId": 213,
+    "AreaManagerDesc": "Brummen",
+    "StartDateAreaManagerId": 20150602,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.brummen.nl"
+  },
+  {
+    "AreaManagerId": 148,
+    "AreaManagerDesc": "Dalfsen",
+    "StartDateAreaManagerId": 20150612,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.dalfsen.nl"
+  },
+  {
+    "AreaManagerId": 736,
+    "AreaManagerDesc": "De Ronde Venen",
+    "StartDateAreaManagerId": 20150610,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.derondevenen.nl"
+  },
+  {
+    "AreaManagerId": 312,
+    "AreaManagerDesc": "Bunnik",
+    "StartDateAreaManagerId": 20150602,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.bunnik.nl"
+  },
+  {
+    "AreaManagerId": 216,
+    "AreaManagerDesc": "Culemborg",
+    "StartDateAreaManagerId": 20131022,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.culemborg.nl"
+  },
+  {
+    "AreaManagerId": 1706,
+    "AreaManagerDesc": "Cranendonck",
+    "StartDateAreaManagerId": 20150604,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.cranendonck.nl"
+  },
+  {
+    "AreaManagerId": 317,
+    "AreaManagerDesc": "Eemnes",
+    "StartDateAreaManagerId": 20150619,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.eemnes.nl"
+  },
+  {
+    "AreaManagerId": 1921,
+    "AreaManagerDesc": "De Fryske Marren",
+    "StartDateAreaManagerId": 20150617,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.defryskemarren.nl"
+  },
+  {
+    "AreaManagerId": 90,
+    "AreaManagerDesc": "Smallingerland",
+    "StartDateAreaManagerId": 20120807,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.smallingerland.nl"
+  },
+  {
+    "AreaManagerId": 772,
+    "AreaManagerDesc": "Eindhoven",
+    "StartDateAreaManagerId": 20130919,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.eindhoven.nl"
+  },
+  {
+    "AreaManagerId": 1711,
+    "AreaManagerDesc": "Echt-Susteren",
+    "StartDateAreaManagerId": 20150619,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.echt-susteren.nl"
+  },
+  {
+    "AreaManagerId": 400,
+    "AreaManagerDesc": "Den Helder",
+    "StartDateAreaManagerId": 20120822,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.denhelder.nl"
+  },
+  {
+    "AreaManagerId": 762,
+    "AreaManagerDesc": "Deurne",
+    "StartDateAreaManagerId": 20131002,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.deurne.nl"
+  },
+  {
+    "AreaManagerId": 1891,
+    "AreaManagerDesc": "Dantumadiel",
+    "StartDateAreaManagerId": 20150615,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.dantumadiel.eu"
+  },
+  {
+    "AreaManagerId": 523,
+    "AreaManagerDesc": "Hardinxveld-Giessendam",
+    "StartDateAreaManagerId": 20150707,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.hardinxveld-giessendam.nl"
+  },
+  {
+    "AreaManagerId": 388,
+    "AreaManagerDesc": "Enkhuizen",
+    "StartDateAreaManagerId": 20120606,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.enkhuizen.nl"
+  },
+  {
+    "AreaManagerId": 398,
+    "AreaManagerDesc": "Heerhugowaard",
+    "StartDateAreaManagerId": 20120425,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heerhugowaard.nl"
+  },
+  {
+    "AreaManagerId": 1771,
+    "AreaManagerDesc": "Geldrop-Mierlo",
+    "StartDateAreaManagerId": 20131024,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.geldrop-mierlo.nl"
+  },
+  {
+    "AreaManagerId": 1924,
+    "AreaManagerDesc": "Goeree-Overflakkee",
+    "StartDateAreaManagerId": 20150626,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.goeree-overflakkee.nl"
+  },
+  {
+    "AreaManagerId": 396,
+    "AreaManagerDesc": "Heemskerk",
+    "StartDateAreaManagerId": 20150708,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heemskerk.nl"
+  },
+  {
+    "AreaManagerId": 689,
+    "AreaManagerDesc": "Giessenlanden",
+    "StartDateAreaManagerId": 20150623,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.giessenlanden.nl"
+  },
+  {
+    "AreaManagerId": 2479,
+    "AreaManagerDesc": "Centrummanagement",
+    "StartDateAreaManagerId": 20141113,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1911,
+    "AreaManagerDesc": "Hollands Kroon",
+    "StartDateAreaManagerId": 20150714,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.hollandskroon.nl"
+  },
+  {
+    "AreaManagerId": 399,
+    "AreaManagerDesc": "Heiloo",
+    "StartDateAreaManagerId": 20150709,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heiloo.nl"
+  },
+  {
+    "AreaManagerId": 917,
+    "AreaManagerDesc": "Heerlen",
+    "StartDateAreaManagerId": 20120614,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heerlen.nl"
+  },
+  {
+    "AreaManagerId": 530,
+    "AreaManagerDesc": "Hellevoetsluis",
+    "StartDateAreaManagerId": 20150709,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.hellevoetsluis.nl"
+  },
+  {
+    "AreaManagerId": 1690,
+    "AreaManagerDesc": "De Wolden",
+    "StartDateAreaManagerId": 20150714,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.dewolden.nl"
+  },
+  {
+    "AreaManagerId": 534,
+    "AreaManagerDesc": "Hillegom",
+    "StartDateAreaManagerId": 20150713,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 828,
+    "AreaManagerDesc": "Oss",
+    "StartDateAreaManagerId": 20131003,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.oss.nl"
+  },
+  {
+    "AreaManagerId": 10,
+    "AreaManagerDesc": "Delfzijl",
+    "StartDateAreaManagerId": 20131022,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.delfzijl.nl"
+  },
+  {
+    "AreaManagerId": 416,
+    "AreaManagerDesc": "Langedijk",
+    "StartDateAreaManagerId": 20150727,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.langedijk.nl"
+  },
+  {
+    "AreaManagerId": 1621,
+    "AreaManagerDesc": "Lansingerland",
+    "StartDateAreaManagerId": 20150727,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.lansingerland.nl"
+  },
+  {
+    "AreaManagerId": 1884,
+    "AreaManagerDesc": "Kaag en Braassem",
+    "StartDateAreaManagerId": 20150722,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.kaagenbraassem.nl"
+  },
+  {
+    "AreaManagerId": 1598,
+    "AreaManagerDesc": "Koggenland",
+    "StartDateAreaManagerId": 20150723,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.koggenland.nl"
+  },
+  {
+    "AreaManagerId": 1719,
+    "AreaManagerDesc": "Drimmelen",
+    "StartDateAreaManagerId": 20150727,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.drimmelen.nl"
+  },
+  {
+    "AreaManagerId": 542,
+    "AreaManagerDesc": "Krimpen aan den IJssel",
+    "StartDateAreaManagerId": 20150727,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.krimpenaandenijssel.nl"
+  },
+  {
+    "AreaManagerId": 166,
+    "AreaManagerDesc": "Kampen",
+    "StartDateAreaManagerId": 20120510,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.kampen.nl"
+  },
+  {
+    "AreaManagerId": 1896,
+    "AreaManagerDesc": "Zwartewaterland",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.zwartewaterland.nl"
+  },
+  {
+    "AreaManagerId": 303,
+    "AreaManagerDesc": "Dronten",
+    "StartDateAreaManagerId": 20120712,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.dronten.nl"
+  },
+  {
+    "AreaManagerId": 1883,
+    "AreaManagerDesc": "Sittard-Geleen",
+    "StartDateAreaManagerId": 20121024,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.sittard-geleen.nl"
+  },
+  {
+    "AreaManagerId": 226,
+    "AreaManagerDesc": "Duiven",
+    "StartDateAreaManagerId": 20150729,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.duiven.nl"
+  },
+  {
+    "AreaManagerId": 327,
+    "AreaManagerDesc": "Leusden",
+    "StartDateAreaManagerId": 20150805,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.leusden.nl"
+  },
+  {
+    "AreaManagerId": 1651,
+    "AreaManagerDesc": "Eemsmond",
+    "StartDateAreaManagerId": 20150805,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.eemsmond.nl"
+  },
+  {
+    "AreaManagerId": 556,
+    "AreaManagerDesc": "Maassluis",
+    "StartDateAreaManagerId": 20150806,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.maassluis.nl"
+  },
+  {
+    "AreaManagerId": 2093,
+    "AreaManagerDesc": "Parking de Hoofdstad",
+    "StartDateAreaManagerId": 20150101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2091,
+    "AreaManagerDesc": "Meander Medisch Centrum",
+    "StartDateAreaManagerId": 20150101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2092,
+    "AreaManagerDesc": "Academisch Medisch Centrum",
+    "StartDateAreaManagerId": 20150101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 603,
+    "AreaManagerDesc": "Rijswijk",
+    "StartDateAreaManagerId": 20140101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.rijswijk.nl"
+  },
+  {
+    "AreaManagerId": 244,
+    "AreaManagerDesc": "Hattem",
+    "StartDateAreaManagerId": 20150826,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.hattem.nl"
+  },
+  {
+    "AreaManagerId": 788,
+    "AreaManagerDesc": "Haaren",
+    "StartDateAreaManagerId": 20150820,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 784,
+    "AreaManagerDesc": "Gilze en Rijen",
+    "StartDateAreaManagerId": 20150814,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gilzerijen.nl"
+  },
+  {
+    "AreaManagerId": 1842,
+    "AreaManagerDesc": "Midden-Delfland",
+    "StartDateAreaManagerId": 20150811,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.middendelfland.nl"
+  },
+  {
+    "AreaManagerId": 1931,
+    "AreaManagerDesc": "Krimpenerwaard",
+    "StartDateAreaManagerId": 20150812,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.krimpenerwaard.nl"
+  },
+  {
+    "AreaManagerId": 779,
+    "AreaManagerDesc": "Geertruidenberg",
+    "StartDateAreaManagerId": 20150813,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.geertruidenberg.nl"
+  },
+  {
+    "AreaManagerId": 770,
+    "AreaManagerDesc": "Eersel",
+    "StartDateAreaManagerId": 20150810,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.eersel.nl"
+  },
+  {
+    "AreaManagerId": 569,
+    "AreaManagerDesc": "Nieuwkoop",
+    "StartDateAreaManagerId": 20120420,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.nieuwkoop.nl"
+  },
+  {
+    "AreaManagerId": 935,
+    "AreaManagerDesc": "Maastricht",
+    "StartDateAreaManagerId": 20121019,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.maastricht.nl"
+  },
+  {
+    "AreaManagerId": 230,
+    "AreaManagerDesc": "Elburg",
+    "StartDateAreaManagerId": 20150810,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.elburg.nl"
+  },
+  {
+    "AreaManagerId": 158,
+    "AreaManagerDesc": "Haaksbergen",
+    "StartDateAreaManagerId": 20120313,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.haaksbergen.nl"
+  },
+  {
+    "AreaManagerId": 597,
+    "AreaManagerDesc": "Ridderkerk",
+    "StartDateAreaManagerId": 20120524,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.ridderkerk.nl"
+  },
+  {
+    "AreaManagerId": 1655,
+    "AreaManagerDesc": "Halderberge",
+    "StartDateAreaManagerId": 20150820,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.halderberge.nl"
+  },
+  {
+    "AreaManagerId": 340,
+    "AreaManagerDesc": "Rhenen",
+    "StartDateAreaManagerId": 20150819,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.rhenen.nl"
+  },
+  {
+    "AreaManagerId": 441,
+    "AreaManagerDesc": "Schagen",
+    "StartDateAreaManagerId": 20131021,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.schagen.nl"
+  },
+  {
+    "AreaManagerId": 335,
+    "AreaManagerDesc": "Montfoort",
+    "StartDateAreaManagerId": 20150811,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.montfoort.nl"
+  },
+  {
+    "AreaManagerId": 246,
+    "AreaManagerDesc": "Heerde",
+    "StartDateAreaManagerId": 20150826,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heerde.nl"
+  },
+  {
+    "AreaManagerId": 1926,
+    "AreaManagerDesc": "Pijnacker-Nootdorp",
+    "StartDateAreaManagerId": 20150818,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.pijnacker-nootdorp.nl"
+  },
+  {
+    "AreaManagerId": 232,
+    "AreaManagerDesc": "Epe",
+    "StartDateAreaManagerId": 20150811,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.epe.nl"
+  },
+  {
+    "AreaManagerId": 590,
+    "AreaManagerDesc": "Papendrecht",
+    "StartDateAreaManagerId": 20120307,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.papendrecht.nl"
+  },
+  {
+    "AreaManagerId": 420,
+    "AreaManagerDesc": "Medemblik",
+    "StartDateAreaManagerId": 20150810,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.medemblik.nl"
+  },
+  {
+    "AreaManagerId": 356,
+    "AreaManagerDesc": "Nieuwegein",
+    "StartDateAreaManagerId": 20131004,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.nieuwegein.nl"
+  },
+  {
+    "AreaManagerId": 406,
+    "AreaManagerDesc": "Huizen",
+    "StartDateAreaManagerId": 20150812,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.huizen.nl"
+  },
+  {
+    "AreaManagerId": 575,
+    "AreaManagerDesc": "Noordwijk",
+    "StartDateAreaManagerId": 20131017,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.noordwijk.nl"
+  },
+  {
+    "AreaManagerId": 1927,
+    "AreaManagerDesc": "Molenwaard",
+    "StartDateAreaManagerId": 20150811,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gemeentemolenwaard.nl"
+  },
+  {
+    "AreaManagerId": 424,
+    "AreaManagerDesc": "Muiden",
+    "StartDateAreaManagerId": 20120329,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.muiden.nl"
+  },
+  {
+    "AreaManagerId": 610,
+    "AreaManagerDesc": "Sliedrecht",
+    "StartDateAreaManagerId": 20150828,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.sliedrecht.nl"
+  },
+  {
+    "AreaManagerId": 450,
+    "AreaManagerDesc": "Uitgeest",
+    "StartDateAreaManagerId": 20150903,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.uitgeest.nl"
+  },
+  {
+    "AreaManagerId": 1904,
+    "AreaManagerDesc": "Stichtse Vecht",
+    "StartDateAreaManagerId": 20150901,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.stichtsevecht.nl"
+  },
+  {
+    "AreaManagerId": 797,
+    "AreaManagerDesc": "Heusden",
+    "StartDateAreaManagerId": 20120314,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heusden.nl"
+  },
+  {
+    "AreaManagerId": 1525,
+    "AreaManagerDesc": "Teylingen",
+    "StartDateAreaManagerId": 20121016,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.teylingen.nl"
+  },
+  {
+    "AreaManagerId": 342,
+    "AreaManagerDesc": "Soest",
+    "StartDateAreaManagerId": 20150831,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.soest.nl"
+  },
+  {
+    "AreaManagerId": 532,
+    "AreaManagerDesc": "Stede Broec",
+    "StartDateAreaManagerId": 20150901,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.stedebroec.nl"
+  },
+  {
+    "AreaManagerId": 252,
+    "AreaManagerDesc": "Heumen",
+    "StartDateAreaManagerId": 20150902,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heumen.nl"
+  },
+  {
+    "AreaManagerId": 1658,
+    "AreaManagerDesc": "Heeze-Leende",
+    "StartDateAreaManagerId": 20150901,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heeze-leende.nl"
+  },
+  {
+    "AreaManagerId": 164,
+    "AreaManagerDesc": "Hengelo",
+    "StartDateAreaManagerId": 20120201,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.hengelo.nl"
+  },
+  {
+    "AreaManagerId": 200,
+    "AreaManagerDesc": "Apeldoorn",
+    "StartDateAreaManagerId": 20131212,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.apeldoorn.nl"
+  },
+  {
+    "AreaManagerId": 537,
+    "AreaManagerDesc": "Katwijk",
+    "StartDateAreaManagerId": 20131004,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.katwijk.nl"
+  },
+  {
+    "AreaManagerId": 114,
+    "AreaManagerDesc": "Emmen",
+    "StartDateAreaManagerId": 20120220,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.emmen.nl"
+  },
+  {
+    "AreaManagerId": 203,
+    "AreaManagerDesc": "Barneveld",
+    "StartDateAreaManagerId": 20120822,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.barneveld.nl"
+  },
+  {
+    "AreaManagerId": 160,
+    "AreaManagerDesc": "Hardenberg",
+    "StartDateAreaManagerId": 20120423,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.hardenberg.nl"
+  },
+  {
+    "AreaManagerId": 777,
+    "AreaManagerDesc": "Etten-Leur",
+    "StartDateAreaManagerId": 20130627,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.etten-leur.nl"
+  },
+  {
+    "AreaManagerId": 150,
+    "AreaManagerDesc": "Deventer",
+    "StartDateAreaManagerId": 20121107,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.deventer.nl"
+  },
+  {
+    "AreaManagerId": 193,
+    "AreaManagerDesc": "Zwolle",
+    "StartDateAreaManagerId": 20130926,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.zwolle.nl"
+  },
+  {
+    "AreaManagerId": 394,
+    "AreaManagerDesc": "Haarlemmermeer",
+    "StartDateAreaManagerId": 20130527,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.haarlemmermeer.nl"
+  },
+  {
+    "AreaManagerId": 1171,
+    "AreaManagerDesc": "Schin op Geul",
+    "StartDateAreaManagerId": 20160106,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2199,
+    "AreaManagerDesc": "Nederlandse Spoorwegen",
+    "StartDateAreaManagerId": 20151005,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 938,
+    "AreaManagerDesc": "Meerssen",
+    "StartDateAreaManagerId": 20120416,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.meerssen.nl"
+  },
+  {
+    "AreaManagerId": 361,
+    "AreaManagerDesc": "Alkmaar",
+    "StartDateAreaManagerId": 20100101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.alkmaar.nl"
+  },
+  {
+    "AreaManagerId": 34,
+    "AreaManagerDesc": "Almere",
+    "StartDateAreaManagerId": 20120306,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.almere.nl"
+  },
+  {
+    "AreaManagerId": 703,
+    "AreaManagerDesc": "Reimerswaal",
+    "StartDateAreaManagerId": 20160121,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.reimerswaal.nl"
+  },
+  {
+    "AreaManagerId": 1586,
+    "AreaManagerDesc": "Oost Gelre",
+    "StartDateAreaManagerId": 20160127,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.oostgelre.nl"
+  },
+  {
+    "AreaManagerId": 1709,
+    "AreaManagerDesc": "Moerdijk",
+    "StartDateAreaManagerId": 20160129,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.moerdijk.nl"
+  },
+  {
+    "AreaManagerId": 1640,
+    "AreaManagerDesc": "Leudal",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 765,
+    "AreaManagerDesc": "Pekela",
+    "StartDateAreaManagerId": 20160122,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 809,
+    "AreaManagerDesc": "Loon op Zand",
+    "StartDateAreaManagerId": 20160204,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.loonopzand.nl"
+  },
+  {
+    "AreaManagerId": 1734,
+    "AreaManagerDesc": "Overbetuwe",
+    "StartDateAreaManagerId": 20160122,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 85,
+    "AreaManagerDesc": "Ooststellingwerf",
+    "StartDateAreaManagerId": 20160125,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.ooststellingwerf.nl"
+  },
+  {
+    "AreaManagerId": 1695,
+    "AreaManagerDesc": "Noord-Beveland",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 269,
+    "AreaManagerDesc": "Oldebroek",
+    "StartDateAreaManagerId": 20160127,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.oldebroek.nl"
+  },
+  {
+    "AreaManagerId": 678,
+    "AreaManagerDesc": "Kapelle",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 946,
+    "AreaManagerDesc": "Nederweert",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1659,
+    "AreaManagerDesc": "Laarbeek",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1705,
+    "AreaManagerDesc": "Lingewaard",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 798,
+    "AreaManagerDesc": "Hilvarenbeek",
+    "StartDateAreaManagerId": 20151001,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 25,
+    "AreaManagerDesc": "Marum",
+    "StartDateAreaManagerId": 20160203,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.marum.nl"
+  },
+  {
+    "AreaManagerId": 1930,
+    "AreaManagerDesc": "Nissewaard",
+    "StartDateAreaManagerId": 20150101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.nissewaard.nl"
+  },
+  {
+    "AreaManagerId": 274,
+    "AreaManagerDesc": "Renkum",
+    "StartDateAreaManagerId": 20160122,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.renkum.nl"
+  },
+  {
+    "AreaManagerId": 1699,
+    "AreaManagerDesc": "Noordenveld",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 86,
+    "AreaManagerDesc": "Opsterland",
+    "StartDateAreaManagerId": 20160125,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.opsterland.nl"
+  },
+  {
+    "AreaManagerId": 1509,
+    "AreaManagerDesc": "Oude IJsselstreek",
+    "StartDateAreaManagerId": 20160125,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.oude-ijsselstreek.nl"
+  },
+  {
+    "AreaManagerId": 1740,
+    "AreaManagerDesc": "Neder_Betuwe",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 24,
+    "AreaManagerDesc": "Loppersum",
+    "StartDateAreaManagerId": 20160204,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.loppersum.nl"
+  },
+  {
+    "AreaManagerId": 823,
+    "AreaManagerDesc": "Oirschot",
+    "StartDateAreaManagerId": 20160129,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.oirschot.nl"
+  },
+  {
+    "AreaManagerId": 171,
+    "AreaManagerDesc": "Noordoostpolder",
+    "StartDateAreaManagerId": 20160129,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 22,
+    "AreaManagerDesc": "Leek",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1731,
+    "AreaManagerDesc": "Midden Drenthe",
+    "StartDateAreaManagerId": 20160201,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.middendrenthe.nl"
+  },
+  {
+    "AreaManagerId": 175,
+    "AreaManagerDesc": "Ommen",
+    "StartDateAreaManagerId": 20160127,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.ommen.nl"
+  },
+  {
+    "AreaManagerId": 545,
+    "AreaManagerDesc": "Leerdam",
+    "StartDateAreaManagerId": 20121010,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.leerdam.nl"
+  },
+  {
+    "AreaManagerId": 826,
+    "AreaManagerDesc": "Oosterhout",
+    "StartDateAreaManagerId": 20120229,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.oosterhout.nl"
+  },
+  {
+    "AreaManagerId": 512,
+    "AreaManagerDesc": "Gorinchem",
+    "StartDateAreaManagerId": 20121121,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gorinchem.nl"
+  },
+  {
+    "AreaManagerId": 2521,
+    "AreaManagerDesc": "Koopcentrum Akerpoort",
+    "StartDateAreaManagerId": 20160705,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.akerpoort.nl"
+  },
+  {
+    "AreaManagerId": 2490,
+    "AreaManagerDesc": "Centrum Parking",
+    "StartDateAreaManagerId": 20150224,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2478,
+    "AreaManagerDesc": "Allround Parking Services",
+    "StartDateAreaManagerId": 20141105,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2482,
+    "AreaManagerDesc": "Batavia Stad Fashion Outlet",
+    "StartDateAreaManagerId": 20140101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2480,
+    "AreaManagerDesc": "Colliers International Netherlands BV",
+    "StartDateAreaManagerId": 20141113,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2502,
+    "AreaManagerDesc": "Centrumgarage",
+    "StartDateAreaManagerId": 20160101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2505,
+    "AreaManagerDesc": "InPublic Ventures B.V.",
+    "StartDateAreaManagerId": 20160310,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "https://www.inpublic-nederland.nl/"
+  },
+  {
+    "AreaManagerId": 1892,
+    "AreaManagerDesc": "Zuidplas",
+    "StartDateAreaManagerId": 20160114,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.zuidplas.nl"
+  },
+  {
+    "AreaManagerId": 47,
+    "AreaManagerDesc": "Veendam",
+    "StartDateAreaManagerId": 20160118,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.veendam.nl"
+  },
+  {
+    "AreaManagerId": 870,
+    "AreaManagerDesc": "Werkendam",
+    "StartDateAreaManagerId": 20160115,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.werkendam.nl"
+  },
+  {
+    "AreaManagerId": 183,
+    "AreaManagerDesc": "Tubbergen",
+    "StartDateAreaManagerId": 20160119,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.tubbergen.nl"
+  },
+  {
+    "AreaManagerId": 296,
+    "AreaManagerDesc": "Wijchen",
+    "StartDateAreaManagerId": 20160122,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 638,
+    "AreaManagerDesc": "Zoeterwoude",
+    "StartDateAreaManagerId": 20160114,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.zoeterwoude.nl"
+  },
+  {
+    "AreaManagerId": 880,
+    "AreaManagerDesc": "Wormerland",
+    "StartDateAreaManagerId": 20160119,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 9,
+    "AreaManagerDesc": "Ten Boer",
+    "StartDateAreaManagerId": 20160120,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.tenboer.nl"
+  },
+  {
+    "AreaManagerId": 971,
+    "AreaManagerDesc": "Stein",
+    "StartDateAreaManagerId": 20160120,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gemeentestein.nl"
+  },
+  {
+    "AreaManagerId": 1581,
+    "AreaManagerDesc": "Utrechtse Heuvelrug",
+    "StartDateAreaManagerId": 20151001,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 180,
+    "AreaManagerDesc": "Staphorst",
+    "StartDateAreaManagerId": 20160121,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.staphorst.nl"
+  },
+  {
+    "AreaManagerId": 81,
+    "AreaManagerDesc": "Leeuwarderadeel",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1730,
+    "AreaManagerDesc": "Tynaarlo",
+    "StartDateAreaManagerId": 20160119,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.tynaarlo.nl"
+  },
+  {
+    "AreaManagerId": 873,
+    "AreaManagerDesc": "Woensdrecht",
+    "StartDateAreaManagerId": 20160119,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 716,
+    "AreaManagerDesc": "Tholen",
+    "StartDateAreaManagerId": 20160120,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.tholen.nl"
+  },
+  {
+    "AreaManagerId": 865,
+    "AreaManagerDesc": "Vught",
+    "StartDateAreaManagerId": 20160118,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.vught.nl"
+  },
+  {
+    "AreaManagerId": 851,
+    "AreaManagerDesc": "Steenbergen",
+    "StartDateAreaManagerId": 20160121,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gemeente-steenbergen.nl"
+  },
+  {
+    "AreaManagerId": 189,
+    "AreaManagerDesc": "Wierden",
+    "StartDateAreaManagerId": 20160114,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.wierden.nl"
+  },
+  {
+    "AreaManagerId": 98,
+    "AreaManagerDesc": "Weststellingwerf",
+    "StartDateAreaManagerId": 20160115,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.weststellingwerf.nl"
+  },
+  {
+    "AreaManagerId": 737,
+    "AreaManagerDesc": "Tytsjerksteradiel",
+    "StartDateAreaManagerId": 20160121,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.tytsjerksteradiel.nl"
+  },
+  {
+    "AreaManagerId": 56,
+    "AreaManagerDesc": "Zuidhorn",
+    "StartDateAreaManagerId": 20160114,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.zuidhorn.nl"
+  },
+  {
+    "AreaManagerId": 53,
+    "AreaManagerDesc": "Winsum",
+    "StartDateAreaManagerId": 20160121,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 285,
+    "AreaManagerDesc": "Voorst",
+    "StartDateAreaManagerId": 20160118,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.voorst.nl"
+  },
+  {
+    "AreaManagerId": 294,
+    "AreaManagerDesc": "Winterswijk",
+    "StartDateAreaManagerId": 20160113,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2449,
+    "AreaManagerDesc": "Interparking",
+    "StartDateAreaManagerId": 20130916,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.interparking.nl"
+  },
+  {
+    "AreaManagerId": 2460,
+    "AreaManagerDesc": "ParkKing",
+    "StartDateAreaManagerId": 20131111,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.parkking.nl"
+  },
+  {
+    "AreaManagerId": 2522,
+    "AreaManagerDesc": "St. Anna Ziekenhuis",
+    "StartDateAreaManagerId": 20160727,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.st-anna.nl"
+  },
+  {
+    "AreaManagerId": 437,
+    "AreaManagerDesc": "Ouder-Amstel",
+    "StartDateAreaManagerId": 20161013,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.ouder-amstel.nl"
+  },
+  {
+    "AreaManagerId": 381,
+    "AreaManagerDesc": "Bussum",
+    "StartDateAreaManagerId": 20120220,
+    "EndDateAreaManagerId": 20160707,
+    "URL": "www.bussum.nl"
+  },
+  {
+    "AreaManagerId": 353,
+    "AreaManagerDesc": "IJsselstein",
+    "StartDateAreaManagerId": 20130125,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.ijsselstein.nl"
+  },
+  {
+    "AreaManagerId": 397,
+    "AreaManagerDesc": "Heemstede",
+    "StartDateAreaManagerId": 20120110,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 58,
+    "AreaManagerDesc": "Dongeradeel",
+    "StartDateAreaManagerId": 20120704,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.dongeradeel.nl"
+  },
+  {
+    "AreaManagerId": 74,
+    "AreaManagerDesc": "Heerenveen",
+    "StartDateAreaManagerId": 20130207,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.heerenveen.nl"
+  },
+  {
+    "AreaManagerId": 484,
+    "AreaManagerDesc": "Alphen aan den Rijn",
+    "StartDateAreaManagerId": 20130919,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.alphenaandenrijn.nl"
+  },
+  {
+    "AreaManagerId": 2085,
+    "AreaManagerDesc": "DekaMarkt",
+    "StartDateAreaManagerId": 20140101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "https://www.dekamarkt.nl/"
+  },
+  {
+    "AreaManagerId": 2556,
+    "AreaManagerDesc": "Radboud Universiteit Nijmegen",
+    "StartDateAreaManagerId": 20170101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2557,
+    "AreaManagerDesc": "Concertgebouw de Vereeniging",
+    "StartDateAreaManagerId": 20170101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "https://www.stadsschouwburgendevereeniging.nl/"
+  },
+  {
+    "AreaManagerId": 1773,
+    "AreaManagerDesc": "Olst-Wijhe",
+    "StartDateAreaManagerId": 20170101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2001,
+    "AreaManagerDesc": "Provincie Zuid-Holland",
+    "StartDateAreaManagerId": 20170101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "https://www.zuid-holland.nl/"
+  },
+  {
+    "AreaManagerId": 1735,
+    "AreaManagerDesc": "Hof van Twente",
+    "StartDateAreaManagerId": 20010101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.hofvantwente.nl"
+  },
+  {
+    "AreaManagerId": 168,
+    "AreaManagerDesc": "Losser",
+    "StartDateAreaManagerId": 20170101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1774,
+    "AreaManagerDesc": "Dinkelland",
+    "StartDateAreaManagerId": 20171001,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1949,
+    "AreaManagerDesc": "Waadhoeke",
+    "StartDateAreaManagerId": 20171212,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.waadhoeke.nl"
+  },
+  {
+    "AreaManagerId": 1908,
+    "AreaManagerDesc": "Menameradiel",
+    "StartDateAreaManagerId": 20160201,
+    "EndDateAreaManagerId": 20180101,
+    "URL": "www.menameradiel.nl"
+  },
+  {
+    "AreaManagerId": 40,
+    "AreaManagerDesc": "Slochteren",
+    "StartDateAreaManagerId": 20160122,
+    "EndDateAreaManagerId": 20180101,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 140,
+    "AreaManagerDesc": "Littenseradiel",
+    "StartDateAreaManagerId": 20160205,
+    "EndDateAreaManagerId": 20180101,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 196,
+    "AreaManagerDesc": "Rijnwaarden",
+    "StartDateAreaManagerId": 20010601,
+    "EndDateAreaManagerId": 20180101,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1987,
+    "AreaManagerDesc": "Menterwolde",
+    "StartDateAreaManagerId": 20160203,
+    "EndDateAreaManagerId": 20180101,
+    "URL": "www.menterwolde.nl"
+  },
+  {
+    "AreaManagerId": 70,
+    "AreaManagerDesc": "Franekeradeel",
+    "StartDateAreaManagerId": 20130527,
+    "EndDateAreaManagerId": 20180101,
+    "URL": "www.franekeradeel.nl"
+  },
+  {
+    "AreaManagerId": 2022,
+    "AreaManagerDesc": "CBR",
+    "StartDateAreaManagerId": 20180515,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1900,
+    "AreaManagerDesc": "Súdwest-Fryslân",
+    "StartDateAreaManagerId": 20131011,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 852,
+    "AreaManagerDesc": "Waterland",
+    "StartDateAreaManagerId": 20180101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 377,
+    "AreaManagerDesc": "Bloemendaal",
+    "StartDateAreaManagerId": 20120829,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.bloemendaal.nl"
+  },
+  {
+    "AreaManagerId": 1959,
+    "AreaManagerDesc": "Altena",
+    "StartDateAreaManagerId": 20190101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 986,
+    "AreaManagerDesc": "Voerendaal",
+    "StartDateAreaManagerId": 20160118,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.voerendaal.nl"
+  },
+  {
+    "AreaManagerId": 1948,
+    "AreaManagerDesc": "Meierijstad",
+    "StartDateAreaManagerId": 20170101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2576,
+    "AreaManagerDesc": "Bureau de Groot Volker",
+    "StartDateAreaManagerId": 20190523,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1963,
+    "AreaManagerDesc": "Hoeksche Waard",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1978,
+    "AreaManagerDesc": "Molenlanden",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1954,
+    "AreaManagerDesc": "Beekdaelen",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1960,
+    "AreaManagerDesc": "West Betuwe",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.westbetuwe.nl"
+  },
+  {
+    "AreaManagerId": 1942,
+    "AreaManagerDesc": "Gooise Meren",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gooisemeren.nl"
+  },
+  {
+    "AreaManagerId": 2448,
+    "AreaManagerDesc": "Q-Park Nederland BV",
+    "StartDateAreaManagerId": 20130916,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.q-park.nl"
+  },
+  {
+    "AreaManagerId": 1955,
+    "AreaManagerDesc": "Montferland",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1969,
+    "AreaManagerDesc": "Westerkwartier",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1876,
+    "AreaManagerDesc": "Bronckhorst",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.bronckhorst.nl"
+  },
+  {
+    "AreaManagerId": 1961,
+    "AreaManagerDesc": "Vijfheerenlanden",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1966,
+    "AreaManagerDesc": "Het Hogeland",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 14,
+    "AreaManagerDesc": "Groningen",
+    "StartDateAreaManagerId": 20120508,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.gemeente.groningen.nl"
+  },
+  {
+    "AreaManagerId": 439,
+    "AreaManagerDesc": "Purmerend",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.purmerend.nl"
+  },
+  {
+    "AreaManagerId": 1950,
+    "AreaManagerDesc": "Westerwolde",
+    "StartDateAreaManagerId": 20000101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1952,
+    "AreaManagerDesc": "Midden-Groningen",
+    "StartDateAreaManagerId": 20180101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.midden-groningen.nl"
+  },
+  {
+    "AreaManagerId": 17,
+    "AreaManagerDesc": "Haren",
+    "StartDateAreaManagerId": 20120316,
+    "EndDateAreaManagerId": 20191028,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 375,
+    "AreaManagerDesc": "Beverwijk",
+    "StartDateAreaManagerId": 20111116,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2579,
+    "AreaManagerDesc": "Parkeren Amersfoort BV",
+    "StartDateAreaManagerId": 20191218,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2582,
+    "AreaManagerDesc": "Rotterdam The Hague Airport",
+    "StartDateAreaManagerId": 20200225,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.rotterdamthehagueairport.nl/reizigers/parkeren"
+  },
+  {
+    "AreaManagerId": 273,
+    "AreaManagerDesc": "Putten",
+    "StartDateAreaManagerId": 20200302,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 425,
+    "AreaManagerDesc": "Naarden",
+    "StartDateAreaManagerId": 20120618,
+    "EndDateAreaManagerId": 20200606,
+    "URL": "www.naarden.nl"
+  },
+  {
+    "AreaManagerId": 733,
+    "AreaManagerDesc": "Lingewaal",
+    "StartDateAreaManagerId": 20150805,
+    "EndDateAreaManagerId": 20200606,
+    "URL": "www.lingewaal.nl"
+  },
+  {
+    "AreaManagerId": 236,
+    "AreaManagerDesc": "Geldermalsen",
+    "StartDateAreaManagerId": 20120406,
+    "EndDateAreaManagerId": 20200606,
+    "URL": "www.geldermalsen.nl"
+  },
+  {
+    "AreaManagerId": 363,
+    "AreaManagerDesc": "Amsterdam",
+    "StartDateAreaManagerId": 20050101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.amsterdam.nl"
+  },
+  {
+    "AreaManagerId": 2585,
+    "AreaManagerDesc": "Port of Amsterdam NV",
+    "StartDateAreaManagerId": 20201005,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "https://www.portofamsterdam.com/"
+  },
+  {
+    "AreaManagerId": 476,
+    "AreaManagerDesc": "Zijpe (NH)",
+    "StartDateAreaManagerId": 20120228,
+    "EndDateAreaManagerId": 20120301,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 612,
+    "AreaManagerDesc": "Spijkenisse",
+    "StartDateAreaManagerId": 20121025,
+    "EndDateAreaManagerId": 20201019,
+    "URL": "www.spijkenisse.nl"
+  },
+  {
+    "AreaManagerId": 2483,
+    "AreaManagerDesc": "Parking Delft",
+    "StartDateAreaManagerId": 20141204,
+    "EndDateAreaManagerId": 20201020,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 362,
+    "AreaManagerDesc": "Amstelveen",
+    "StartDateAreaManagerId": 20120101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "www.amstelveen.nl"
+  },
+  {
+    "AreaManagerId": 1970,
+    "AreaManagerDesc": "Noardeast-Fryslân",
+    "StartDateAreaManagerId": 20190101,
+    "EndDateAreaManagerId": 29991231,
+    "URL": "https://www.herindeling-noardeastfryslan.nl/"
+  },
+  {
+    "AreaManagerId": 2587,
+    "AreaManagerDesc": "Parkeerbedrijf Purmerend",
+    "StartDateAreaManagerId": 20201130,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 1979,
+    "AreaManagerDesc": "Eemsdelta",
+    "StartDateAreaManagerId": 20201218,
+    "EndDateAreaManagerId": 29991231,
+    "URL": ""
+  },
+  {
+    "AreaManagerId": 2533,
+    "AreaManagerDesc": "ParkeerService",
+    "StartDateAreaManagerId": 20130919,
+    "EndDateAreaManagerId": 20210107,
+    "URL": ""
+  }
+]

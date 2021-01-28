@@ -10,7 +10,7 @@ const API = {
     // const parkingopenurl = `https://opendata.rdw.nl/resource/${query}.json?&$$app_token=${appToken}`
     return new Promise((resolve, reject) => {
       d3.json(source)
-        // .then(res => storeData.set(res))
+        // .then(res => storeData.set(res, source))
         .then(data => {
           resolve(data)
         })
@@ -20,7 +20,7 @@ const API = {
     })
   },
   local: () => {
-    const data = storeData.get()
+    const data = storeData.get(source)
     console.log(data)
     return data
   }
