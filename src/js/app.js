@@ -47,7 +47,10 @@ let renderData
         .then(data => mapDataGR(data))
         .then(data => seeArrayLength(data))
 
-      return renderData = await combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3)
+      const gebiedLocatie_4 = await getData.parking("gebiedLocatie")
+        .then(data => seeArrayLength(data))
+
+      return renderData = await combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3, gebiedLocatie_4)
         .then(data => cleanData(data))
         .then(data => renderGraph.barz(data))
         .then(() => loadingState(''))
@@ -56,3 +59,5 @@ let renderData
     }
   })()
 })()
+
+// AreaManagerDesc

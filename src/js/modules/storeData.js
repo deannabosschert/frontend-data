@@ -1,14 +1,13 @@
 const storeData = {
-  set(data) {
-    console.log(data)
-    console.log("adding rdwData to localStorage")
-    localStorage.setItem("rdwData", JSON.stringify(data))
+  set(data, source) {
+    console.log("adding data to localStorage")
+    localStorage.setItem(source, JSON.stringify(data))
     return data
   },
-  get() {
-    console.log("getting rdwData from localStorage")
-    const rdwData = JSON.parse(localStorage.getItem("rdwData"))
-    return rdwData
+  get(source) {
+    console.log("getting data from localStorage")
+    const data = JSON.parse(localStorage.getItem(source))
+    return data
   }
 }
 export {

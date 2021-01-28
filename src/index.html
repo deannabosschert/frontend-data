@@ -14,19 +14,34 @@ title: Frontend Data
 <main>
 <section>
   <article>
-    <h2>RDW Data</h2>
-    <p>Cleaned by doing stuff.</p>
+    <h2>CoronaCurfew</h2>
+    <p>Hoeveel parkeerplaatsen hebben openingstijden die conflicteren met de huidige avondklok?</p>
+    
     <div class="loader"></div>
-    <svg> 
-      <circle class="target" style="fill: #69b3a2" stroke="black" cx=50 cy=50 r=40></circle>
-    </svg>
-    <div class="charts"></div>
-
-      <!-- {% for rdwDataset in rdwDatasets %}
-      {{ rdwDataset.shoeSize | safe }}
-      {% else %}
-      <li>This would display if the 'eyeColors'-collection were empty</li>
-      {% endfor %} -->
+    <!-- <select id="filter">
+      <option value="1">1</option>
+      <option value="2">2</option>
+    </select>
+    <svg width="960" height="500"></svg> -->
+    <div class='container'>
+      <div class='row'>
+      <!-- <h2> watch time vs. age group</h2>
+            <p>total time watched: 1411 minutes</p>
+              <div class='radio'>
+                <label class='radio-inline'>
+                  <input type="radio" name="gender" value="male" onclick='change(this.value)'> male
+                </label>
+                <label class='radio-inline'>
+                  <input type="radio" name="gender" value="female" onclick='change(this.value)'> female
+                </label>
+                <label class='radio-inline'>
+                  <input type="radio" name="gender" value="both" onclick='change(this.value)' checked > both
+                </label>
+              </div> -->
+          <svg class='chart'>
+          </svg>
+      </div>
+    </div>
   </article>
 </section>
 </main>

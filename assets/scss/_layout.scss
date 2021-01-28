@@ -172,32 +172,53 @@ footer p {
     transform: rotate(360deg)
   }
 }
-/* GRAPHS */
-h1, p, text {
-  font-family: BlinkMacSystemFont;
-}
 
-h1 {
-	margin: 1em 0 0 1em;
-}
+// circle {
+//   fill: $lavender;
+// }
 
-p {
-	margin: 0.5em 0 1em 2em;
-}
+// #menu div {
+//   display: inline-block;
+//   padding: 10px 20px;
+//   margin-right: 12.5px;
+//   background-color: $lightpink;
+//   color: black;
+//   border-radius: 5px;
+//   transition: 0.3s background-color;
+//   cursor: pointer;
+//   user-select: none;
+// }
 
-g text.axis-label {
-	font-size: 1.5em;
-  fill: grey;
-}
+// #menu div:hover {
+//   background-color: $purple;
+//   color: white;
+// }
 
-.tick text {
-	font-size: 1.2em;
-}
 
-.pie text {
-  fill: white;
-}
+// .bar {
+//   fill: $lightpink;
+// }
 
-text.pie-label {
-  fill: grey;
+// .bar:hover {
+//   fill: $purple;
+// }
+
+// .axis--x path {
+//   display: none;
+// }
+
+
+// svg {
+//     position: absolute;
+//   margin-top: 40px;
+// }
+
+// select {
+//   margin-left: 60px;
+// }
+.radio{
+	text-align: center;
+}
+.row{
+	text-align: center;
 }
