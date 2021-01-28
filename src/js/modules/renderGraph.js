@@ -17,7 +17,7 @@ const renderGraph = {
 
         })
     }
-};
+}
 
 export {
     renderGraph
