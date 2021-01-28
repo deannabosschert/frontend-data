@@ -5,8 +5,6 @@
 Creeër een datavisualisatie met d3, gebaseerd op RDW-data.
 Clean deze data van tevoren.
 
-> Alle teksten in het Nederlands behoren tot de concept/developmentfase, uiteindelijk zal de readme volledig in het Engels zijn. Zo kan ik concept VS eindproduct wat beter scheiden.
-
 # Auto’s in de stad
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/581f4463-abc5-4dcb-802f-dad50e683c44/deploy-status)](https://app.netlify.com/sites/frontend-data-2021/deploys)
@@ -105,7 +103,7 @@ Vragen:
 
 <img src="https://github.com/deannabosschert/frontend-data/blob/trunk/assets/img/waffle_chart.png" alt="sketch of a waffle chart" style="display: inline-block" width="280" height="155"><img src="https://github.com/deannabosschert/frontend-data/blob/trunk/assets/img/pie_chart_avondklok.png" alt="sketch of a pie chart" style="display: inline-block;"  width="205" height="180">
 
-## Deelvraag 2: parkeergelegenheid coronateststraten
+## Mogelijke deelvraag 2: parkeergelegenheid coronateststraten
 
 **Is er in de buurt van Coronateststraten, genoeg parkeergelegenheid voor wie moet wachten op zijn/haar test?**    
 
