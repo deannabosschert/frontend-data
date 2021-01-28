@@ -3,7 +3,7 @@ const renderGraph = {
         console.log("render the yeets")
         console.log(allData)
 
-        function update(data) {
+        function update(data) { // voor update pattern gekeken naar https://bl.ocks.org/mbostock/3808234/457c620cab92e5dc9b8351b31a572fe6eb7d51d7
             const keys = Object.keys(data)
             const values = Object.values(data)
             const entries = Object.entries(data)
