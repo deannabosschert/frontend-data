@@ -2,6 +2,7 @@ const renderGraph = {
     barz: (data) => {
         return new Promise((resolve, reject) => {
             console.log("render the yeets")
+            console.log(data)
             // console.log(data.parkingOpen[0])
             // console.log(data.parkingTijdvak[0])
             // console.log(data.gebiedRegeling[0])
