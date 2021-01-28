@@ -4,12 +4,12 @@ import { unsafeEndTime } from "./lib/check-unsafe-endtime.js"
 export async function sortData(data) {
   return data.reduce(({start, end, both},curr) => ({
     start: unsafeStartTime(curr) ?  {
-      ...start, //alle elementen includen
+      ...start, //object spread syntax --> ; // pass alle elementen of van start als argumenten zodat ze allemaal included worden
       [curr.AreaManagerDesc]: start[curr.AreaManagerDesc] ? start[curr.AreaManagerDesc] + 1 : 1 // wanneer de stad voorkomt in de data, doe dan +1. 
     } : start,
     end: unsafeEndTime(curr) ?  {
       ...end,
-      [curr.AreaManagerDesc]: end[curr.AreaManagerDesc] ? end[curr.AreaManagerDesc] + 1 : 1
+      [curr.AreaManagerDesc]: end[curr.AreaManagerDesc] ? end[curr.AreaManagerDesc] + 1 : 1 // conditional (ternary) operator gebruikt zodat het overzichtelijker is
     } : end,
     both: (unsafeStartTime(curr) && unsafeEndTime(curr)) ?  {
       ...both,
