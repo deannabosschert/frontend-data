@@ -10,13 +10,11 @@ const renderGraph = {
 
             xScale.domain(keys) //x-as domein
             yScale.domain([0, d3.max(values)]).nice() //y-as domein, .nice voor die mooie afronding en whitespace
-
-            var barWidth = width / entries.length // width per bar
-
+            let barWidth = width / entries.length // width per bar (dus; totale breedte gedeeld door aantal steden = width want het moet wel passen)
 
             // alle bars selecteren, eruit trekken en een evt vorige dataset eruit gooien
             // daarna de dataset allData erin
-            var bars = chart.selectAll(".bar")
+            let bars = chart.selectAll(".bar")
                 .remove()
                 .exit()
                 .data(values)
@@ -61,37 +59,37 @@ const renderGraph = {
         // toggelen tussen de datasoorten
         function change(value) {
             if (value === 'start')
-                update(allData.start)
+                update(allData.start) //dus: zodra je op een radiobutton klikt, wordt change uitgevoerd, en die voert weer update uit
             else if (value === 'end')
                 update(allData.end)
             else update(allData.both)
         }
 
         //chartdimensies
-        var margin = {
+        let margin = {
             top: 20,
             right: 20,
             bottom: 95,
             left: 50
         }
-        var width = 800
-        var height = 500
+        let width = 800
+        let height = 500
 
-        var chart = d3.select(".chart")
+        let chart = d3.select(".chart")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
 
-        var xScale = d3.scaleBand()
+        let xScale = d3.scaleBand()
             .range([0, width]) //stel de range in, beginnende bij 0
 
-        var yScale = d3.scaleLinear()
+        let yScale = d3.scaleLinear()
             .nice() //mooimaak
             .range([height, 0]) //stel de range in, beginnende bij 0
 
-        var xAxis = d3.axisBottom(xScale)
-        var yAxis = d3.axisLeft(yScale)
+        let xAxis = d3.axisBottom(xScale)
+        let yAxis = d3.axisLeft(yScale)
 
         chart.append("g") // linkeras
             .attr("class", "y axis")
