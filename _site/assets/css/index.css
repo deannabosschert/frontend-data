@@ -335,7 +335,7 @@ article {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 2.5rem;
+  margin: 2.5rem;
 }
 
 p {
@@ -436,8 +436,37 @@ footer p {
   text-align: center;
 }
 
-.row {
+label {
+  background-image: linear-gradient(to right, #754575 -10%, #754575 60%, #ece0ec 99%, #b582b5 155%);
+  color: white;
+  border-radius: 5px;
+  letter-spacing: 0.25px;
+  font-weight: 900;
+  text-transform: uppercase;
   text-align: center;
+  vertical-align: middle;
+  transition: 0.5s;
+  background-size: 200% auto;
+  padding: 0.7rem 1rem;
+  margin: 0.2rem;
+}
+label:hover {
+  box-shadow: 0px 0px 0px 2px rgba(24, 175, 117, 0.05);
+  background-position: right center;
+  color: white;
+  text-decoration: none;
+  z-index: 2;
+}
+label:active {
+  background-color: blue;
+}
+label:focus {
+  background-color: white;
+  color: black;
+  box-shadow: inset 3px 3px 4px #b582b5, inset -3px -3px 4px #b582b5;
+}
+label:disabled {
+  background-color: grey;
 }
 
 /*# sourceMappingURL=index.css.map */

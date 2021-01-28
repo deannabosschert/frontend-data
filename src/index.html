@@ -10,38 +10,28 @@ title: Frontend Data
       <li><a href="/">RDW Data</a></li>
     </ul>
   </nav>
-</header>  
+</header>
 <main>
-<section>
-  <article>
+  <section>
     <h2>CoronaCurfew</h2>
-    <p>Hoeveel parkeerplaatsen hebben openingstijden die conflicteren met de huidige avondklok?</p>
-    
-    <div class="loader"></div>
-    <!-- <select id="filter">
-      <option value="1">1</option>
-      <option value="2">2</option>
-    </select>
-    <svg width="960" height="500"></svg> -->
-    <div class='container'>
-      <div class='row'>
-      <!-- <h2> watch time vs. age group</h2>
-            <p>total time watched: 1411 minutes</p>
-              <div class='radio'>
-                <label class='radio-inline'>
-                  <input type="radio" name="gender" value="male" onclick='change(this.value)'> male
-                </label>
-                <label class='radio-inline'>
-                  <input type="radio" name="gender" value="female" onclick='change(this.value)'> female
-                </label>
-                <label class='radio-inline'>
-                  <input type="radio" name="gender" value="both" onclick='change(this.value)' checked > both
-                </label>
-              </div> -->
-          <svg class='chart'>
-          </svg>
+    <p>Hoeveel steden hebben parkeerplaatsen met openingstijden die conflicteren met de huidige avondklok?</p>
+
+    <article>
+      <div class="loader"></div>
+      <div class='radio'>
+        <label class='radio-inline'>
+          <input type="radio" name="gender" value="start"> start
+        </label>
+        <label class='radio-inline'>
+          <input type="radio" name="gender" value="end"> end
+        </label>
+        <label class='radio-inline'>
+          <input type="radio" name="gender" value="both" checked> both
+        </label>
       </div>
-    </div>
-  </article>
-</section>
+      <svg class='chart'>
+      </svg>
+
+    </article>
+  </section>
 </main>

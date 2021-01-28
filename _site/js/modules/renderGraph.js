@@ -1,228 +1,140 @@
 const renderGraph = {
-    barz: (finalData) => {
-        const allData = finalData
-        return new Promise((resolve, reject) => {
-            console.log("render the yeets")
-            console.log(allData)
-            const startAmount = allData.start.length
-            const endAmount = allData.end.length
-            console.log(startAmount)
+    barz: async (allData) => {
 
-            console.log(endAmount)
+        console.log("render the yeets")
+        console.log(allData)
+        // const amount = yeet.length
 
-            const dataAmount = [{
-                timeFrame: "Start Time",
-                amount: startAmount
-            }, {
-                timeFrame: "End Time",
-                amount: endAmount
-            }]
+        function update(data) {
+            const keys = Object.keys(data)
+            const values = Object.values(data)
+            const entries = Object.entries(data)
+            //set domain for the x axis
+            xScale.domain(keys);
+            //set domain for y axis
+            yScale.domain([0, d3.max(values)]).nice();
 
-//             //set up data
-// var bothData = [
-//     {
-//       "viewer_gender": "FEMALE",
-//       "viewer_age": "AGE_13_17",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "3.3",
-//       "watch_time_minutes": "2.8"
-//     },
-//     {
-//       "viewer_gender": "MALE",
-//       "viewer_age": "AGE_13_17",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "12.8",
-//       "watch_time_minutes": "13.5"
-//     },
-//     {
-//       "viewer_gender": "FEMALE",
-//       "viewer_age": "AGE_18_24",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "7.1",
-//       "watch_time_minutes": "6.6"
-//     },
-//     {
-//       "viewer_gender": "MALE",
-//       "viewer_age": "AGE_18_24",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "37.1",
-//       "watch_time_minutes": "35.8"
-//     },
-//     {
-//       "viewer_gender": "FEMALE",
-//       "viewer_age": "AGE_25_34",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "2.7",
-//       "watch_time_minutes": "3.9"
-//     },
-//     {
-//       "viewer_gender": "MALE",
-//       "viewer_age": "AGE_25_34",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "23.5",
-//       "watch_time_minutes": "24.7"
-//     },
-//     {
-//       "viewer_gender": "FEMALE",
-//       "viewer_age": "AGE_35_44",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "1.0",
-//       "watch_time_minutes": "0.8"
-//     },
-//     {
-//       "viewer_gender": "MALE",
-//       "viewer_age": "AGE_35_44",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "6.4",
-//       "watch_time_minutes": "5.0"
-//     },
-//     {
-//       "viewer_gender": "FEMALE",
-//       "viewer_age": "AGE_45_54",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "0.7",
-//       "watch_time_minutes": "1.3"
-//     },
-//     {
-//       "viewer_gender": "MALE",
-//       "viewer_age": "AGE_45_54",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "3.3",
-//       "watch_time_minutes": "3.4"
-//     },
-//     {
-//       "viewer_gender": "FEMALE",
-//       "viewer_age": "AGE_55_64",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "0.1",
-//       "watch_time_minutes": "0.1"
-//     },
-//     {
-//       "viewer_gender": "MALE",
-//       "viewer_age": "AGE_55_64",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "0.8",
-//       "watch_time_minutes": "0.7"
-//     },
-//     {
-//       "viewer_gender": "FEMALE",
-//       "viewer_age": "AGE_65_",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "0.2",
-//       "watch_time_minutes": "0.2"
-//     },
-//     {
-//       "viewer_gender": "MALE",
-//       "viewer_age": "AGE_65_",
-//       "channel_display_name": "syncopika",
-//       "channel_id": "T2NUI3KLGK6sDILFbzUZZg",
-//       "views": "1.1",
-//       "watch_time_minutes": "1.3"
-//     }
-//   ];
-  
-//   var maleData = [];
-//   var femaleData = [];
-  
-//   for(var i = 0; i < bothData.length; i++){
-//       if(bothData[i]["viewer_gender"] === "MALE"){
-//           maleData.push(bothData[i]);
-//       }else{
-//           femaleData.push(bothData[i]);
-//       }
-//   }
+            //get the width of each bar 
+            var barWidth = width / entries.length;
 
-//    //use bothData to begin with
-//    update(bothData);
+            //select all bars on the graph, take them out, and exit the previous data set. 
+            //then you can add/enter the new data set
+            var bars = chart.selectAll(".bar")
+                .remove()
+                .exit()
+                .data(values)
+            //now actually give each rectangle the corresponding data
+            bars.enter()
+                .append("rect")
+                .attr("class", "bar")
+                .attr("x", function (d, i) {
+                    return i * barWidth + 1
+                })
+                .attr("y", yScale)
+                .attr("height", function (d) {
+                    return height - yScale(d);
+                })
+                .attr("width", barWidth - 1)
+                .attr("fill", function () {
+                    if (data === allData.start) {
+                        return "rgb(219, 91, 101)";
+                    } else if (data === allData.end) {
+                        return "rgb(96, 160, 212)";
+                    } else {
+                        return "rgb(147,112,219)";
+                    }
+                });
+            //left axis
+            chart.select('.y')
+                .call(yAxis)
+            //bottom axis
+            chart.select('.xAxis')
+                .attr("transform", "translate(0," + height + ")")
+                .call(xAxis)
+                .selectAll("text")
+                .style("text-anchor", "end")
+                .attr("dx", "-.8em")
+                .attr("dy", ".15em")
+                .attr("transform", function (d) {
+                    return "rotate(-65)";
+                });
 
+        } //end update
 
+        //functions for toggling between data
+        function change(value) {
+            if (value === 'start')
+                update(allData.start)
+            else if (value === 'end')
+                update(allData.end)
+            else update(allData.both)
+        }
 
-  
-        //     var svg = d3.select("svg"),
-        //     margin = {top: 20, right: 20, bottom: 30, left: 40},
-        //     width = +svg.attr("width") - margin.left - margin.right,
-        //     height = +svg.attr("height") - margin.top - margin.bottom;
-        
-        // var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
-        //     y = d3.scaleLinear().rangeRound([height, 0]);
-        
-        // var g = svg.append("g")
-        //     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-        
-        //     var tsv = dataAmount
-        //   // filter the data based on the inital value
-        //   var data = tsv.filter(function(d) { 
-        //     var sq = d3.select("#filter").property("value");
-        //     return d.group === sq;
-        //   });
-        
-        //   // set the domains of the axes
-        //   x.domain(data.map(function(d) { return d.letter; }));
-        //   y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
-        
-        //   // add the svg elements
-        //   g.append("g")
-        //       .attr("class", "axis axis--x")
-        //       .attr("transform", "translate(0," + height + ")")
-        //       .call(d3.axisBottom(x));
-        
-        //   g.append("g")
-        //       .attr("class", "axis axis--y")
-        //       .call(d3.axisLeft(y).ticks(10, "%"))
-        //     .append("text")
-        //       .attr("transform", "rotate(-90)")
-        //       .attr("y", 6)
-        //       .attr("dy", "0.71em")
-        //       .attr("text-anchor", "end")
-        //       .text("Frequency");
-        
-        //   // create the bars
-        //   g.selectAll(".bar")
-        //     .data(data)
-        //     .enter().append("rect")
-        //       .attr("class", "bar")
-        //       .attr("x", function(d) { return x(d.letter); })
-        //       .attr("y", function(d) { return y(d.frequency); })
-        //       .attr("width", x.bandwidth())
-        //       .attr("height", function(d) { return height - y(d.frequency); });
-        
-        //   // add a change event handler 
-        //   d3.select("#filter").on("change", function() {
-        //       applyFilter(this.value);
-        //     });
-        
-        
-        //   // call this whenever the filter changes
-        //   function applyFilter(value) {
-        //     // filter the data
-        //     var data = tsv.filter(function(d) {return d.group === value;})
-        
-        //     // update the bars
-        //     d3.selectAll(".bar")
-        //       .data(data)
-        //       .transition().duration(1000)
-        //       .attr("x", function(d) { return x(d.letter); })
-        //       .attr("y", function(d) { return y(d.frequency); })
-        //       .attr("height", function(d) { return height - y(d.frequency); });
-        
-        //   }
-        
-        
-            resolve(allData)
-        })
+        //set up chart
+        var margin = {
+            top: 20,
+            right: 20,
+            bottom: 95,
+            left: 50
+        };
+        var width = 800;
+        var height = 500;
+
+        var chart = d3.select(".chart")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        var xScale = d3.scaleBand()
+            .range([0, width]);
+
+        var yScale = d3.scaleLinear()
+            .nice()
+            .range([height, 0]);
+
+        var xAxis = d3.axisBottom(xScale);
+        var yAxis = d3.axisLeft(yScale);
+
+        //set up axes
+        //left axis
+        chart.append("g")
+            .attr("class", "y axis")
+            .call(yAxis)
+
+        //bottom axis
+        chart.append("g")
+            .attr("class", "xAxis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis)
+            .selectAll("text")
+            .style("text-anchor", "end")
+            .attr("dx", "-.8em")
+            .attr("dy", ".15em")
+            .attr("transform", function (d) {
+                return "rotate(-65)";
+            });
+
+        //add labels
+        chart
+            .append("text")
+            .attr("transform", "translate(-35," + (height + margin.bottom) / 2 + ") rotate(-90)")
+            .style("font", "18px sans-serif")
+            .text("amount of conflicting parking spots");
+
+        chart
+            .append("text")
+            .attr("transform", "translate(" + (width / 2) + "," + (height + margin.bottom - 5) + ")")
+            .attr('text-anchor', 'middle')
+            .style("font", "18px sans-serif")
+            .text("Cities/Managers");
+
+        d3.select('.radio').selectAll('input').on('change', (_, i, list) =>
+            change(list[i].value)
+        );
+
+        update(allData.both);
+        return allData
     }
 }
 
