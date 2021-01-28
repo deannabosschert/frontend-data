@@ -9,15 +9,9 @@ Clean deze data van tevoren.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/581f4463-abc5-4dcb-802f-dad50e683c44/deploy-status)](https://app.netlify.com/sites/frontend-data-2021/deploys)
  ... [link to live demo](https://frontend-data-2021.netlify.app/)-->
-![screenshot of website](https://github.com/deannabosschert/frontend-data/blob/trunk/_site/assets/img/screenshot_website.png)
-
-<details>
-  <summary><strong>gif screencapture</strong> (klik om te tonen)</summary>
-
-![gif of website](https://github.com/deannabosschert/frontend-data/blob/trunk/assets/img/CleanShot%202021-01-28%20at%2017.38.29.gif)
+![screenshot of website](https://github.com/deannabosschert/frontend-data/blob/trunk/assets/img/CleanShot%202021-01-28%20at%2017.38.29.gif)
 
 
-</details>
 
 Deze opdracht bestond eigenlijk uit twee delen:
 
