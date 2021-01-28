@@ -78,11 +78,9 @@ Eventueel bruikbaar:
 -   ClaimRightPossible (api: claimrightispossible) - Indicatie of het mogelijk is binnen dit TimeFrame een recht te verwerven of niet. J: in dit tijdvak is het wel mogelijk rechten te verwerven, N: in dit tijdvak is het niet mogelijk rechten te verwerven.
 -   FareCalculationCode (api: farecalculationcode) - Verwijzing naar het tarief, indien voor een recht in een tijdvak een tarief verschuldigd is. Kan alleen van toepassing zijn als ClaimRightPossible = J
 
-Sidenote: filter alle area's eruit die eerder dan vandaag, eindigen. Als het goed is houd ik dan 29.452 entries over.
+**Aanname:** er zullen best wat parkeerplaatsen in de grote steden zijn wiens tijden binnen de avondklok zullen vallen    
 
-**Aanname:** een aantal plaatsen zullen gemarkeerd worden als 'twijfelachtig' of ontoegankelijk voor mensen uit niet-vitale beroepen     
-
-### Schetsen
+### Initial schetsen
 
 Kaart, en nog wat visualisaties in de vorm van een bar chart om de aantallen aan te geven (of time instance/gantt)  , of hierarchic chart voor verhouding met 'niet-conflicterend'.  
 
@@ -96,60 +94,6 @@ Vragen:
 -   Combineren met iets als een pie chart en andere charts voor het aantonen van de verhouding; in een soort storytelling-verhaal?        
 
 <img src="https://github.com/deannabosschert/frontend-data/blob/trunk/assets/img/waffle_chart.png" alt="sketch of a waffle chart" style="display: inline-block" width="280" height="155"><img src="https://github.com/deannabosschert/frontend-data/blob/trunk/assets/img/pie_chart_avondklok.png" alt="sketch of a pie chart" style="display: inline-block;"  width="205" height="180">
-
-## Mogelijke deelvraag 2: parkeergelegenheid coronateststraten
-
-**Is er in de buurt van Coronateststraten, genoeg parkeergelegenheid voor wie moet wachten op zijn/haar test?**    
-
-### Datasets
-
--   <https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-SPECIFICATIES-PARKEERGEBIED/b3us-f26s>  voor capaciteit
--   <https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-GEOMETRIE-GEBIED/nsk3-v9n7> voor areadata
--   Coronateststraten; locaties      
--   Drukte bij Coronateststraten?  
-
-### Datapunten/kolommen
-
-#### Parkeerplaatsen: dataset 1 (capaciteit)
-
--   AreaID (api: areaid)- Identificatiecode van een parkeergebied of - faciliteit.               
--   Capacity (api: capacity)- Het aantal parkeerplaatsen in een parkeergebied of –faciliteit.
-
-Eventueel bruikbaar:
-
--   ChargingPointCapacity      
--   DisabledAccess (api: disabledaccess)- Indicator die aangeeft aangeeft of een parkeerterrein toegankelijk is voor personen die afhankelijk zijn van een rolstoel. J = Ja, toegankelijkheid met een rolstoel. N = Nee, geen toegankelijkheid met een rolstoel.
-
-Sidenote:
-Deze entry is niet meer geldig/bruikbaar anyways, aan de einddatum te zien. Verder vallen alle entries wel gewoon onder het 'nu'.  
-![screenshot of unusable data point](https://cleanshot-cloud-fra.s3.eu-central-1.amazonaws.com/media/8774/fda3BHvUadRq1Pr1ftteY3E2s5YqGliNlWUxjkVt.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5MF2VVMNIDEEYCNL%2F20201107%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20201107T150311Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=6bbfa58cd4c1b5aa8fb6da1a10528ccaeeb905f8a57c0cb87d4c380474ce4ba6)
-
-#### Parkeerplaatsen: dataset 2 (locaties)
-
--   AreaId (api: areaid)- Identificatiecode van een parkeergebied of - faciliteit.
--   GeoDataAsText (api: areageometryastext) - Geometrie van een parkeergebied of -faciliteit, in coördinatenstelsel WGS84 (EPSG: 4326)
-
-Sidenote: filter alle area's eruit die eerder dan either vandaag of 24 augustus 2020 eindigen. Zijn ongeveer ofwel 350 ofwel precies 465 entries. fun fact: de ingebouwde filterfunctie van RDW lijkt dit niet helemaal lekker te verwerken als ik ga voor 'toon alleen entries ná 07-11-2020'.
-
-#### Locaties coronateststraten
-
-_GGD,Adres,provincie,lng,lat_         
-
--   GGD       
--   Adres       
--   Provincie       
--   Longitude       
--   Latitude       
-
-**Aanname:** een aantal zullen niet genoeg parkeergelegenheid kunnen verschaffen.    
-
-### Schetsen
-
-Kaart, en nog een visualisatie in de vorm van een bar chart om de aantallen aan te geven    
-
-### Aanvullende Datasets
-
--   <https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-GEOMETRIE-GEBIED/nsk3-v9n7> (thanks to [Zekkie](https://github.com/ZekkieB) via [issue 9](https://github.com/deannabosschert/frontend-data/issues/9))
 
 ## ⚙️ Installatie
 
