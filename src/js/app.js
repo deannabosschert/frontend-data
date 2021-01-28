@@ -104,6 +104,7 @@ function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
         OpenAllYear: parking.OpenAllYear,
         ExitPossibleAllDay: parking.ExitPossibleAllDay
       }
+
       // console.log(esketit)
       return parkingData
     }
@@ -130,7 +131,6 @@ function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
 
   // const result2 =
   console.log(result)
-
 
   // console.log(gebiedRegeling_3)
   // const matches = gebiedRegeling_3.map(ding => {
