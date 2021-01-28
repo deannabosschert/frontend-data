@@ -4,5 +4,5 @@ export function mapDataPO(data) {
     AreaManagerId: item.AreaManagerId,
     OpenAllYear: item.OpenAllYear,
     ExitPossibleAllDay: item.ExitPossibleAllDay
-  }));
+  }))
 }

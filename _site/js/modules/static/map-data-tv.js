@@ -9,5 +9,5 @@ export function mapDataTV(data) {
     MinParkingInterruption: item.MinParkingInterruption,
     StartTimeTimeFrame: item.StartTimeTimeFrame,
     EndTimeTimeFrame: item.EndTimeTimeFrame
-  }));
+  }))
 }
