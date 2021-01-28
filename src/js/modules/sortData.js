@@ -5,7 +5,7 @@ export async function sortData(data) {
   return data.reduce(({start, end, both},curr) => ({
     start: unsafeStartTime(curr) ?  {
       ...start,
-      [curr.AreaManagerDesc]: start[curr.AreaManagerDesc] ? start[curr.AreaManagerDesc] + 1 : 1
+      [curr.AreaManagerDesc]: start[curr.AreaManagerDesc] ? start[curr.AreaManagerDesc] + 1 : 1 // wanneer de stad voorkomt in de data, doe dan +1. 
     } : start,
     end: unsafeEndTime(curr) ?  {
       ...end,

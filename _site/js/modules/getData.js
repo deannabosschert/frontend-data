@@ -11,7 +11,7 @@ const getData = {
     return new Promise((resolve, reject) => {
       console.log(query)
       // const source = queries.local.parkingOpen
-      const source = queries.local[query];
+      const source = queries.local[query]
       // if (window.localStorage.getItem("rdwData") === null) {
       // console.log("nog geen data in je localStorage, incoming!")
       const data = API.get(source)

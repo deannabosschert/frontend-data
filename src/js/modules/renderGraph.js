@@ -1,29 +1,27 @@
 const renderGraph = {
     barz: async (allData) => {
-
         console.log("render the yeets")
         console.log(allData)
-        // const amount = yeet.length
 
         function update(data) {
             const keys = Object.keys(data)
             const values = Object.values(data)
             const entries = Object.entries(data)
-            //set domain for the x axis
-            xScale.domain(keys);
-            //set domain for y axis
-            yScale.domain([0, d3.max(values)]).nice();
 
-            //get the width of each bar 
-            var barWidth = width / entries.length;
+            xScale.domain(keys) //x-as domein
+            yScale.domain([0, d3.max(values)]).nice() //y-as domein, .nice voor die mooie afronding en whitespace
 
-            //select all bars on the graph, take them out, and exit the previous data set. 
-            //then you can add/enter the new data set
+            var barWidth = width / entries.length // width per bar
+
+
+            // alle bars selecteren, eruit trekken en een evt vorige dataset eruit gooien
+            // daarna de dataset allData erin
             var bars = chart.selectAll(".bar")
                 .remove()
                 .exit()
                 .data(values)
-            //now actually give each rectangle the corresponding data
+
+            // data aan de bars binden
             bars.enter()
                 .append("rect")
                 .attr("class", "bar")
@@ -32,23 +30,22 @@ const renderGraph = {
                 })
                 .attr("y", yScale)
                 .attr("height", function (d) {
-                    return height - yScale(d);
+                    return height - yScale(d)
                 })
                 .attr("width", barWidth - 1)
-                .attr("fill", function () {
+                .attr("fill", function () { // vul de bars met de juiste kleuren bij de data
                     if (data === allData.start) {
-                        return "rgb(219, 91, 101)";
+                        return "rgb(219, 91, 101)"
                     } else if (data === allData.end) {
-                        return "rgb(96, 160, 212)";
+                        return "rgb(96, 160, 212)"
                     } else {
-                        return "rgb(147,112,219)";
+                        return "rgb(147,112,219)"
                     }
-                });
-            //left axis
-            chart.select('.y')
+                })
+            chart.select('.y') //linkeras
                 .call(yAxis)
-            //bottom axis
-            chart.select('.xAxis')
+
+            chart.select('.xAxis') //onderste as (x)
                 .attr("transform", "translate(0," + height + ")")
                 .call(xAxis)
                 .selectAll("text")
@@ -56,12 +53,12 @@ const renderGraph = {
                 .attr("dx", "-.8em")
                 .attr("dy", ".15em")
                 .attr("transform", function (d) {
-                    return "rotate(-65)";
-                });
+                    return "rotate(-65)"
+                })
 
-        } //end update
+        } //dat was 'm voor update
 
-        //functions for toggling between data
+        // toggelen tussen de datasoorten
         function change(value) {
             if (value === 'start')
                 update(allData.start)
@@ -70,40 +67,37 @@ const renderGraph = {
             else update(allData.both)
         }
 
-        //set up chart
+        //chartdimensies
         var margin = {
             top: 20,
             right: 20,
             bottom: 95,
             left: 50
-        };
-        var width = 800;
-        var height = 500;
+        }
+        var width = 800
+        var height = 500
 
         var chart = d3.select(".chart")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
-            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
 
         var xScale = d3.scaleBand()
-            .range([0, width]);
+            .range([0, width]) //stel de range in, beginnende bij 0
 
         var yScale = d3.scaleLinear()
-            .nice()
-            .range([height, 0]);
+            .nice() //mooimaak
+            .range([height, 0]) //stel de range in, beginnende bij 0
 
-        var xAxis = d3.axisBottom(xScale);
-        var yAxis = d3.axisLeft(yScale);
+        var xAxis = d3.axisBottom(xScale)
+        var yAxis = d3.axisLeft(yScale)
 
-        //set up axes
-        //left axis
-        chart.append("g")
+        chart.append("g") // linkeras
             .attr("class", "y axis")
             .call(yAxis)
 
-        //bottom axis
-        chart.append("g")
+        chart.append("g") //onderste as
             .attr("class", "xAxis")
             .attr("transform", "translate(0," + height + ")")
             .call(xAxis)
@@ -112,28 +106,27 @@ const renderGraph = {
             .attr("dx", "-.8em")
             .attr("dy", ".15em")
             .attr("transform", function (d) {
-                return "rotate(-65)";
-            });
+                return "rotate(-65)"
+            })
 
-        //add labels
-        chart
+        chart //label toevoegen: y-as
             .append("text")
             .attr("transform", "translate(-35," + (height + margin.bottom) / 2 + ") rotate(-90)")
             .style("font", "18px sans-serif")
-            .text("amount of conflicting parking spots");
+            .text("amount of conflicting parking spots")
 
-        chart
+        chart //label toevoegen: x-as
             .append("text")
             .attr("transform", "translate(" + (width / 2) + "," + (height + margin.bottom - 5) + ")")
             .attr('text-anchor', 'middle')
             .style("font", "18px sans-serif")
-            .text("Cities/Managers");
+            .text("Cities/Managers")
 
-        d3.select('.radio').selectAll('input').on('change', (_, i, list) =>
+        d3.select('.radio').selectAll('input').on('change', (_, i, list) => //basically een eventlistener
             change(list[i].value)
-        );
+        )
 
-        update(allData.both);
+        update(allData.both)
         return allData
     }
 }
