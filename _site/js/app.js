@@ -85,26 +85,26 @@ function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
     }
   })
 
-  const result2 = results.map(regeling => {
-    for (let tijdvak of parkingTijdvak_2) {
-      if (tijdvak.AreaManagerId == regeling.AreaManagerId) {
-        return {
-          AreaId: regeling.AreaId,
-          AreaManagerId: regeling.AreaManagerId,
-          RegulationId: regeling.RegulationId
-        }
-      }
-      const tijdvakData = {
-        AreaId: regeling.AreaId,
-        AreaManagerId: regeling.AreaManagerId,
-        RegulationId: regeling.RegulationId,
-        OpenAllYear: regeling.OpenAllYear,
-        ExitPossibleAllDay: regeling.ExitPossibleAllDay
-      }
+  // const result2 = results.map(regeling => {
+  //   for (let tijdvak of parkingTijdvak_2) {
+  //     if (tijdvak.AreaManagerId == regeling.AreaManagerId) {
+  //       return {
+  //         AreaId: regeling.AreaId,
+  //         AreaManagerId: regeling.AreaManagerId,
+  //         RegulationId: regeling.RegulationId
+  //       }
+  //     }
+  //     const tijdvakData = {
+  //       AreaId: regeling.AreaId,
+  //       AreaManagerId: regeling.AreaManagerId,
+  //       RegulationId: regeling.RegulationId,
+  //       OpenAllYear: regeling.OpenAllYear,
+  //       ExitPossibleAllDay: regeling.ExitPossibleAllDay
+  //     }
 
-      return tijdvakData
-    }
-  })
+  //     return tijdvakData
+  //   }
+  // })
 
   const result3 = parkingTijdvak_2.map(regeling => { ///deze doen aangezien deze set de meeste data bevat en herhalende id's heeft ivm dagen vd week
     for (let result of results) {
@@ -146,9 +146,7 @@ function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3) {
     }
   })
   
-  console.log(results)
-  console.log(result2)
-  console.log(result3)
+  console.table(result3)
 
   // console.log(gebiedRegeling_3)
   // const matches = gebiedRegeling_3.map(ding => {
