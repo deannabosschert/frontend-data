@@ -55,70 +55,41 @@ export function combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3, g
       }
     })
 
-    function zelfde(data) {
+    function addCity(data) {
       for (let element of gebiedLocatie_4) {
-        // console.log(element);
-     if (data.AreaManagerId == element.AreaManagerId) {
-       console.log(element.AreaManagerDesc)
+        if (data.AreaManagerId == element.AreaManagerId) {
+          console.log(element.AreaManagerDesc)
           return {
             AreaManagerId: data.AreaManagerId,
             AreaManagerDesc: element.AreaManagerDesc
           }
         }
-        const nieuw = {
+        const finalData = {
           AreaManagerId: data.AreaManagerId,
-          AreaManagerDesc: element.AreaManagerDesc
-
+          AreaManagerDesc: element.AreaManagerDesc,
+          AreaId: data.AreaId,
+          AreaManagerId: data.AreaManagerId,
+          AreaManagerDesc: result.AreaManagerDesc,
+          RegulationId: data.RegulationId,
+          OpenAllYear: data.OpenAllYear,
+          ExitPossibleAllDay: data.ExitPossibleAllDay,
+          AreaManagerId: data.AreaManagerId,
+          RegulationId: data.RegulationId,
+          StartDateTimeFrame: data.StartDateTimeFrame,
+          EndDateTimeFrame: data.EndDateTimeFrame,
+          DayTimeFrame: data.DayTimeFrame,
+          FareCalculationCode: data.FareCalculationCode,
+          MinParkingInterruption: data.MinParkingInterruption,
+          StartTimeTimeFrame: data.StartTimeTimeFrame,
+          EndTimeTimeFrame: data.EndTimeTimeFrame
         }
 
-        return nieuw
+        return finalData
       }
 
     }
-    const allData = dataSets.filter(zelfde)
-    console.log(allData)
+    // const allData = dataSets.filter(addCity)
 
-    // const allData = dataSets.filter(regeling => {
-    //   for (let result of gebiedLocatie_4) {
-    //     // if (regeling.AreaManagerId) {
-    //       console.log(result.AreaManagerId)
-    //       // return {
-    //       //   AreaId: regeling.AreaId,
-    //       //   AreaManagerId: regeling.AreaManagerId,
-    //       //   AreaManagerDesc: result.AreaManagerDesc,
-    //       //   RegulationId: regeling.RegulationId,
-    //       //   OpenAllYear: regeling.OpenAllYear,
-    //       //   ExitPossibleAllDay: regeling.ExitPossibleAllDay,
-    //       //   StartDateTimeFrame: regeling.StartDateTimeFrame,
-    //       //   EndDateTimeFrame: regeling.EndDateTimeFrame,
-    //       //   DayTimeFrame: regeling.DayTimeFrame,
-    //       //   FareCalculationCode: regeling.FareCalculationCode,
-    //       //   MinParkingInterruption: regeling.MinParkingInterruption,
-    //       //   StartTimeTimeFrame: regeling.StartTimeTimeFrame,
-    //       //   EndTimeTimeFrame: regeling.EndTimeTimeFrame
-    //       // }
-    //     // }
-    //     // return {
-    //     //   AreaId: regeling.AreaId,
-    //     //   AreaManagerId: regeling.AreaManagerId,
-    //     //   AreaManagerDesc: result.AreaManagerDesc,
-    //     //   RegulationId: regeling.RegulationId,
-    //     //   OpenAllYear: regeling.OpenAllYear,
-    //     //   ExitPossibleAllDay: regeling.ExitPossibleAllDay,
-    //     //   AreaManagerId: regeling.AreaManagerId,
-    //     //   RegulationId: regeling.RegulationId,
-    //     //   StartDateTimeFrame: regeling.StartDateTimeFrame,
-    //     //   EndDateTimeFrame: regeling.EndDateTimeFrame,
-    //     //   DayTimeFrame: regeling.DayTimeFrame,
-    //     //   FareCalculationCode: regeling.FareCalculationCode,
-    //     //   MinParkingInterruption: regeling.MinParkingInterruption,
-    //     //   StartTimeTimeFrame: regeling.StartTimeTimeFrame,
-    //     //   EndTimeTimeFrame: regeling.EndTimeTimeFrame
-    //     // }
-    //   }
-    // })
-
-    // console.log(allData)
-    resolve(allData)
+    resolve(dataSets)
   })
 }
