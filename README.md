@@ -16,7 +16,8 @@ Clean deze data van tevoren.
 <details>
   <summary><strong>gif screencapture</strong> (klik om te tonen)</summary>
 
-![gif of website](https://github.com/deannabosschert/frontend-data/blob/trunk/_site/assets/img/screenshot_website.gif)
+![gif of website](https://github.com/deannabosschert/frontend-data/blob/trunk/assets/img/CleanShot%202021-01-28%20at%2017.38.29.gif)
+
 
 </details>
 
