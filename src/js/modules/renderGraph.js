@@ -59,7 +59,7 @@ const renderGraph = {
         // toggelen tussen de datasoorten
         function change(value) {
             if (value === 'start')
-                update(allData.start)
+                update(allData.start) //dus: zodra je op een radiobutton klikt, wordt change uitgevoerd, en die voert weer update uit
             else if (value === 'end')
                 update(allData.end)
             else update(allData.both)
