@@ -236,7 +236,6 @@ Zie mijn [wiki](https://github.com/deannabosschert/frontend-data/wiki) voor meer
 ### Rubric
 
 [Rubric- detailed rating of my project](https://github.com/deannabosschert/frontend-data/wiki/Rubric)
-![rubric](https://github.com/deannabosschert/frontend-data/blob/master/src/img/rubric.png)
 
 ## ℹ️ Resources
 
