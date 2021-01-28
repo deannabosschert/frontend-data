@@ -26,9 +26,6 @@ import {
   combineData
 } from "./modules/combineData.js"
 import {
-  cleanData
-} from "./modules/cleanData.js"
-import {
   sortData,
   filterTopTwenty
 } from "./modules/sortData.js"
@@ -52,7 +49,6 @@ let renderData
       .then(data => seeArrayLength(data))
 
       return renderData = await combineData(parkingOpen_1, parkingTijdvak_2, gebiedRegeling_3, gebiedLocatie_4)
-        // .then(data => cleanData(data))
         .then(data => sortData(data))
         .then(data => filterTopTwenty(data))
         .then(data => renderGraph.barz(data))
