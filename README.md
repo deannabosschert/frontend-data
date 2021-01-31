@@ -2,7 +2,7 @@
 
 ## Opdracht
 
-Creeër een datavisualisatie met d3, gebaseerd op RDW-data.
+Creeër een datavisualisatie met d3.js, gebaseerd op RDW-data.
 Clean deze data van tevoren.
 
 # Auto’s in de stad
